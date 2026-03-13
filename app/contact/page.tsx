@@ -102,7 +102,7 @@ export default function ContactPage() {
           </div>
         </div>
       </section>
-
+{/* sss 
       {/* Contact Form Section */}
       <section className="py-12 md:py-20 bg-background">
         <div className="max-w-7xl mx-auto px-4">
@@ -262,6 +262,7 @@ export default function ContactPage() {
       </section>
 
       {/* FAQ Section */}
+      {/*
       <section className="py-12 md:py-20 bg-muted/30">
         <div className="max-w-7xl mx-auto px-4">
           <div className="text-center mb-10">
@@ -297,6 +298,7 @@ export default function ContactPage() {
           </div>
         </div>
       </section>
+      */}
 
       {/* Map Section Placeholder */}
       <section className="bg-muted h-64 md:h-96 flex items-center justify-center">

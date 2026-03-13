@@ -105,12 +105,13 @@ export default function ProductsPage() {
           <div className="max-w-7xl mx-auto px-4">
             <div className={`flex flex-col ${index % 2 === 1 ? 'md:flex-row-reverse' : 'md:flex-row'} items-center gap-8 md:gap-16`}>
               <div className="w-full md:w-1/2">
-                <div className="relative aspect-square overflow-hidden bg-muted">
+                <div className="bg-muted p-4">
                   <Image
                     src={product.image}
                     alt={product.name}
-                    fill
-                    className="object-cover"
+                    width={800}
+                    height={800}
+                    className="w-full h-auto object-contain"
                   />
                 </div>
               </div>

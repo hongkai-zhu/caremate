@@ -35,7 +35,25 @@ const featuredProducts = [
 
 export default function HomePage() {
   return (
+    
     <div className="min-h-screen">
+      {/* Top Catalogue Bar */}
+      <section className="bg-foreground text-background">
+        <div className="max-w-7xl mx-auto px-4 py-3 flex flex-col sm:flex-row items-center justify-between gap-3 text-sm">
+          <p className="font-medium">
+            Explore our latest product catalogue
+          </p>
+          <Link
+            href="/files/catalogue.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center px-4 py-2 bg-primary text-primary-foreground hover:bg-primary/90 transition-colors"
+          >
+            View Catalogue <ArrowRight className="w-4 h-4 ml-2" />
+          </Link>
+        </div>
+      </section>
+      
       {/* Hero Section */}
       <section className="relative">
         <div className="relative h-[200px] md:h-[500px] lg:h-[550px]">

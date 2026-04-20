@@ -44,7 +44,7 @@ export default function HomePage() {
             Explore our latest product catalogue
           </p>
           <Link
-            href="/files/catalogue.pdf"
+            href="/files/maincatalogue.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center px-4 py-2 bg-primary text-primary-foreground hover:bg-primary/90 transition-colors"

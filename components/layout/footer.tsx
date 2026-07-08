@@ -1,11 +1,10 @@
 import Link from "next/link"
-import { MapPin, Mail, Phone, FileText, HelpCircle, Download, Facebook, Linkedin, Instagram } from "lucide-react"
+import { MapPin, Mail, Phone, HelpCircle, Download, Facebook, Linkedin, Instagram } from "lucide-react"
 
 const quickLinks = [
   { name: "Contact Us", href: "/contact", icon: MapPin },
-  { name: "Product Registration", href: "/contact", icon: Mail },
   { name: "FAQs", href: "/contact", icon: HelpCircle },
-  { name: "Download Manuals", href: "/products", icon: Download },
+  { name: "Download Catalogue", href: "/files/maincatalogue.pdf", icon: Download, external: true },
 ]
 
 const footerLinks = [
@@ -20,11 +19,13 @@ export function Footer() {
       {/* Quick Links Section */}
       <div className="border-b border-border">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
+          <div className="grid grid-cols-1 sm:grid-cols-3 gap-6">
             {quickLinks.map((link) => (
               <Link
                 key={link.name}
                 href={link.href}
+                target={link.external ? "_blank" : undefined}
+                rel={link.external ? "noopener noreferrer" : undefined}
                 className="flex flex-col items-center gap-3 p-4 text-center hover:text-primary transition-colors group"
               >
                 <div className="w-12 h-12 rounded-full bg-primary flex items-center justify-center group-hover:bg-primary/90 transition-colors">

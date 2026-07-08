@@ -11,11 +11,11 @@ export const metadata: Metadata = {
 const products = [
   {
     id: "blood-pressure",
-    name: "Blood Pressure Monitors",
-    description: "Hospital-grade digital blood pressure monitors for clinical and home use. Featuring advanced oscillometric technology, large easy-read displays, and irregular heartbeat detection.",
+    name: "Aneroid Sphygmomanometers",
+    description: "Hospital-grade Aneroid Sphygmomanometers (mechanical blood pressure monitors) for clinical and home use. Featuring advanced oscillometric technology, large easy-read displays, and irregular heartbeat detection.",
     image: "/images/blood-pressure-monitor.jpg",
     features: [
-      "Digital oscillometric technology",
+      "Aneroid mechanism",
       "Irregular heartbeat detection",
       "Memory storage for multiple users",
       "Large backlit display",
@@ -24,7 +24,7 @@ const products = [
   },
   {
     id: "stethoscopes",
-    name: "Professional Stethoscopes",
+    name: "Stethoscopes",
     description: "Premium stethoscopes engineered for superior acoustic performance. Our cardiology and clinical series deliver exceptional sound quality for accurate diagnosis.",
     image: "/images/stethoscope.jpg",
     features: [

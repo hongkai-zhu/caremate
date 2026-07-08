@@ -11,14 +11,14 @@ const productCategories = [
 
 const featuredProducts = [
   {
-    title: "Blood Pressure Monitors",
-    description: "Our digital blood pressure monitors bring hospital-grade accuracy directly to your home. Featuring advanced measurement technology and thoughtful designs, Caremate monitors deliver fast, reliable, and stress-free readings.",
+    title: "Aneroid Sphygmomanometers",
+    description: "Our Aneroid Sphygmomanometers (mechanical blood pressure monitors) bring hospital-grade accuracy directly to your home. Featuring advanced measurement technology and thoughtful designs, Caremate monitors deliver fast, reliable, and stress-free readings.",
     image: "/images/blood-pressure-monitor.jpg",
     href: "/products#blood-pressure",
     reverse: false,
   },
   {
-    title: "Professional Stethoscopes",
+    title: "Stethoscopes",
     description: "Caremate stethoscopes are known globally for their unrivaled acoustics, rugged durability, and superb value. Our Cardiology Series are the best of the best. Learn what makes these instruments so special.",
     image: "/images/stethoscope.jpg",
     href: "/products#stethoscopes",
@@ -144,6 +144,28 @@ export default function HomePage() {
           </div>
         </section>
       ))}
+
+      {/* Resources Divider */}
+      <section className="bg-foreground text-background">
+        <div className="max-w-7xl mx-auto px-4 py-12 md:py-14">
+          <div className="grid grid-cols-1 md:grid-cols-[1fr_1.4fr] gap-8 md:gap-12 items-center">
+            <div>
+              <p className="text-xs uppercase tracking-widest text-background/70 mb-3">Insights & Resources</p>
+              <h3 className="text-2xl md:text-3xl font-light leading-tight">
+                Practical guidance for choosing and caring for medical devices.
+              </h3>
+            </div>
+            <div className="grid grid-cols-1 sm:grid-cols-3 gap-5">
+              {["Product Guidance", "Care Standards", "Support Resources"].map((item) => (
+                <div key={item} className="border-l border-background/30 pl-4">
+                  <span className="block text-sm font-medium">{item}</span>
+                  <span className="mt-3 block h-px w-12 bg-primary" />
+                </div>
+              ))}
+            </div>
+          </div>
+        </div>
+      </section>
 
       {/* About Company Section */}
       <section className="py-12 md:py-16 bg-muted/30">

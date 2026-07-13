@@ -3,7 +3,7 @@ import Link from "next/link"
 import { ArrowRight } from "lucide-react"
 
 const productCategories = [
-  /*{ name: "All Products", href: "/products" },*/
+  { name: "All Products", href: "/products" },
   { name: "Stethoscopes", href: "/products#stethoscopes" },
   { name: "Blood Pressure Monitors", href: "/products#blood-pressure" },
   { name: "Pressure Infusor Bags", href: "/products#pressure-infusor-bags" },
@@ -37,7 +37,7 @@ const featuredProducts = [
     description: "Our DVT compression sleeves feature a sleek, finished look with an extended design for optimal coverage. Function meets premium form, now available for all clinical applications.",
     image: "/images/dvt-sleeve.jpg",
     href: "/products#dvt-sleeves",
-    reverse: false,
+    reverse: true,
   },
 ]
 
@@ -85,7 +85,7 @@ export default function HomePage() {
         </div>
 
         {/* Category Links */}
-        <div className="bg-muted border-b border-border">
+        {/* <div className="bg-muted border-b border-border">
           <div className="max-w-7xl mx-auto px-4 py-4">
             <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
               {productCategories.map((category) => (
@@ -99,7 +99,7 @@ export default function HomePage() {
               ))}
             </div>
           </div>
-        </div>
+        </div>*/}
       </section>
 
       {/* About Company Section */}

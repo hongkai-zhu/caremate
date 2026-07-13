@@ -30,7 +30,7 @@ const aboutCategories = [
 
 const navItems = [
   { name: "Products", href: "/products", dropdown: productCategories },
-  { name: "Solutions", href: "/solutions", dropdown: solutionCategories },
+  //{ name: "Solutions", href: "/solutions", dropdown: solutionCategories },
   { name: "About", href: "/about", dropdown: aboutCategories },
   { name: "Contact", href: "/contact", dropdown: null },
 ]

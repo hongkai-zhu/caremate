@@ -3,9 +3,10 @@ import Link from "next/link"
 import { ArrowRight } from "lucide-react"
 
 const productCategories = [
-  { name: "All Products", href: "/products" },
+  /*{ name: "All Products", href: "/products" },*/
   { name: "Stethoscopes", href: "/products#stethoscopes" },
-  { name: "Blood Pressure", href: "/products#blood-pressure" },
+  { name: "Blood Pressure Monitors", href: "/products#blood-pressure" },
+  { name: "Pressure Infusor Bags", href: "/products#pressure-infusor-bags" },
   { name: "DVT Sleeves", href: "/products#dvt-sleeves" },
 ]
 
@@ -23,6 +24,13 @@ const featuredProducts = [
     image: "/images/stethoscope.jpg",
     href: "/products#stethoscopes",
     reverse: true,
+  },
+  {
+    title: "Pressure Infusor Bags",
+    description: "Our pressure infusor bags are designed for fast, controlled fluid delivery in emergency, surgical, and critical care settings. Built with durable materials and an easy-to-read pressure gauge, they provide reliable performance for a wide range of clinical applications.",
+    image: "/images/pressure-infusor-bag.jpg",
+    href: "/products#pressure-infusor-bags",
+    reverse: false,
   },
   {
     title: "DVT Prevention Sleeves",
@@ -94,6 +102,39 @@ export default function HomePage() {
         </div>
       </section>
 
+      {/* About Company Section */}
+      <section className="py-12 md:py-16 bg-muted/30">
+        <div className="max-w-7xl mx-auto px-4">
+          <div className="flex flex-col md:flex-row items-center gap-8 md:gap-12">
+            <div className="w-full md:w-1/2">
+              <div className="relative aspect-[4/3] overflow-hidden">
+                <Image
+                  src="/images/about-company.jpg"
+                  alt="Caremate Medical Device manufacturing facility"
+                  fill
+                  className="object-cover"
+                />
+              </div>
+            </div>
+            <div className="w-full md:w-1/2">
+              <p className="text-xs uppercase tracking-widest text-primary mb-2">About Us</p>
+              <h3 className="text-xl md:text-2xl font-medium text-foreground mb-4">We Are Caremate Medical Device</h3>
+              <p className="text-muted-foreground leading-relaxed mb-6">
+                Caremate was an early pioneer of a global production model, sourcing components from the world&apos;s leading 
+                ISO 9000 manufacturers then hand-fabricating domestically. Today, more than 50% of our products are 
+                assembled, tested, and packaged in our state-of-the-art facility.
+              </p>
+              <Link
+                href="/about"
+                className="inline-block px-8 py-3 bg-primary text-primary-foreground text-sm font-medium hover:bg-primary/90 transition-colors"
+              >
+                Learn more <ArrowRight className="inline-block w-4 h-4 ml-1" />
+              </Link>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* Featured Section Header */}
       <section className="py-12 md:py-16 bg-muted/30">
         <div className="max-w-7xl mx-auto px-4 text-center">
@@ -111,6 +152,28 @@ export default function HomePage() {
           >
             Learn more <ArrowRight className="inline-block w-4 h-4 ml-1" />
           </Link>
+        </div>
+      </section>
+
+      {/* Resources Divider */}
+      <section className="bg-foreground text-background">
+        <div className="max-w-7xl mx-auto px-4 py-12 md:py-14">
+          <div className="grid grid-cols-1 md:grid-cols-[1fr_1.4fr] gap-8 md:gap-12 items-center">
+            <div>
+              <p className="text-xs uppercase tracking-widest text-background/70 mb-3">Insights & Resources</p>
+              <h3 className="text-2xl md:text-3xl font-light leading-tight">
+                Practical guidance for choosing and caring for medical devices.
+              </h3>
+            </div>
+            <div className="grid grid-cols-1 sm:grid-cols-3 gap-5">
+              {["Product Guidance", "Care Standards", "Support Resources"].map((item) => (
+                <div key={item} className="border-l border-background/30 pl-4">
+                  <span className="block text-sm font-medium">{item}</span>
+                  <span className="mt-3 block h-px w-12 bg-primary" />
+                </div>
+              ))}
+            </div>
+          </div>
         </div>
       </section>
 
@@ -145,63 +208,12 @@ export default function HomePage() {
         </section>
       ))}
 
-      {/* Resources Divider */}
-      <section className="bg-foreground text-background">
-        <div className="max-w-7xl mx-auto px-4 py-12 md:py-14">
-          <div className="grid grid-cols-1 md:grid-cols-[1fr_1.4fr] gap-8 md:gap-12 items-center">
-            <div>
-              <p className="text-xs uppercase tracking-widest text-background/70 mb-3">Insights & Resources</p>
-              <h3 className="text-2xl md:text-3xl font-light leading-tight">
-                Practical guidance for choosing and caring for medical devices.
-              </h3>
-            </div>
-            <div className="grid grid-cols-1 sm:grid-cols-3 gap-5">
-              {["Product Guidance", "Care Standards", "Support Resources"].map((item) => (
-                <div key={item} className="border-l border-background/30 pl-4">
-                  <span className="block text-sm font-medium">{item}</span>
-                  <span className="mt-3 block h-px w-12 bg-primary" />
-                </div>
-              ))}
-            </div>
-          </div>
-        </div>
-      </section>
+      
 
-      {/* About Company Section */}
-      <section className="py-12 md:py-16 bg-muted/30">
-        <div className="max-w-7xl mx-auto px-4">
-          <div className="flex flex-col md:flex-row items-center gap-8 md:gap-12">
-            <div className="w-full md:w-1/2">
-              <div className="relative aspect-[4/3] overflow-hidden">
-                <Image
-                  src="/images/about-company.jpg"
-                  alt="Caremate Medical Device manufacturing facility"
-                  fill
-                  className="object-cover"
-                />
-              </div>
-            </div>
-            <div className="w-full md:w-1/2">
-              <p className="text-xs uppercase tracking-widest text-primary mb-2">About Us</p>
-              <h3 className="text-xl md:text-2xl font-medium text-foreground mb-4">We Are Caremate Medical Device</h3>
-              <p className="text-muted-foreground leading-relaxed mb-6">
-                Caremate was an early pioneer of a global production model, sourcing components from the world&apos;s leading 
-                ISO 9000 manufacturers then hand-fabricating domestically. Today, more than 50% of our products are 
-                assembled, tested, and packaged in our state-of-the-art facility.
-              </p>
-              <Link
-                href="/about"
-                className="inline-block px-8 py-3 bg-primary text-primary-foreground text-sm font-medium hover:bg-primary/90 transition-colors"
-              >
-                Learn more <ArrowRight className="inline-block w-4 h-4 ml-1" />
-              </Link>
-            </div>
-          </div>
-        </div>
-      </section>
+      
 
       {/* Product Catalog CTA */}
-      <section className="py-12 md:py-16 bg-background">
+      {/* <section className="py-12 md:py-16 bg-background">
         <div className="max-w-7xl mx-auto px-4">
           <div className="flex flex-col md:flex-row items-center gap-8 md:gap-12">
             <div className="w-full md:w-1/2">
@@ -254,7 +266,7 @@ export default function HomePage() {
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
 
       {/* Quick Info Cards */}
       <section className="py-12 md:py-16 bg-muted/30">

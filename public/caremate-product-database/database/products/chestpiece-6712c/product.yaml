@@ -1,0 +1,25 @@
+schemaVersion: 1
+id: chestpiece-6712c
+slug: chestpiece-6712c
+status: draft
+reviewStatus: source-verified
+category: stethoscope-accessories
+subcategory: chestpieces
+name:
+  en: Colored Dual-head chestpiece for adult
+variants:
+- sku: 6712C
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Colored Dual-head chestpiece for adult (6712C)
+  modelSkus:
+  - 6712C
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 950

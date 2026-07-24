@@ -1,0 +1,25 @@
+schemaVersion: 1
+id: chestpiece-6718
+slug: chestpiece-6718
+status: draft
+reviewStatus: source-verified
+category: stethoscope-accessories
+subcategory: chestpieces
+name:
+  en: Acrylic chestpiece
+variants:
+- sku: '6718'
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Acrylic chestpiece (6718)
+  modelSkus:
+  - '6718'
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 1040

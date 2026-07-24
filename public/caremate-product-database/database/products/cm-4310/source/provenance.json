@@ -1,0 +1,32 @@
+{
+  "document": "Catalogue of Caremate 506.pdf",
+  "pdfPage": 8,
+  "cataloguePages": [
+    21
+  ],
+  "textExtraction": "300-dpi OCR with visual verification",
+  "notes": [
+    "Display title normalized from the catalogue phrase “For pregnancy use”; the source does not print a standalone product title."
+  ],
+  "productId": "cm-4310",
+  "imageSources": [
+    {
+      "pdfPage": 8,
+      "ordinal": 1,
+      "xref": 153,
+      "sourcePixelDimensions": [
+        512,
+        546
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-08_img-01_xref-153.webp",
+      "productFile": "images/hero.webp",
+      "modelSkus": [
+        "CM-4310"
+      ]
+    }
+  ],
+  "sourceTextPolicy": "Catalogue wording is preserved, including verified source typos. Line-wrap artifacts were removed. No unsupported model-to-image relationship was invented.",
+  "pdfPages": [
+    8
+  ]
+}

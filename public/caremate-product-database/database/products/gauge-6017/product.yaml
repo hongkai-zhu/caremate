@@ -1,0 +1,29 @@
+schemaVersion: 1
+id: gauge-6017
+slug: gauge-6017
+status: draft
+reviewStatus: source-verified
+category: blood-pressure-accessories
+subcategory: gauges
+name:
+  en: Sphygmomanometer Gauge
+variants:
+- sku: '6017'
+description:
+  en: ''
+features:
+  en:
+  - Luminescent faceplate
+  - (140g)
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Sphygmomanometer Gauge (6017)
+  modelSkus:
+  - '6017'
+  sourceType: catalogue-extracted
+editorialNotes:
+- Generic display title inferred from the pictured product type; the catalogue prints only the model code
+  and specifications.
+sortOrder: 550

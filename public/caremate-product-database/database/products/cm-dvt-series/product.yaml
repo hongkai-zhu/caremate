@@ -1,0 +1,63 @@
+schemaVersion: 1
+id: cm-dvt-series
+slug: cm-dvt-series
+status: draft
+reviewStatus: source-verified-shared-images
+category: compression-therapy
+subcategory: dvt-compression-sleeves
+name:
+  en: Deep Vein Thrombosis Compression Sleeve
+variants:
+- sku: CM-DVTMD
+- sku: CM-DVTM2
+- sku: CM-DVTMSQ
+description:
+  en: ''
+features:
+  en:
+  - Portable pneumatic-compression system that mimics natural muscle-pump action to enhance limb blood
+    flow and help prevent DVT
+  - Non-invasive therapy suitable for both home and clinical use
+  - Promotes venous return and overall circulation
+  - Helps reduce post-operative pain and swelling
+  - Accelerates wound-healing time
+  - Adjunctive treatment for stasis dermatitis, venous stasis ulcers, arterial & diabetic leg ulcers
+  - Relieves chronic venous insufficiency and lowers limb-edema levels
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Deep Vein Thrombosis Compression Sleeve — catalogue family view
+  sourceType: catalogue-extracted
+- role: gallery
+  file: images/gallery-02.webp
+  alt:
+    en: Deep Vein Thrombosis Compression Sleeve — catalogue family view
+  sourceType: catalogue-extracted
+- role: gallery
+  file: images/gallery-03.webp
+  alt:
+    en: Deep Vein Thrombosis Compression Sleeve — catalogue family view
+  sourceType: catalogue-extracted
+- role: gallery
+  file: images/gallery-04.webp
+  alt:
+    en: Deep Vein Thrombosis Compression Sleeve — catalogue family view
+  sourceType: catalogue-extracted
+- role: gallery
+  file: images/gallery-05.webp
+  alt:
+    en: Deep Vein Thrombosis Compression Sleeve — catalogue family view
+  sourceType: catalogue-extracted
+- role: gallery
+  file: images/gallery-06.webp
+  alt:
+    en: Deep Vein Thrombosis Compression Sleeve — catalogue family view
+  sourceType: catalogue-extracted
+- role: gallery
+  file: images/gallery-07.webp
+  alt:
+    en: Deep Vein Thrombosis Compression Sleeve — catalogue family view
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 190

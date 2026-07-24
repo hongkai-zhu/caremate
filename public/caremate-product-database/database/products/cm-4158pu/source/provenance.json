@@ -1,0 +1,58 @@
+{
+  "document": "Catalogue of Caremate 506.pdf",
+  "pdfPage": 6,
+  "cataloguePages": [
+    17
+  ],
+  "textExtraction": "300-dpi OCR with visual verification",
+  "notes": [],
+  "productId": "cm-4158pu",
+  "imageSources": [
+    {
+      "pdfPage": 6,
+      "ordinal": 3,
+      "xref": 136,
+      "sourcePixelDimensions": [
+        492,
+        521
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-06_img-03_xref-136.webp",
+      "productFile": "images/hero.webp",
+      "modelSkus": [
+        "CM-4158PU"
+      ]
+    },
+    {
+      "pdfPage": 6,
+      "ordinal": 4,
+      "xref": 137,
+      "sourcePixelDimensions": [
+        256,
+        123
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-06_img-04_xref-137.webp",
+      "productFile": "images/gallery-02.webp",
+      "modelSkus": [
+        "CM-4158PU"
+      ]
+    },
+    {
+      "pdfPage": 6,
+      "ordinal": 5,
+      "xref": 138,
+      "sourcePixelDimensions": [
+        256,
+        134
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-06_img-05_xref-138.webp",
+      "productFile": "images/gallery-03.webp",
+      "modelSkus": [
+        "CM-4158PU"
+      ]
+    }
+  ],
+  "sourceTextPolicy": "Catalogue wording is preserved, including verified source typos. Line-wrap artifacts were removed. No unsupported model-to-image relationship was invented.",
+  "pdfPages": [
+    6
+  ]
+}

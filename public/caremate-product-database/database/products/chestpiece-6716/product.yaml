@@ -1,0 +1,25 @@
+schemaVersion: 1
+id: chestpiece-6716
+slug: chestpiece-6716
+status: draft
+reviewStatus: source-verified
+category: stethoscope-accessories
+subcategory: chestpieces
+name:
+  en: Dual-head for infant
+variants:
+- sku: '6716'
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Dual-head for infant (6716)
+  modelSkus:
+  - '6716'
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 1020

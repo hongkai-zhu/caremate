@@ -1,0 +1,73 @@
+schemaVersion: 1
+id: nylon-calibrated-cuff-series
+slug: nylon-calibrated-cuff-series
+status: draft
+reviewStatus: source-verified-family-images
+category: blood-pressure-accessories
+subcategory: blood-pressure-cuffs
+name:
+  en: Nylon Calibrated Cuff
+variants:
+- sku: '6211'
+  label:
+    en: Below 1 year old
+  specifications:
+    en:
+    - 250 x 45mm
+    - newborn
+- sku: '6212'
+  label:
+    en: 1-4 years old
+  specifications:
+    en:
+    - 330 x 50mm
+    - Infant
+- sku: '6213'
+  label:
+    en: 5-9 years old
+  specifications:
+    en:
+    - 380 x 70mm
+    - small adult
+- sku: '6214'
+  label:
+    en: 10-16 years old
+  specifications:
+    en:
+    - 450 x 105mm
+    - child
+- sku: '6215'
+  label:
+    en: Adult
+  specifications:
+    en:
+    - 500 x 140mm
+- sku: '6216'
+  label:
+    en: Large Adult
+  specifications:
+    en:
+    - 620 x 170mm
+- sku: '6217'
+  label:
+    en: Thigh
+  specifications:
+    en:
+    - 770 x 185mm
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Nylon Calibrated Cuff — catalogue family view
+  sourceType: catalogue-extracted
+- role: gallery
+  file: images/gallery-02.webp
+  alt:
+    en: Nylon Calibrated Cuff — catalogue family view
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 640

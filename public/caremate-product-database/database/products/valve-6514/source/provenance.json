@@ -1,0 +1,30 @@
+{
+  "document": "Catalogue of Caremate 506.pdf",
+  "pdfPage": 13,
+  "cataloguePages": [
+    31
+  ],
+  "textExtraction": "native PDF text with visual verification",
+  "notes": [],
+  "productId": "valve-6514",
+  "imageSources": [
+    {
+      "pdfPage": 13,
+      "ordinal": 40,
+      "xref": 271,
+      "sourcePixelDimensions": [
+        298,
+        306
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-40_xref-271.webp",
+      "productFile": "images/hero.webp",
+      "modelSkus": [
+        "6514"
+      ]
+    }
+  ],
+  "sourceTextPolicy": "Catalogue wording is preserved, including verified source typos. Line-wrap artifacts were removed. No unsupported model-to-image relationship was invented.",
+  "pdfPages": [
+    13
+  ]
+}

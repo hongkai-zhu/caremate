@@ -1,0 +1,26 @@
+schemaVersion: 1
+id: gauge-6018
+slug: gauge-6018
+status: draft
+reviewStatus: source-verified
+category: blood-pressure-accessories
+subcategory: gauge-guards
+name:
+  en: Guage Guard
+variants:
+- sku: '6018'
+description:
+  en: Rubber Protective Ring
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Guage Guard (6018)
+  modelSkus:
+  - '6018'
+  sourceType: catalogue-extracted
+editorialNotes:
+- 'Catalogue spelling retained: Guage.'
+sortOrder: 560

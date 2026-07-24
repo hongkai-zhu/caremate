@@ -1,0 +1,25 @@
+schemaVersion: 1
+id: chestpiece-6711n
+slug: chestpiece-6711n
+status: draft
+reviewStatus: source-verified
+category: stethoscope-accessories
+subcategory: chestpieces
+name:
+  en: Single-head chestpiece for adult,Non-chill rim
+variants:
+- sku: 6711N
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Single-head chestpiece for adult,Non-chill rim (6711N)
+  modelSkus:
+  - 6711N
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 920

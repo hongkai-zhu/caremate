@@ -1,0 +1,29 @@
+schemaVersion: 1
+id: cm-1621
+slug: cm-1621
+status: draft
+reviewStatus: source-verified
+category: blood-pressure-monitoring
+subcategory: aneroid-sphygmomanometers
+name:
+  en: Professional Sphygmomanometer
+variants:
+- sku: CM-1621
+description:
+  en: ''
+features:
+  en:
+  - Manometer calibrated from 0-300mmHg with NON STOP PIN
+  - Adult velcro cotton cuff with D-ring
+  - Standard latex inflation system and air release valve with spring
+  - Standard model in vinyl zipper case
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Professional Sphygmomanometer (CM-1621)
+  modelSkus:
+  - CM-1621
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 20

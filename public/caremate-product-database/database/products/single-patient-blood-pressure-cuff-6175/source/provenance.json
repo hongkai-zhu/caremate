@@ -1,0 +1,30 @@
+{
+  "document": "Catalogue of Caremate 506.pdf",
+  "pdfPage": 11,
+  "cataloguePages": [
+    28
+  ],
+  "textExtraction": "300-dpi OCR with visual verification",
+  "notes": [],
+  "productId": "single-patient-blood-pressure-cuff-6175",
+  "imageSources": [
+    {
+      "pdfPage": 11,
+      "ordinal": 12,
+      "xref": 196,
+      "sourcePixelDimensions": [
+        587,
+        362
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-11_img-12_xref-196.webp",
+      "productFile": "images/hero.webp",
+      "modelSkus": [
+        "6175"
+      ]
+    }
+  ],
+  "sourceTextPolicy": "Catalogue wording is preserved, including verified source typos. Line-wrap artifacts were removed. No unsupported model-to-image relationship was invented.",
+  "pdfPages": [
+    11
+  ]
+}

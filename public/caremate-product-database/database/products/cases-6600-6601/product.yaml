@@ -1,0 +1,31 @@
+schemaVersion: 1
+id: cases-6600-6601
+slug: cases-6600-6601
+status: draft
+reviewStatus: source-verified-shared-image
+category: blood-pressure-accessories
+subcategory: carrying-cases
+name:
+  en: Vinyl Zipper Case
+variants:
+- sku: '6600'
+  label:
+    en: for sphygmomanometer
+- sku: '6601'
+  label:
+    en: for home blood pressure kit
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Vinyl Zipper Case (6600, 6601)
+  modelSkus:
+  - '6600'
+  - '6601'
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 850

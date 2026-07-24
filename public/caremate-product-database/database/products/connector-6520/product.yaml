@@ -1,0 +1,32 @@
+schemaVersion: 1
+id: connector-6520
+slug: connector-6520
+status: draft
+reviewStatus: source-verified
+category: blood-pressure-accessories
+subcategory: connectors
+name:
+  en: Plastic Male-Female Luer Connector
+variants:
+- sku: '6520'
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Plastic Male-Female Luer Connector (6520)
+  modelSkus:
+  - '6520'
+  sourceType: catalogue-extracted
+- role: detail
+  file: images/gallery-02.webp
+  alt:
+    en: Plastic Male-Female Luer Connector (6520)
+  modelSkus:
+  - '6520'
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 830

@@ -1,0 +1,25 @@
+schemaVersion: 1
+id: chestpiece-6726
+slug: chestpiece-6726
+status: draft
+reviewStatus: source-verified
+category: stethoscope-accessories
+subcategory: chestpieces
+name:
+  en: Deluxe cardiology head(Zinc)
+variants:
+- sku: '6726'
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Deluxe cardiology head(Zinc) (6726)
+  modelSkus:
+  - '6726'
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 1120

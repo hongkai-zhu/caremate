@@ -1,0 +1,25 @@
+schemaVersion: 1
+id: chestpiece-6723
+slug: chestpiece-6723
+status: draft
+reviewStatus: source-verified
+category: stethoscope-accessories
+subcategory: chestpieces
+name:
+  en: Super Fetal head
+variants:
+- sku: '6723'
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Super Fetal head (6723)
+  modelSkus:
+  - '6723'
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 1090

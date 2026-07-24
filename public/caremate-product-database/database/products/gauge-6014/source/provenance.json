@@ -1,0 +1,39 @@
+{
+  "document": "Catalogue of Caremate 506.pdf",
+  "pdfPage": 10,
+  "cataloguePages": [
+    26
+  ],
+  "textExtraction": "300-dpi OCR with visual verification",
+  "notes": [
+    "Generic display title inferred from the pictured product type; the catalogue prints only the model code and specifications."
+  ],
+  "productId": "gauge-6014",
+  "imageSources": [
+    {
+      "pdfPage": 10,
+      "ordinal": 5,
+      "xref": 179,
+      "sourcePixelDimensions": [
+        418,
+        323
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-10_img-05_xref-179.webp",
+      "productFile": "images/hero.webp",
+      "normalizedCrop": [
+        0.5,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "note": "Individual product crop derived from a two-gauge source image.",
+      "modelSkus": [
+        "6014"
+      ]
+    }
+  ],
+  "sourceTextPolicy": "Catalogue wording is preserved, including verified source typos. Line-wrap artifacts were removed. No unsupported model-to-image relationship was invented.",
+  "pdfPages": [
+    10
+  ]
+}

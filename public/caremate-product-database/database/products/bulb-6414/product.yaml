@@ -1,0 +1,25 @@
+schemaVersion: 1
+id: bulb-6414
+slug: bulb-6414
+status: draft
+reviewStatus: source-verified
+category: blood-pressure-accessories
+subcategory: inflation-bulbs
+name:
+  en: Rubber Bulb with plastic end valve
+variants:
+- sku: '6414'
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Rubber Bulb with plastic end valve (6414)
+  modelSkus:
+  - '6414'
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 730

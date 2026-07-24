@@ -1,0 +1,41 @@
+schemaVersion: 1
+id: cm-4111-4211
+slug: cm-4111-4211
+status: draft
+reviewStatus: source-verified-shared-image
+category: stethoscopes
+subcategory: general-stethoscopes
+name:
+  en: Single Head Stethoscope
+variants:
+- sku: CM-4111
+  label:
+    en: Adult
+  specifications:
+    en:
+    - For adult,silver head(Oxidized & Anodized head for choice)
+    - Standard PVC Y-tubing
+    - Diameter of head:46mm
+- sku: CM-4211
+  label:
+    en: Child
+  specifications:
+    en:
+    - For child,silver head(Oxidized & Anodized head for choice)
+    - Standard PVC Y-tubing
+    - Diameter of head:33mm
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Single Head Stethoscope (CM-4111, CM-4211)
+  modelSkus:
+  - CM-4111
+  - CM-4211
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 200

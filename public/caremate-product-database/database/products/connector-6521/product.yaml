@@ -1,0 +1,25 @@
+schemaVersion: 1
+id: connector-6521
+slug: connector-6521
+status: draft
+reviewStatus: source-verified
+category: blood-pressure-accessories
+subcategory: connectors
+name:
+  en: Plastic Connector
+variants:
+- sku: '6521'
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Plastic Connector (6521)
+  modelSkus:
+  - '6521'
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 840

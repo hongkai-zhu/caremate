@@ -8,10 +8,12 @@ import Image from "next/image"
 
 const productCategories = [
   { name: "All Products", href: "/products" },
-  { name: "Blood Pressure Monitors", href: "/products#blood-pressure" },
-  { name: "Stethoscopes", href: "/products#stethoscopes" },
-  { name: "DVT Sleeves", href: "/products#dvt-sleeves" },
-  { name: "Infusion Pressure Bags", href: "/products#infusion-bags" },
+  { name: "Blood Pressure Monitoring", href: "/products/blood-pressure-monitoring" },
+  { name: "Compression Therapy", href: "/products/compression-therapy" },
+  { name: "Stethoscopes", href: "/products/stethoscopes" },
+  { name: "Blood Pressure Accessories", href: "/products/blood-pressure-accessories" },
+  { name: "Stethoscope Accessories", href: "/products/stethoscope-accessories" },
+  { name: "Patient Care", href: "/products/patient-care" },
 ]
 
 const solutionCategories = [

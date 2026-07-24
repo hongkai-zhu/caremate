@@ -1,0 +1,26 @@
+schemaVersion: 1
+id: infussion-pvc-bladder-6135
+slug: infussion-pvc-bladder-6135
+status: draft
+reviewStatus: source-verified-no-description
+category: blood-pressure-accessories
+subcategory: bladders
+name:
+  en: Infussion PVC Bladder
+variants:
+- sku: '6135'
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Infussion PVC Bladder (6135)
+  modelSkus:
+  - '6135'
+  sourceType: catalogue-extracted
+editorialNotes:
+- 'Catalogue spelling retained: Infussion.'
+sortOrder: 590

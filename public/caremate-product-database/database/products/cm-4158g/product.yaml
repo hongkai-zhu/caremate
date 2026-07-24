@@ -1,0 +1,29 @@
+schemaVersion: 1
+id: cm-4158g
+slug: cm-4158g
+status: draft
+reviewStatus: source-verified
+category: stethoscopes
+subcategory: sprague-rappaport-stethoscopes
+name:
+  en: Gold-plated Type
+variants:
+- sku: CM-4158G
+description:
+  en: ''
+features:
+  en:
+  - Outstanding acoustical quality heavy walled 22" tubes in many difference colors
+  - Includes five-in-one accessory kit
+  - Two extra pair of soft eartips
+  - Various colors available
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Gold-plated Type (CM-4158G)
+  modelSkus:
+  - CM-4158G
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 290

@@ -1,0 +1,32 @@
+schemaVersion: 1
+categories:
+  - id: blood-pressure-monitoring
+    name:
+      en: Blood Pressure Monitoring
+      zh: 血压监测产品
+    sortOrder: 10
+  - id: compression-therapy
+    name:
+      en: Compression Therapy
+      zh: 加压与循环治疗
+    sortOrder: 20
+  - id: stethoscopes
+    name:
+      en: Stethoscopes
+      zh: 听诊器
+    sortOrder: 30
+  - id: blood-pressure-accessories
+    name:
+      en: Blood Pressure Accessories
+      zh: 血压产品配件
+    sortOrder: 40
+  - id: stethoscope-accessories
+    name:
+      en: Stethoscope Accessories
+      zh: 听诊器配件
+    sortOrder: 50
+  - id: patient-care
+    name:
+      en: Patient Care
+      zh: 患者护理
+    sortOrder: 60

@@ -1,0 +1,26 @@
+schemaVersion: 1
+id: cm-4125
+slug: cm-4125
+status: draft
+reviewStatus: source-verified
+category: stethoscopes
+subcategory: deluxe-stethoscopes
+name:
+  en: Deluxe Dual Head Stethoscope
+variants:
+- sku: CM-4125
+description:
+  en: Feature a development new design aluminum alloy chestpiece,matching PVC Y-tubing,and non-chill rim,for
+    professional purpose.
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Deluxe Dual Head Stethoscope (CM-4125)
+  modelSkus:
+  - CM-4125
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 250

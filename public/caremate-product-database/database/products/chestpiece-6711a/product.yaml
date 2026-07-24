@@ -1,0 +1,25 @@
+schemaVersion: 1
+id: chestpiece-6711a
+slug: chestpiece-6711a
+status: draft
+reviewStatus: source-verified
+category: stethoscope-accessories
+subcategory: chestpieces
+name:
+  en: Single-head chestpiece for adult
+variants:
+- sku: 6711A
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Single-head chestpiece for adult (6711A)
+  modelSkus:
+  - 6711A
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 890

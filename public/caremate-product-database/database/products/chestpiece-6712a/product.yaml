@@ -1,0 +1,25 @@
+schemaVersion: 1
+id: chestpiece-6712a
+slug: chestpiece-6712a
+status: draft
+reviewStatus: source-verified
+category: stethoscope-accessories
+subcategory: chestpieces
+name:
+  en: Dual-head chestpiece for adult
+variants:
+- sku: 6712A
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Dual-head chestpiece for adult (6712A)
+  modelSkus:
+  - 6712A
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 930

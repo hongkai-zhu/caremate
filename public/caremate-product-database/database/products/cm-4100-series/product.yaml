@@ -1,0 +1,44 @@
+schemaVersion: 1
+id: cm-4100-series
+slug: cm-4100-series
+status: draft
+reviewStatus: source-verified-shared-copy
+category: stethoscopes
+subcategory: disposable-stethoscopes
+name:
+  en: Disposable Stethoscope
+variants:
+- sku: CM-4100A
+- sku: CM-4100B
+- sku: CM-4100C
+description:
+  en: ''
+features:
+  en:
+  - Features a plastic chestpiece and binaural
+  - Extra light-weight plastic scope is ideal for single patient use of children education purpose
+  - Color available
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Disposable Stethoscope (CM-4100A)
+  modelSkus:
+  - CM-4100A
+  sourceType: catalogue-extracted
+- role: gallery
+  file: images/gallery-02.webp
+  alt:
+    en: Disposable Stethoscope (CM-4100B)
+  modelSkus:
+  - CM-4100B
+  sourceType: catalogue-extracted
+- role: gallery
+  file: images/gallery-03.webp
+  alt:
+    en: Disposable Stethoscope (CM-4100C)
+  modelSkus:
+  - CM-4100C
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 470

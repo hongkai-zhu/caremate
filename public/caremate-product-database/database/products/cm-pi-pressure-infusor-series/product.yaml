@@ -1,0 +1,45 @@
+schemaVersion: 1
+id: cm-pi-pressure-infusor-series
+slug: cm-pi-pressure-infusor-series
+status: draft
+reviewStatus: source-verified-shared-images
+category: patient-care
+subcategory: pressure-infusors
+name:
+  en: Pressure Infusor for I.V. Bag
+variants:
+- sku: CM-PI500
+  specifications:
+    en:
+    - 500 ml
+- sku: CM-PI1000
+  specifications:
+    en:
+    - 1000 ml
+- sku: CM-PI3000
+  specifications:
+    en:
+    - 3000 ml
+description:
+  en: ''
+features:
+  en:
+  - Rapid, hand-pump pressure infuser (≤ 300 mmHg) with built-in gauge and 3-way stopcock for safe release
+  - Tough PVC/nylon sleeve with clear window; fits 500 ml, 1000 ml or 3000 ml bags and supports arterial-line
+    flushing
+  - Hook-and-loop closure and hang loop simplify use in ER, OR and critical care
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Pressure Infusor for I.V. Bag — catalogue family view
+  sourceType: catalogue-extracted
+- role: gallery
+  file: images/gallery-02.webp
+  alt:
+    en: Pressure Infusor for I.V. Bag — 1000 ml (CM-PI1000)
+  modelSkus:
+  - CM-PI1000
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 1160

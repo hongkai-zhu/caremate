@@ -1,0 +1,44 @@
+{
+  "document": "Catalogue of Caremate 506.pdf",
+  "pdfPage": 13,
+  "cataloguePages": [
+    31
+  ],
+  "textExtraction": "native PDF text with visual verification",
+  "notes": [],
+  "productId": "connector-6520",
+  "imageSources": [
+    {
+      "pdfPage": 13,
+      "ordinal": 42,
+      "xref": 273,
+      "sourcePixelDimensions": [
+        515,
+        224
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-42_xref-273.webp",
+      "productFile": "images/hero.webp",
+      "modelSkus": [
+        "6520"
+      ]
+    },
+    {
+      "pdfPage": 13,
+      "ordinal": 6,
+      "xref": 237,
+      "sourcePixelDimensions": [
+        873,
+        299
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-06_xref-237.webp",
+      "productFile": "images/gallery-02.webp",
+      "modelSkus": [
+        "6520"
+      ]
+    }
+  ],
+  "sourceTextPolicy": "Catalogue wording is preserved, including verified source typos. Line-wrap artifacts were removed. No unsupported model-to-image relationship was invented.",
+  "pdfPages": [
+    13
+  ]
+}

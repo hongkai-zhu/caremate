@@ -1,0 +1,25 @@
+schemaVersion: 1
+id: valve-6513
+slug: valve-6513
+status: draft
+reviewStatus: source-verified
+category: blood-pressure-accessories
+subcategory: valves
+name:
+  en: Premium air release valve with spring
+variants:
+- sku: '6513'
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Premium air release valve with spring (6513)
+  modelSkus:
+  - '6513'
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 760

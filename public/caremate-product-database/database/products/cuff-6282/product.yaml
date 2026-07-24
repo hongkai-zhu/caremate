@@ -1,0 +1,31 @@
+schemaVersion: 1
+id: cuff-6282
+slug: cuff-6282
+status: draft
+reviewStatus: source-verified
+category: blood-pressure-accessories
+subcategory: blood-pressure-cuffs
+name:
+  en: Calibrated nylon cuff with a ganci in metal
+variants:
+- sku: '6282'
+  label:
+    en: adult
+  specifications:
+    en:
+    - 500x140mm
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Calibrated nylon cuff with a ganci in metal (6282)
+  modelSkus:
+  - '6282'
+  sourceType: catalogue-extracted
+editorialNotes:
+- 'Catalogue wording retained: ganci in metal.'
+sortOrder: 670

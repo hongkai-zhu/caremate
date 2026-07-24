@@ -1,0 +1,37 @@
+{
+  "document": "Catalogue of Caremate 506.pdf",
+  "pdfPage": 12,
+  "cataloguePages": [
+    30
+  ],
+  "textExtraction": "300-dpi OCR with visual verification",
+  "notes": [],
+  "productId": "bulb-6414",
+  "imageSources": [
+    {
+      "pdfPage": 12,
+      "ordinal": 8,
+      "xref": 211,
+      "sourcePixelDimensions": [
+        732,
+        280
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-12_img-08_xref-211.webp",
+      "productFile": "images/hero.webp",
+      "normalizedCrop": [
+        0.75,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "note": "Individual product crop derived from a four-bulb source image.",
+      "modelSkus": [
+        "6414"
+      ]
+    }
+  ],
+  "sourceTextPolicy": "Catalogue wording is preserved, including verified source typos. Line-wrap artifacts were removed. No unsupported model-to-image relationship was invented.",
+  "pdfPages": [
+    12
+  ]
+}

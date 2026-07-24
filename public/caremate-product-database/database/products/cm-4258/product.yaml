@@ -1,0 +1,28 @@
+schemaVersion: 1
+id: cm-4258
+slug: cm-4258
+status: draft
+reviewStatus: source-verified
+category: stethoscopes
+subcategory: specialty-stethoscopes
+name:
+  en: Clock Stethoscope
+variants:
+- sku: CM-4258
+description:
+  en: ''
+features:
+  en:
+  - Clock dual head stethoscope
+  - Features internal spring binaural and PVC Y-tubing
+  - Chestpiece with a clock
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Clock Stethoscope (CM-4258)
+  modelSkus:
+  - CM-4258
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 300

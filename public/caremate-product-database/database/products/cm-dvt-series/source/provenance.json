@@ -1,0 +1,95 @@
+{
+  "document": "Catalogue of Caremate 506.pdf",
+  "pdfPage": 4,
+  "cataloguePages": [
+    10
+  ],
+  "textExtraction": "native PDF text with visual verification",
+  "notes": [
+    "The catalogue presents seven unlabeled sleeve photos for the three models and does not map a particular photo to a particular SKU."
+  ],
+  "productId": "cm-dvt-series",
+  "imageSources": [
+    {
+      "pdfPage": 4,
+      "ordinal": 3,
+      "xref": 86,
+      "sourcePixelDimensions": [
+        7008,
+        4672
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-04_img-03_xref-86.webp",
+      "productFile": "images/hero.webp"
+    },
+    {
+      "pdfPage": 4,
+      "ordinal": 4,
+      "xref": 88,
+      "sourcePixelDimensions": [
+        7008,
+        4672
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-04_img-04_xref-88.webp",
+      "productFile": "images/gallery-02.webp"
+    },
+    {
+      "pdfPage": 4,
+      "ordinal": 5,
+      "xref": 90,
+      "sourcePixelDimensions": [
+        7008,
+        4672
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-04_img-05_xref-90.webp",
+      "productFile": "images/gallery-03.webp"
+    },
+    {
+      "pdfPage": 4,
+      "ordinal": 10,
+      "xref": 95,
+      "sourcePixelDimensions": [
+        3718,
+        3718
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-04_img-10_xref-95.webp",
+      "productFile": "images/gallery-04.webp"
+    },
+    {
+      "pdfPage": 4,
+      "ordinal": 11,
+      "xref": 97,
+      "sourcePixelDimensions": [
+        3455,
+        3454
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-04_img-11_xref-97.webp",
+      "productFile": "images/gallery-05.webp"
+    },
+    {
+      "pdfPage": 4,
+      "ordinal": 12,
+      "xref": 99,
+      "sourcePixelDimensions": [
+        3247,
+        3246
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-04_img-12_xref-99.webp",
+      "productFile": "images/gallery-06.webp"
+    },
+    {
+      "pdfPage": 4,
+      "ordinal": 13,
+      "xref": 101,
+      "sourcePixelDimensions": [
+        3041,
+        3041
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-04_img-13_xref-101.webp",
+      "productFile": "images/gallery-07.webp"
+    }
+  ],
+  "sourceTextPolicy": "Catalogue wording is preserved, including verified source typos. Line-wrap artifacts were removed. No unsupported model-to-image relationship was invented.",
+  "pdfPages": [
+    4
+  ]
+}

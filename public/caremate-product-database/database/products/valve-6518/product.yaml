@@ -1,0 +1,25 @@
+schemaVersion: 1
+id: valve-6518
+slug: valve-6518
+status: draft
+reviewStatus: source-verified
+category: blood-pressure-accessories
+subcategory: valves
+name:
+  en: Standard end valve
+variants:
+- sku: '6518'
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Standard end valve (6518)
+  modelSkus:
+  - '6518'
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 810

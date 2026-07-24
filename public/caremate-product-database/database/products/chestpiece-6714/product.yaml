@@ -1,0 +1,25 @@
+schemaVersion: 1
+id: chestpiece-6714
+slug: chestpiece-6714
+status: draft
+reviewStatus: source-verified
+category: stethoscope-accessories
+subcategory: chestpieces
+name:
+  en: Oxidized Single Head Chestpiece
+variants:
+- sku: '6714'
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Oxidized Single Head Chestpiece (6714)
+  modelSkus:
+  - '6714'
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 1000

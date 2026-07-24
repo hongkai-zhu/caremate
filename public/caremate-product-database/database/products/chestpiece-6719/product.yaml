@@ -1,0 +1,25 @@
+schemaVersion: 1
+id: chestpiece-6719
+slug: chestpiece-6719
+status: draft
+reviewStatus: source-verified
+category: stethoscope-accessories
+subcategory: chestpieces
+name:
+  en: Stainless steel head for Cardiology
+variants:
+- sku: '6719'
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Stainless steel head for Cardiology (6719)
+  modelSkus:
+  - '6719'
+  sourceType: edited
+editorialNotes: []
+sortOrder: 1050

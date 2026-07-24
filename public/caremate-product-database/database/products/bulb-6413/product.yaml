@@ -1,0 +1,25 @@
+schemaVersion: 1
+id: bulb-6413
+slug: bulb-6413
+status: draft
+reviewStatus: source-verified
+category: blood-pressure-accessories
+subcategory: inflation-bulbs
+name:
+  en: Standard PVC Bulb with end valve
+variants:
+- sku: '6413'
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Standard PVC Bulb with end valve (6413)
+  modelSkus:
+  - '6413'
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 720

@@ -1,0 +1,25 @@
+schemaVersion: 1
+id: chestpiece-6711x
+slug: chestpiece-6711x
+status: draft
+reviewStatus: source-verified
+category: stethoscope-accessories
+subcategory: chestpieces
+name:
+  en: Single-head chestpiece for child
+variants:
+- sku: 6711X
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Single-head chestpiece for child (6711X)
+  modelSkus:
+  - 6711X
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 900

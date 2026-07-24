@@ -1,0 +1,29 @@
+schemaVersion: 1
+id: cm-4337
+slug: cm-4337
+status: draft
+reviewStatus: source-verified
+category: stethoscopes
+subcategory: professional-stethoscopes
+name:
+  en: Deluxe Cardilogy Clinical Stethoscope
+variants:
+- sku: CM-4337
+description:
+  en: Feature a stainless steel chestpiece with two retaining rims and two membrane for adult and pediatric,
+    stainless steel internal spring binaural for high acoustic sensitivity
+features:
+  en:
+  - 'Spare parts includes: 1 pair of comfortable firm eartips; 1 pair of soft screw-on eartips; 2 Membranes(adult
+    and pediatric)'
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Deluxe Cardilogy Clinical Stethoscope (CM-4337)
+  modelSkus:
+  - CM-4337
+  sourceType: catalogue-extracted
+editorialNotes:
+- 'Catalogue spelling retained: Cardilogy.'
+sortOrder: 460

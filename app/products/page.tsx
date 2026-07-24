@@ -1,178 +1,160 @@
+import type { Metadata } from "next"
 import Image from "next/image"
 import Link from "next/link"
-import { ArrowRight } from "lucide-react"
-import type { Metadata } from "next"
+import { ArrowRight, Download } from "lucide-react"
+
+import {
+  getCategoryContent,
+  getCategoryCoverProduct,
+  getHeroImage,
+  getProductImageSrc,
+  getSubcategories,
+  productCatalogueStats,
+  productCategories,
+} from "@/lib/products"
 
 export const metadata: Metadata = {
   title: "Products | Caremate Medical Device",
-  description: "Explore our complete range of medical devices including blood pressure monitors, stethoscopes, DVT sleeves, and infusion pressure bags.",
+  description:
+    "Browse the complete Caremate medical device catalogue by product category, subcategory, and model.",
 }
-
-const products = [
-  {
-    id: "blood-pressure",
-    name: "Aneroid Sphygmomanometers",
-    description: "Hospital-grade Aneroid Sphygmomanometers (mechanical blood pressure monitors) for clinical and home use. Featuring advanced oscillometric technology, large easy-read displays, and irregular heartbeat detection.",
-    image: "/images/blood-pressure-monitor.jpg",
-    features: [
-      "Aneroid mechanism",
-      "Irregular heartbeat detection",
-      "Memory storage for multiple users",
-      "Large backlit display",
-      "Portable and desktop models",
-    ],
-  },
-  {
-    id: "stethoscopes",
-    name: "Stethoscopes",
-    description: "Premium stethoscopes engineered for superior acoustic performance. Our cardiology and clinical series deliver exceptional sound quality for accurate diagnosis.",
-    image: "/images/stethoscope.jpg",
-    features: [
-      "Dual-frequency diaphragm",
-      "Stainless steel construction",
-      "Ergonomic headset design",
-      "Interchangeable ear tips",
-      "Lifetime warranty available",
-    ],
-  },
-  {
-    id: "dvt-sleeves",
-    name: "DVT Prevention Sleeves",
-    description: "Sequential compression devices designed for deep vein thrombosis prevention. Comfortable, effective, and available in multiple sizes for optimal patient care.",
-    image: "/images/dvt-sleeve.jpg",
-    features: [
-      "Sequential compression therapy",
-      "Adjustable pressure settings",
-      "Breathable fabric construction",
-      "Multiple size options",
-      "Quiet operation",
-    ],
-  },
-  {
-    id: "infusion-bags",
-    name: "Infusion Pressure Bags",
-    description: "Medical-grade pressure infusion bags for rapid fluid delivery. Essential equipment for emergency and surgical applications requiring controlled pressure infusion.",
-    image: "/images/infusion-bag.jpg",
-    features: [
-      "Precise pressure control",
-      "Clear pressure gauge",
-      "Durable latex-free construction",
-      "Multiple volume sizes",
-      "Easy-clean surfaces",
-    ],
-  },
-]
 
 export default function ProductsPage() {
   return (
     <div className="min-h-screen">
-      {/* Hero Banner */}
-      <section className="bg-primary py-12 md:py-16">
-        <div className="max-w-7xl mx-auto px-4 text-center">
-          <h1 className="text-3xl md:text-4xl lg:text-5xl font-light text-primary-foreground mb-4">
-            Our Products
-          </h1>
-          <p className="text-primary-foreground/80 max-w-2xl mx-auto">
-            Discover our complete line of medical devices designed for exceptional performance and reliability.
-          </p>
-        </div>
-      </section>
-
-      {/* Quick Navigation */}
-      <section className="bg-muted border-b border-border">
-        <div className="max-w-7xl mx-auto px-4 py-4">
-          <div className="flex flex-wrap items-center justify-center gap-4">
-            {products.map((product) => (
-              <Link
-                key={product.id}
-                href={`#${product.id}`}
-                className="px-4 py-2 bg-background border border-border text-sm font-medium text-foreground hover:border-primary hover:text-primary transition-colors"
-              >
-                {product.name}
-              </Link>
-            ))}
+      <section className="bg-primary">
+        <div className="mx-auto max-w-7xl px-4 py-14 text-primary-foreground sm:px-6 md:py-20 lg:px-8">
+          <div className="max-w-3xl">
+            <p className="mb-3 text-xs font-medium uppercase tracking-[0.2em] text-primary-foreground/70">
+              Caremate product catalogue
+            </p>
+            <h1 className="text-3xl font-light leading-tight md:text-5xl">
+              Medical products, organized for easier selection.
+            </h1>
+            <p className="mt-5 max-w-2xl text-base leading-relaxed text-primary-foreground/80 md:text-lg">
+              Explore the complete Caremate range by product type, then compare
+              available models, images, features, and specifications.
+            </p>
+            <dl className="mt-8 grid max-w-2xl grid-cols-3 gap-4 border-t border-primary-foreground/25 pt-6">
+              <div>
+                <dt className="text-xs text-primary-foreground/65">Categories</dt>
+                <dd className="mt-1 text-2xl font-light">{productCatalogueStats.categoryCount}</dd>
+              </div>
+              <div>
+                <dt className="text-xs text-primary-foreground/65">Product families</dt>
+                <dd className="mt-1 text-2xl font-light">{productCatalogueStats.productCount}</dd>
+              </div>
+              <div>
+                <dt className="text-xs text-primary-foreground/65">Models</dt>
+                <dd className="mt-1 text-2xl font-light">{productCatalogueStats.skuCount}</dd>
+              </div>
+            </dl>
           </div>
         </div>
       </section>
 
-      {/* Top Catalogue Bar */}
       <section className="bg-foreground text-background">
-        <div className="max-w-7xl mx-auto px-4 py-3 flex flex-col sm:flex-row items-center justify-between gap-3 text-sm">
-          <p className="font-medium">
-            Explore our latest product catalogue
-          </p>
+        <div className="mx-auto flex max-w-7xl flex-col gap-3 px-4 py-4 sm:flex-row sm:items-center sm:justify-between sm:px-6 lg:px-8">
+          <p className="text-sm font-medium">Prefer to browse the original catalogue?</p>
           <Link
             href="/files/maincatalogue.pdf"
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-flex items-center px-4 py-2 bg-primary text-primary-foreground hover:bg-primary/90 transition-colors"
+            className="inline-flex items-center gap-2 self-start bg-primary px-5 py-2.5 text-sm font-medium text-primary-foreground transition-colors hover:bg-primary/90"
           >
-            View Catalogue <ArrowRight className="w-4 h-4 ml-2" />
+            <Download className="h-4 w-4" />
+            View catalogue PDF
           </Link>
         </div>
       </section>
 
-      {/* Products */}
-      {products.map((product, index) => (
-        <section
-          key={product.id}
-          id={product.id}
-          className={`py-12 md:py-20 ${index % 2 === 0 ? 'bg-background' : 'bg-muted/30'}`}
-        >
-          <div className="max-w-7xl mx-auto px-4">
-            <div className={`flex flex-col ${index % 2 === 1 ? 'md:flex-row-reverse' : 'md:flex-row'} items-center gap-8 md:gap-16`}>
-              <div className="w-full md:w-1/2">
-                <div className="bg-muted p-4">
-                  <Image
-                    src={product.image}
-                    alt={product.name}
-                    width={800}
-                    height={800}
-                    className="w-full h-auto object-contain"
-                  />
-                </div>
-              </div>
-              <div className="w-full md:w-1/2">
-                <p className="text-xs uppercase tracking-widest text-primary mb-2">Product Category</p>
-                <h2 className="text-2xl md:text-3xl font-medium text-foreground mb-4">{product.name}</h2>
-                <p className="text-muted-foreground leading-relaxed mb-6">{product.description}</p>
-                
-                <h3 className="text-sm font-semibold text-foreground mb-3">Key Features:</h3>
-                <ul className="space-y-2 mb-8">
-                  {product.features.map((feature) => (
-                    <li key={feature} className="flex items-start gap-2 text-muted-foreground">
-                      <span className="w-1.5 h-1.5 rounded-full bg-primary mt-2 shrink-0" />
-                      {feature}
-                    </li>
-                  ))}
-                </ul>
-
-                <Link
-                  href="/contact"
-                  className="inline-block px-8 py-3 bg-primary text-primary-foreground text-sm font-medium hover:bg-primary/90 transition-colors"
-                >
-                  Request Information <ArrowRight className="inline-block w-4 h-4 ml-1" />
-                </Link>
-              </div>
-            </div>
+      <section className="bg-background py-12 md:py-20">
+        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+          <div className="mb-9 max-w-2xl">
+            <p className="mb-2 text-xs font-medium uppercase tracking-widest text-primary">
+              Explore by product type
+            </p>
+            <h2 className="text-2xl font-medium text-foreground md:text-3xl">
+              Choose a product category
+            </h2>
+            <p className="mt-3 leading-relaxed text-muted-foreground">
+              Each category opens into focused subcategories, so product families and
+              related parts stay together.
+            </p>
           </div>
-        </section>
-      ))}
 
-      {/* CTA Section */}
-      <section className="bg-primary py-12 md:py-16">
-        <div className="max-w-7xl mx-auto px-4 text-center">
-          <h2 className="text-2xl md:text-3xl font-medium text-primary-foreground mb-4">
-            Need Help Choosing the Right Product?
+          <div className="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3">
+            {productCategories.map((category) => {
+              const content = getCategoryContent(category.id)
+              const subcategories = getSubcategories(category.id)
+              const categoryProductCount = subcategories.reduce(
+                (total, subcategory) => total + subcategory.productCount,
+                0,
+              )
+              const coverProduct = getCategoryCoverProduct(category.id)
+              const coverImage = coverProduct ? getHeroImage(coverProduct) : undefined
+
+              return (
+                <Link
+                  key={category.id}
+                  href={`/products/${category.id}`}
+                  className="group flex h-full flex-col border border-border bg-background transition-colors hover:border-primary focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-offset-2"
+                >
+                  <div className="relative aspect-[4/3] overflow-hidden bg-muted/30">
+                    {coverImage && (
+                      <Image
+                        src={getProductImageSrc(coverImage)}
+                        alt={coverImage.alt.en || category.name.en || "Caremate product category"}
+                        fill
+                        sizes="(min-width: 1024px) 33vw, (min-width: 768px) 50vw, 100vw"
+                        className="object-contain p-8 transition-transform duration-300 group-hover:scale-[1.025]"
+                      />
+                    )}
+                    <span className="absolute left-4 top-4 bg-background/95 px-3 py-1.5 text-xs font-medium text-foreground shadow-sm">
+                      {categoryProductCount} {categoryProductCount === 1 ? "product" : "products"}
+                    </span>
+                  </div>
+                  <div className="flex flex-1 flex-col p-6">
+                    <p className="text-[11px] font-medium uppercase tracking-[0.16em] text-primary">
+                      {content.eyebrow}
+                    </p>
+                    <h3 className="mt-2 text-xl font-medium text-foreground group-hover:text-primary">
+                      {category.name.en}
+                    </h3>
+                    <p className="mt-3 text-sm leading-relaxed text-muted-foreground">
+                      {content.description}
+                    </p>
+                    <p className="mt-4 text-xs text-muted-foreground">
+                      {subcategories.length} {subcategories.length === 1 ? "subcategory" : "subcategories"}
+                    </p>
+                    <span className="mt-auto inline-flex items-center gap-2 pt-5 text-sm font-medium text-primary">
+                      Browse category <ArrowRight className="h-4 w-4" />
+                    </span>
+                  </div>
+                </Link>
+              )
+            })}
+          </div>
+        </div>
+      </section>
+
+      <section className="bg-muted/30 py-12 md:py-16">
+        <div className="mx-auto max-w-3xl px-4 text-center sm:px-6">
+          <p className="mb-2 text-xs font-medium uppercase tracking-widest text-primary">
+            Product support
+          </p>
+          <h2 className="text-2xl font-medium text-foreground md:text-3xl">
+            Need help selecting a model?
           </h2>
-          <p className="text-primary-foreground/80 max-w-2xl mx-auto mb-8">
-            Our team of medical device specialists is ready to help you find the perfect solution for your needs.
+          <p className="mx-auto mt-4 max-w-2xl leading-relaxed text-muted-foreground">
+            Share your application, preferred configuration, or required model with
+            our team.
           </p>
           <Link
             href="/contact"
-            className="inline-block px-8 py-3 bg-background text-foreground text-sm font-medium hover:bg-background/90 transition-colors"
+            className="mt-7 inline-flex items-center gap-2 bg-primary px-7 py-3 text-sm font-medium text-primary-foreground transition-colors hover:bg-primary/90"
           >
-            Contact Us Today <ArrowRight className="inline-block w-4 h-4 ml-1" />
+            Request product information <ArrowRight className="h-4 w-4" />
           </Link>
         </div>
       </section>

@@ -1,0 +1,30 @@
+{
+  "document": "Catalogue of Caremate 506.pdf",
+  "pdfPage": 10,
+  "cataloguePages": [
+    26
+  ],
+  "textExtraction": "300-dpi OCR with visual verification",
+  "notes": [],
+  "productId": "gauge-6018",
+  "imageSources": [
+    {
+      "pdfPage": 10,
+      "ordinal": 7,
+      "xref": 181,
+      "sourcePixelDimensions": [
+        283,
+        409
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-10_img-07_xref-181.webp",
+      "productFile": "images/hero.webp",
+      "modelSkus": [
+        "6018"
+      ]
+    }
+  ],
+  "sourceTextPolicy": "Catalogue wording is preserved, including verified source typos. Line-wrap artifacts were removed. No unsupported model-to-image relationship was invented.",
+  "pdfPages": [
+    10
+  ]
+}

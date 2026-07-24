@@ -1,0 +1,212 @@
+{
+  "document": "Catalogue of Caremate 506.pdf",
+  "pdfPage": 13,
+  "cataloguePages": [
+    32
+  ],
+  "textExtraction": "native PDF text with visual verification",
+  "notes": [],
+  "productId": "eartips-601-614",
+  "imageSources": [
+    {
+      "pdfPage": 13,
+      "ordinal": 22,
+      "xref": 253,
+      "sourcePixelDimensions": [
+        314,
+        202
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-22_xref-253.webp",
+      "productFile": "images/hero.webp",
+      "modelSkus": [
+        "601"
+      ]
+    },
+    {
+      "pdfPage": 13,
+      "ordinal": 25,
+      "xref": 256,
+      "sourcePixelDimensions": [
+        277,
+        172
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-25_xref-256.webp",
+      "productFile": "images/gallery-02.webp",
+      "modelSkus": [
+        "602"
+      ]
+    },
+    {
+      "pdfPage": 13,
+      "ordinal": 27,
+      "xref": 258,
+      "sourcePixelDimensions": [
+        261,
+        142
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-27_xref-258.webp",
+      "productFile": "images/gallery-03.webp",
+      "modelSkus": [
+        "603"
+      ]
+    },
+    {
+      "pdfPage": 13,
+      "ordinal": 29,
+      "xref": 260,
+      "sourcePixelDimensions": [
+        321,
+        149
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-29_xref-260.webp",
+      "productFile": "images/gallery-04.webp",
+      "modelSkus": [
+        "604"
+      ]
+    },
+    {
+      "pdfPage": 13,
+      "ordinal": 31,
+      "xref": 262,
+      "sourcePixelDimensions": [
+        253,
+        165
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-31_xref-262.webp",
+      "productFile": "images/gallery-05.webp",
+      "modelSkus": [
+        "605"
+      ]
+    },
+    {
+      "pdfPage": 13,
+      "ordinal": 33,
+      "xref": 264,
+      "sourcePixelDimensions": [
+        269,
+        157
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-33_xref-264.webp",
+      "productFile": "images/gallery-06.webp",
+      "modelSkus": [
+        "606"
+      ]
+    },
+    {
+      "pdfPage": 13,
+      "ordinal": 36,
+      "xref": 267,
+      "sourcePixelDimensions": [
+        262,
+        164
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-36_xref-267.webp",
+      "productFile": "images/gallery-07.webp",
+      "modelSkus": [
+        "607"
+      ]
+    },
+    {
+      "pdfPage": 13,
+      "ordinal": 23,
+      "xref": 254,
+      "sourcePixelDimensions": [
+        261,
+        179
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-23_xref-254.webp",
+      "productFile": "images/gallery-08.webp",
+      "modelSkus": [
+        "608"
+      ]
+    },
+    {
+      "pdfPage": 13,
+      "ordinal": 26,
+      "xref": 257,
+      "sourcePixelDimensions": [
+        284,
+        157
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-26_xref-257.webp",
+      "productFile": "images/gallery-09.webp",
+      "modelSkus": [
+        "609"
+      ]
+    },
+    {
+      "pdfPage": 13,
+      "ordinal": 28,
+      "xref": 259,
+      "sourcePixelDimensions": [
+        246,
+        164
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-28_xref-259.webp",
+      "productFile": "images/gallery-10.webp",
+      "modelSkus": [
+        "610"
+      ]
+    },
+    {
+      "pdfPage": 13,
+      "ordinal": 30,
+      "xref": 261,
+      "sourcePixelDimensions": [
+        284,
+        149
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-30_xref-261.webp",
+      "productFile": "images/gallery-11.webp",
+      "modelSkus": [
+        "611"
+      ]
+    },
+    {
+      "pdfPage": 13,
+      "ordinal": 32,
+      "xref": 263,
+      "sourcePixelDimensions": [
+        261,
+        149
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-32_xref-263.webp",
+      "productFile": "images/gallery-12.webp",
+      "modelSkus": [
+        "612"
+      ]
+    },
+    {
+      "pdfPage": 13,
+      "ordinal": 34,
+      "xref": 265,
+      "sourcePixelDimensions": [
+        253,
+        142
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-34_xref-265.webp",
+      "productFile": "images/gallery-13.webp",
+      "modelSkus": [
+        "613"
+      ]
+    },
+    {
+      "pdfPage": 13,
+      "ordinal": 37,
+      "xref": 268,
+      "sourcePixelDimensions": [
+        261,
+        157
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-37_xref-268.webp",
+      "productFile": "images/gallery-14.webp",
+      "modelSkus": [
+        "614"
+      ]
+    }
+  ],
+  "sourceTextPolicy": "Catalogue wording is preserved, including verified source typos. Line-wrap artifacts were removed. No unsupported model-to-image relationship was invented.",
+  "pdfPages": [
+    13
+  ]
+}

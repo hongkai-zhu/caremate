@@ -1,0 +1,27 @@
+schemaVersion: 1
+id: cm-4310
+slug: cm-4310
+status: draft
+reviewStatus: source-verified
+category: stethoscopes
+subcategory: specialty-stethoscopes
+name:
+  en: Pregnancy Stethoscope
+variants:
+- sku: CM-4310
+description:
+  en: For pregnancy use
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Pregnancy Stethoscope (CM-4310)
+  modelSkus:
+  - CM-4310
+  sourceType: catalogue-extracted
+editorialNotes:
+- Display title normalized from the catalogue phrase “For pregnancy use”; the source does not print a
+  standalone product title.
+sortOrder: 380

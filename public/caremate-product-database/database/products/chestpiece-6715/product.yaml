@@ -1,0 +1,25 @@
+schemaVersion: 1
+id: chestpiece-6715
+slug: chestpiece-6715
+status: draft
+reviewStatus: source-verified
+category: stethoscope-accessories
+subcategory: chestpieces
+name:
+  en: Colored Dual-head chestpiece for child
+variants:
+- sku: '6715'
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Colored Dual-head chestpiece for child (6715)
+  modelSkus:
+  - '6715'
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 1010

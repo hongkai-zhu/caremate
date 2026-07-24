@@ -1,0 +1,25 @@
+schemaVersion: 1
+id: valve-6511
+slug: valve-6511
+status: draft
+reviewStatus: source-verified
+category: blood-pressure-accessories
+subcategory: valves
+name:
+  en: Plastic push-button air release valve
+variants:
+- sku: '6511'
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Plastic push-button air release valve (6511)
+  modelSkus:
+  - '6511'
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 740

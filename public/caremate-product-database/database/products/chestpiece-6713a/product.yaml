@@ -1,0 +1,25 @@
+schemaVersion: 1
+id: chestpiece-6713a
+slug: chestpiece-6713a
+status: draft
+reviewStatus: source-verified
+category: stethoscope-accessories
+subcategory: chestpieces
+name:
+  en: Rappaport head
+variants:
+- sku: 6713A
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Rappaport head (6713A)
+  modelSkus:
+  - 6713A
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 980

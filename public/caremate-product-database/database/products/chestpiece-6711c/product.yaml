@@ -1,0 +1,25 @@
+schemaVersion: 1
+id: chestpiece-6711c
+slug: chestpiece-6711c
+status: draft
+reviewStatus: source-verified
+category: stethoscope-accessories
+subcategory: chestpieces
+name:
+  en: Colored Single-head chestpiece for adult
+variants:
+- sku: 6711C
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Colored Single-head chestpiece for adult (6711C)
+  modelSkus:
+  - 6711C
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 910

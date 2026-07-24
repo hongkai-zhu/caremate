@@ -1,0 +1,25 @@
+schemaVersion: 1
+id: valve-6516
+slug: valve-6516
+status: draft
+reviewStatus: source-verified
+category: blood-pressure-accessories
+subcategory: valves
+name:
+  en: Plastic end valve
+variants:
+- sku: '6516'
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Plastic end valve (6516)
+  modelSkus:
+  - '6516'
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 790

@@ -1,0 +1,25 @@
+schemaVersion: 1
+id: valve-6517
+slug: valve-6517
+status: draft
+reviewStatus: source-verified
+category: blood-pressure-accessories
+subcategory: valves
+name:
+  en: Metal net end valve(dust filter)
+variants:
+- sku: '6517'
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Metal net end valve(dust filter) (6517)
+  modelSkus:
+  - '6517'
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 800

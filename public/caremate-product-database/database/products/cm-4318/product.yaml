@@ -1,0 +1,28 @@
+schemaVersion: 1
+id: cm-4318
+slug: cm-4318
+status: draft
+reviewStatus: source-verified
+category: stethoscopes
+subcategory: pediatric-stethoscopes
+name:
+  en: Newborn Stethoscope
+variants:
+- sku: CM-4318
+description:
+  en: ''
+features:
+  en:
+  - The newborn stethoscope feature a unique raised membrane for greater sound amplification
+  - Chrome-plated brass binaural and PVC Y-tubing
+  - Zinc alloy newborn chestpiece
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Newborn Stethoscope (CM-4318)
+  modelSkus:
+  - CM-4318
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 310

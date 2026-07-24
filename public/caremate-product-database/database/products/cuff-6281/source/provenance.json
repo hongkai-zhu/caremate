@@ -1,0 +1,30 @@
+{
+  "document": "Catalogue of Caremate 506.pdf",
+  "pdfPage": 12,
+  "cataloguePages": [
+    29
+  ],
+  "textExtraction": "300-dpi OCR with visual verification",
+  "notes": [],
+  "productId": "cuff-6281",
+  "imageSources": [
+    {
+      "pdfPage": 12,
+      "ordinal": 2,
+      "xref": 205,
+      "sourcePixelDimensions": [
+        582,
+        186
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-12_img-02_xref-205.webp",
+      "productFile": "images/hero.webp",
+      "modelSkus": [
+        "6281"
+      ]
+    }
+  ],
+  "sourceTextPolicy": "Catalogue wording is preserved, including verified source typos. Line-wrap artifacts were removed. No unsupported model-to-image relationship was invented.",
+  "pdfPages": [
+    12
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "document": "Catalogue of Caremate 506.pdf",
+  "pdfPage": 14,
+  "cataloguePages": [
+    33
+  ],
+  "textExtraction": "native PDF text with visual verification",
+  "notes": [
+    "No model/SKU is printed."
+  ],
+  "productId": "inflatable-pressure-relief-seat-cushion",
+  "imageSources": [
+    {
+      "pdfPage": 14,
+      "ordinal": 3,
+      "xref": 292,
+      "sourcePixelDimensions": [
+        6000,
+        4000
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-14_img-03_xref-292.webp",
+      "productFile": "images/hero.webp"
+    },
+    {
+      "pdfPage": 14,
+      "ordinal": 4,
+      "xref": 294,
+      "sourcePixelDimensions": [
+        4000,
+        4000
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-14_img-04_xref-294.webp",
+      "productFile": "images/gallery-02.webp"
+    }
+  ],
+  "sourceTextPolicy": "Catalogue wording is preserved, including verified source typos. Line-wrap artifacts were removed. No unsupported model-to-image relationship was invented.",
+  "pdfPages": [
+    14
+  ]
+}

@@ -1,0 +1,28 @@
+schemaVersion: 1
+id: cm-4251
+slug: cm-4251
+status: draft
+reviewStatus: source-verified
+category: stethoscopes
+subcategory: professional-stethoscopes
+name:
+  en: Master Classic I
+variants:
+- sku: CM-4251
+description:
+  en: ''
+features:
+  en:
+  - Offers efficiency in auscultation that is unprecedented in a general examination stethoscope
+  - Monitoring of both high and low frequency sounds without having to turn over the chestpiece
+  - Features high performance single-lumen tubing, non-chill rim and soft-sealing eartips
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Master Classic I (CM-4251)
+  modelSkus:
+  - CM-4251
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 340

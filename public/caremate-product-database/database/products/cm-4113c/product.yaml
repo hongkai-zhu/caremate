@@ -1,0 +1,27 @@
+schemaVersion: 1
+id: cm-4113c
+slug: cm-4113c
+status: draft
+reviewStatus: source-verified
+category: stethoscopes
+subcategory: general-stethoscopes
+name:
+  en: Colored Dual Head Stethoscope
+variants:
+- sku: CM-4113C
+description:
+  en: ''
+features:
+  en:
+  - For adult, attractive colored head with matching color PVC Y-tubing
+  - 'Diameter of head: 47mm'
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Colored Dual Head Stethoscope (CM-4113C)
+  modelSkus:
+  - CM-4113C
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 230

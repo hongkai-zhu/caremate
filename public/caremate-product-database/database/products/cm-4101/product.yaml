@@ -1,0 +1,27 @@
+schemaVersion: 1
+id: cm-4101
+slug: cm-4101
+status: draft
+reviewStatus: source-verified
+category: stethoscopes
+subcategory: teaching-stethoscopes
+name:
+  en: Teaching Stethoscope
+variants:
+- sku: CM-4101
+description:
+  en: 'Dual Head Stethoscope for Teaching Use
+
+    With two binaural.'
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Teaching Stethoscope (CM-4101)
+  modelSkus:
+  - CM-4101
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 400

@@ -1,0 +1,38 @@
+schemaVersion: 1
+id: cm-4146
+slug: cm-4146
+status: draft
+reviewStatus: source-verified
+category: stethoscopes
+subcategory: professional-stethoscopes
+name:
+  en: Cardiology Stainless Steel Stethoscope
+variants:
+- sku: CM-4146
+description:
+  en: ''
+features:
+  en:
+  - Super quality stainless steel components for extended professional use and super clear sound transmission.
+  - Feature "two-tubes-in-one design" and interior spring, non-chill rim for both sith of dual head chestpiece
+    to assure patient comfort
+  - Comes complete with screw-on ear-tips
+  - 'Spare parts includes: 1 pair of comfortable firm eartips; 1 pair of soft screw-on eartips; 1 membrane'
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Cardiology Stainless Steel Stethoscope (CM-4146)
+  modelSkus:
+  - CM-4146
+  sourceType: catalogue-extracted
+- role: packaging
+  file: images/gallery-02.webp
+  alt:
+    en: Cardiology Stainless Steel Stethoscope (CM-4146)
+  modelSkus:
+  - CM-4146
+  sourceType: catalogue-extracted
+editorialNotes:
+- 'Catalogue spelling retained: sith.'
+sortOrder: 430

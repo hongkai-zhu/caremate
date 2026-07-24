@@ -1,0 +1,25 @@
+schemaVersion: 1
+id: chestpiece-6717
+slug: chestpiece-6717
+status: draft
+reviewStatus: source-verified
+category: stethoscope-accessories
+subcategory: chestpieces
+name:
+  en: Deluxe single head chestpiece
+variants:
+- sku: '6717'
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Deluxe single head chestpiece (6717)
+  modelSkus:
+  - '6717'
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 1030

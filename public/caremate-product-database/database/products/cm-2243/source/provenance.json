@@ -1,0 +1,62 @@
+{
+  "document": "Catalogue of Caremate 506.pdf",
+  "pdfPage": 1,
+  "cataloguePages": [
+    2
+  ],
+  "textExtraction": "300-dpi OCR with visual verification",
+  "notes": [
+    "Instruction labels: Gauge out of Adjustment.; Adjust gauge by Turning screwdriver in the appropriate direction.; Gauge adjusted."
+  ],
+  "productId": "cm-2243",
+  "imageSources": [
+    {
+      "pdfPage": 1,
+      "ordinal": 5,
+      "xref": 641,
+      "sourcePixelDimensions": [
+        948,
+        699
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-01_img-05_xref-641.webp",
+      "productFile": "images/hero.webp",
+      "modelSkus": [
+        "CM-2243"
+      ]
+    },
+    {
+      "pdfPage": 1,
+      "ordinal": 6,
+      "xref": 642,
+      "sourcePixelDimensions": [
+        58,
+        182
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-01_img-06_xref-642.webp",
+      "productFile": "images/gallery-02.webp",
+      "note": "Gauge out of Adjustment.",
+      "modelSkus": [
+        "CM-2243"
+      ]
+    },
+    {
+      "pdfPage": 1,
+      "ordinal": 7,
+      "xref": 643,
+      "sourcePixelDimensions": [
+        58,
+        182
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-01_img-07_xref-643.webp",
+      "productFile": "images/gallery-03.webp",
+      "note": "The same embedded gauge image is reused for the adjustment and adjusted steps; arrow overlays are excluded as non-photo graphics.",
+      "modelSkus": [
+        "CM-2243"
+      ]
+    }
+  ],
+  "sourceTextPolicy": "Catalogue wording is preserved, including verified source typos. Line-wrap artifacts were removed. No unsupported model-to-image relationship was invented.",
+  "pdfPages": [
+    1
+  ]
+}

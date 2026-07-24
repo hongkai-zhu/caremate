@@ -1,0 +1,6067 @@
+{
+  "schemaVersion": 1,
+  "metadata": {
+    "sourceDocument": "Catalogue of Caremate 506.pdf",
+    "pdfPageCount": 14,
+    "cataloguePagesPresent": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      9,
+      10,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "cataloguePagesMissingFromSourcePdf": [
+      7,
+      8,
+      11,
+      12,
+      13,
+      14
+    ],
+    "productRecordCount": 116,
+    "candidateSourceImageCount": 149,
+    "excludedImageCount": 11,
+    "completenessNote": "Complete for every product-bearing page contained in the supplied PDF. Printed catalogue pages 7-8 and 11-14 are absent from the supplied file.",
+    "sourcePdfSha256": "c4dad1542c7acef719e608c79d748f1d67d0b9c662ccfd223dc6c975e7db7162",
+    "sourcePdfSizeBytes": 30517320,
+    "skuCount": 175,
+    "sourceOfTruth": "database/products/*/product.yaml",
+    "assetBase": "database/"
+  },
+  "categories": [
+    {
+      "id": "blood-pressure-monitoring",
+      "name": {
+        "en": "Blood Pressure Monitoring",
+        "zh": "血压监测产品"
+      },
+      "sortOrder": 10
+    },
+    {
+      "id": "compression-therapy",
+      "name": {
+        "en": "Compression Therapy",
+        "zh": "加压与循环治疗"
+      },
+      "sortOrder": 20
+    },
+    {
+      "id": "stethoscopes",
+      "name": {
+        "en": "Stethoscopes",
+        "zh": "听诊器"
+      },
+      "sortOrder": 30
+    },
+    {
+      "id": "blood-pressure-accessories",
+      "name": {
+        "en": "Blood Pressure Accessories",
+        "zh": "血压产品配件"
+      },
+      "sortOrder": 40
+    },
+    {
+      "id": "stethoscope-accessories",
+      "name": {
+        "en": "Stethoscope Accessories",
+        "zh": "听诊器配件"
+      },
+      "sortOrder": 50
+    },
+    {
+      "id": "patient-care",
+      "name": {
+        "en": "Patient Care",
+        "zh": "患者护理"
+      },
+      "sortOrder": 60
+    }
+  ],
+  "products": [
+    {
+      "schemaVersion": 1,
+      "id": "cm-1222",
+      "slug": "cm-1222",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "blood-pressure-monitoring",
+      "subcategory": "aneroid-sphygmomanometers",
+      "name": {
+        "en": "Economy Sphygmomanometer"
+      },
+      "variants": [
+        {
+          "sku": "CM-1222"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": [
+          "Manometer calibrated from 20-300mmHg with NON STOP PIN",
+          "Adult velcro calibrated nylon cuff",
+          "Standard latex inflation system and air release valve with spring",
+          "Standard model in vinyl zipper case"
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-1222/images/hero.webp",
+          "alt": {
+            "en": "Economy Sphygmomanometer (CM-1222)"
+          },
+          "modelSkus": [
+            "CM-1222"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "c1939e447b36248a3732da39b90c2c3e534465f7d1bde5f0ae19d25319bac9d7"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 10
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-1621",
+      "slug": "cm-1621",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "blood-pressure-monitoring",
+      "subcategory": "aneroid-sphygmomanometers",
+      "name": {
+        "en": "Professional Sphygmomanometer"
+      },
+      "variants": [
+        {
+          "sku": "CM-1621"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": [
+          "Manometer calibrated from 0-300mmHg with NON STOP PIN",
+          "Adult velcro cotton cuff with D-ring",
+          "Standard latex inflation system and air release valve with spring",
+          "Standard model in vinyl zipper case"
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-1621/images/hero.webp",
+          "alt": {
+            "en": "Professional Sphygmomanometer (CM-1621)"
+          },
+          "modelSkus": [
+            "CM-1621"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "5484a7c1ba9d08d62134bfae7c2fd41391f1537d142d6eed27426e79c840e577"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 20
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-1551",
+      "slug": "cm-1551",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "blood-pressure-monitoring",
+      "subcategory": "aneroid-sphygmomanometers",
+      "name": {
+        "en": "Homecare Cuff Sphygmomanometer"
+      },
+      "variants": [
+        {
+          "sku": "CM-1551"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": [
+          "Manometer calibrated from 0-300mmHg with NON STOP PIN",
+          "Adult velcro deluxe homecare nylon cuff with D-ring",
+          "Standard latex inflation system and air release valve with spring",
+          "Standard model in matching nylon zipper case"
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-1551/images/hero.webp",
+          "alt": {
+            "en": "Homecare Cuff Sphygmomanometer (CM-1551)"
+          },
+          "modelSkus": [
+            "CM-1551"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "4b3b567326b6fd71faed83825b74e9a5f6abd0aa9fb27c2dcb5d3f026b09321c"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 30
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-1722",
+      "slug": "cm-1722",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "blood-pressure-monitoring",
+      "subcategory": "aneroid-sphygmomanometers",
+      "name": {
+        "en": "Metal Chip Cuff Sphygmomanometer"
+      },
+      "variants": [
+        {
+          "sku": "CM-1722"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": [
+          "Manometer calibrated from 20-300mmHg with NON STOP PIN",
+          "Adult Metal Chip cotton cuff",
+          "Standard latex inflation system and air release valve with spring",
+          "Standard model in nylon zipper case"
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-1722/images/hero.webp",
+          "alt": {
+            "en": "Metal Chip Cuff Sphygmomanometer (CM-1722)"
+          },
+          "modelSkus": [
+            "CM-1722"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "47cef40a56491448765bc8cde8b3bc9d9902658b18781b9003dc3a55cc9a8f0d"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 40
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-2243",
+      "slug": "cm-2243",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "blood-pressure-monitoring",
+      "subcategory": "blood-pressure-kits",
+      "name": {
+        "en": "Sphygmomanometer / Dualhead kit w/ Carrying case"
+      },
+      "variants": [
+        {
+          "sku": "CM-2243"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": [
+          "Color-matched dual head stethoscope",
+          "Adjustable Manometer calibrated from 20-300mmHg with NON STOP PIN",
+          "Color-matched velcro calibrated nylon cuff",
+          "Standard color-matched PVC inflation system and air release valve with spring",
+          "In color coordinated carrying case",
+          "With screw driver for adjustment"
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-2243/images/hero.webp",
+          "alt": {
+            "en": "Sphygmomanometer / Dualhead kit w/ Carrying case (CM-2243)"
+          },
+          "modelSkus": [
+            "CM-2243"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "7bf7a409725ffdf780c4b63186c70e812d3edd77ef1af8d43963010fe226772d"
+        },
+        {
+          "role": "instruction",
+          "file": "products/cm-2243/images/gallery-02.webp",
+          "alt": {
+            "en": "Sphygmomanometer / Dualhead kit w/ Carrying case (CM-2243)"
+          },
+          "modelSkus": [
+            "CM-2243"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "ed1f86f2eba63b7e912a7f804fa12424efb20f578a55df8b1fd63781d804debe"
+        },
+        {
+          "role": "instruction",
+          "file": "products/cm-2243/images/gallery-03.webp",
+          "alt": {
+            "en": "Sphygmomanometer / Dualhead kit w/ Carrying case (CM-2243)"
+          },
+          "modelSkus": [
+            "CM-2243"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "43fd7a8fe32903ad06e7d3dea57bef640a74251361cc217445019688a9660a24"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 50
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-2621",
+      "slug": "cm-2621",
+      "status": "draft",
+      "reviewStatus": "source-verified-no-description",
+      "category": "blood-pressure-monitoring",
+      "subcategory": "blood-pressure-kits",
+      "name": {
+        "en": "Two Party Home Blood Pressure Kit"
+      },
+      "variants": [
+        {
+          "sku": "CM-2621"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-2621/images/hero.webp",
+          "alt": {
+            "en": "Two Party Home Blood Pressure Kit (CM-2621)"
+          },
+          "modelSkus": [
+            "CM-2621"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "1debcce33ddc5d2374034326bef8130a57607d1089477a1fa41434e650ad6082"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 60
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-2021",
+      "slug": "cm-2021",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "blood-pressure-monitoring",
+      "subcategory": "blood-pressure-kits",
+      "name": {
+        "en": "Self-taking Home Blood Pressure Kit"
+      },
+      "variants": [
+        {
+          "sku": "CM-2021"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": [
+          "Self-taking home blood pressure kit is designed for easy home monitoring by individual",
+          "Deluxe metal ring velcro cuff makes application easy",
+          "The attached stethoscope makes this unit a true \"Self-Monitor\"",
+          "Range 0-300mmHg.Manometer with NON STOP PIN",
+          "Standard model in vinyl zipper case"
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-2021/images/hero.webp",
+          "alt": {
+            "en": "Self-taking Home Blood Pressure Kit (CM-2021)"
+          },
+          "modelSkus": [
+            "CM-2021"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "03ab8dd2efb0ed98d23793d1ba1a5b9cc7a36dbcddea7e1769a7168195000e47"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 70
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-2000",
+      "slug": "cm-2000",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "blood-pressure-monitoring",
+      "subcategory": "blood-pressure-kits",
+      "name": {
+        "en": "Sprague - Aneroid Combo Carrying Case"
+      },
+      "variants": [
+        {
+          "sku": "CM-2000"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": [
+          "Color-matched Sprague-Rappaport-type stethoscope with accessory kit",
+          "Non stop pin manometer gauge",
+          "Color-matched nylon cuff",
+          "Latex inflation system and air release valve with spring",
+          "Includes: Nurse utility scissors, reusable pen light, tape measure, and stethoscope name tag in a color coordinated carrying case"
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-2000/images/hero.webp",
+          "alt": {
+            "en": "Sprague - Aneroid Combo Carrying Case (CM-2000)"
+          },
+          "modelSkus": [
+            "CM-2000"
+          ],
+          "sourceType": "edited",
+          "contentHash": "44486a39cbf8891a768bb8b39003618ada8aba2471df2130c45f8e4b4be29441"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 80
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-3414-3424",
+      "slug": "cm-3414-3424",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "blood-pressure-monitoring",
+      "subcategory": "palm-sphygmomanometers",
+      "name": {
+        "en": "Palm Sphygmomanometer"
+      },
+      "variants": [
+        {
+          "sku": "CM-3414",
+          "label": {
+            "en": "with 1 tube"
+          }
+        },
+        {
+          "sku": "CM-3424",
+          "label": {
+            "en": "with 2 tubes"
+          }
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": [
+          "Palm aneroid sphygmomanometer",
+          "Left and right hand use, silver dial",
+          "Chrome-plated for case and handle, 65mm diameter dial",
+          "Shining Latex Free calibrated cuff(cuff & bladder with 2-in-1)",
+          "PVC ribbed bulb",
+          "Shining nylon carrying case",
+          "Large size metal end valve with dust filter"
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-3414-3424/images/hero.webp",
+          "alt": {
+            "en": "Palm Sphygmomanometer (CM-3414, CM-3424)"
+          },
+          "modelSkus": [
+            "CM-3414",
+            "CM-3424"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "e526b0b51a08fa0bdf7f42dcb1e669180878fa044cf128269ab1fd9659e9bf3c"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 90
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-3410-3420",
+      "slug": "cm-3410-3420",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "blood-pressure-monitoring",
+      "subcategory": "palm-sphygmomanometers",
+      "name": {
+        "en": "Palm Sphygmomanometer"
+      },
+      "variants": [
+        {
+          "sku": "CM-3410",
+          "label": {
+            "en": "with 1 tube"
+          }
+        },
+        {
+          "sku": "CM-3420",
+          "label": {
+            "en": "with 2 tubes"
+          }
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": [
+          "Palm aneroid sphygmomanometer",
+          "Chrome plated metal case",
+          "50mm diameter dial manometer with scale up to 300mmHg with NON STOP PIN",
+          "Adult cotton cuff",
+          "Standard latex inflation system",
+          "Standard model in vinyl zipper case"
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-3410-3420/images/hero.webp",
+          "alt": {
+            "en": "Palm Sphygmomanometer (CM-3410, CM-3420)"
+          },
+          "modelSkus": [
+            "CM-3410",
+            "CM-3420"
+          ],
+          "sourceType": "edited",
+          "contentHash": "21a979d0d5abbb7514acbe1d1b54a8fcbaf96205a8c2e0bfab54ad9488b5fd95"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 100
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-3411-3421",
+      "slug": "cm-3411-3421",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "blood-pressure-monitoring",
+      "subcategory": "palm-sphygmomanometers",
+      "name": {
+        "en": "Palm Sphygmomanometer"
+      },
+      "variants": [
+        {
+          "sku": "CM-3411",
+          "label": {
+            "en": "with 1 tube"
+          }
+        },
+        {
+          "sku": "CM-3421",
+          "label": {
+            "en": "with 2 tubes"
+          }
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": [
+          "Palm aneroid sphygmomanometer",
+          "Chrome plated plastic case",
+          "65mm diameter dial manometer with scale up to 300mmHg with NON STOP PIN",
+          "Stainless steel large handle",
+          "Adult cotton cuff",
+          "Standard latex inflation system",
+          "Standard model in vinyl zipper case"
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-3411-3421/images/hero.webp",
+          "alt": {
+            "en": "Palm Sphygmomanometer (CM-3411, CM-3421)"
+          },
+          "modelSkus": [
+            "CM-3411",
+            "CM-3421"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "0deff97ef084639fa37783249cdf55e2e7b79dcb0526d8ed864d4993d057e420"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 110
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-3412-3422",
+      "slug": "cm-3412-3422",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "blood-pressure-monitoring",
+      "subcategory": "palm-sphygmomanometers",
+      "name": {
+        "en": "Palm Sphygmomanometer"
+      },
+      "variants": [
+        {
+          "sku": "CM-3412",
+          "label": {
+            "en": "with 1 tube"
+          }
+        },
+        {
+          "sku": "CM-3422",
+          "label": {
+            "en": "with 2 tubes"
+          }
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": [
+          "Palm aneroid sphygmomanometer",
+          "ABS plastic case, 55mm dial",
+          "Manometer with scale up to 300mmHg with NON STOP PIN",
+          "Stainless steel large handle",
+          "Adult velcro nylon calibrated cuff",
+          "PVC inflation system",
+          "Standard model in vinyl zipper case"
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-3412-3422/images/hero.webp",
+          "alt": {
+            "en": "Palm Sphygmomanometer (CM-3412, CM-3422)"
+          },
+          "modelSkus": [
+            "CM-3412",
+            "CM-3422"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "275c60df70b04641ca10cf95470e2f61be0e439597941a69ee2461c0c2161c02"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 120
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-3413-3423",
+      "slug": "cm-3413-3423",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "blood-pressure-monitoring",
+      "subcategory": "palm-sphygmomanometers",
+      "name": {
+        "en": "Palm Sphygmomanometer"
+      },
+      "variants": [
+        {
+          "sku": "CM-3413",
+          "label": {
+            "en": "with 1 tube"
+          }
+        },
+        {
+          "sku": "CM-3423",
+          "label": {
+            "en": "with 2 tubes"
+          }
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": [
+          "Palm aneroid sphygmomanometer",
+          "ABS plastic case, 65mm diameter dial",
+          "Zinc-alloy with black powder-coating large handle",
+          "Manometer with protective ring scale up to 300mmHg with NON STOP PIN",
+          "Adult velcro nylon calibrated cuff",
+          "PVC inflation system",
+          "Standard model in vinyl zipper case"
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-3413-3423/images/hero.webp",
+          "alt": {
+            "en": "Palm Sphygmomanometer (CM-3413, CM-3423)"
+          },
+          "modelSkus": [
+            "CM-3413",
+            "CM-3423"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "7134d6721c529364a6ba9f6cae55c13d8be0f747bf2631ff15ed49b88e1f4199"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 130
+    },
+    {
+      "schemaVersion": 1,
+      "id": "disposable-blood-pressure-cuff",
+      "slug": "disposable-blood-pressure-cuff",
+      "status": "draft",
+      "reviewStatus": "source-verified-no-sku",
+      "category": "blood-pressure-accessories",
+      "subcategory": "blood-pressure-cuffs",
+      "name": {
+        "en": "Disposable Blood Pressure Cuff"
+      },
+      "variants": [],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": [
+          "latex-free cuff prevents cross-contamination while staying gentle on delicate skin",
+          "Color-coded, one-piece design is leak-tested and durable for multiple inflations",
+          "Even pneumatic pressure delivers accurate BP readings and can drive I.V. fluids when used as a sleevee"
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/disposable-blood-pressure-cuff/images/hero.webp",
+          "alt": {
+            "en": "Disposable Blood Pressure Cuff"
+          },
+          "sourceType": "catalogue-extracted",
+          "contentHash": "a1b630472959a7bde81b169337fc33e2bf215b68c5e0848abdd3717a888e36f4"
+        }
+      ],
+      "editorialNotes": [
+        "Catalogue spelling retained: sleevee."
+      ],
+      "sortOrder": 140
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-1329",
+      "slug": "cm-1329",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "blood-pressure-monitoring",
+      "subcategory": "aneroid-sphygmomanometers",
+      "name": {
+        "en": "Clock Model"
+      },
+      "variants": [
+        {
+          "sku": "CM-1329"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": [
+          "ABS plastic case",
+          "Easy to read large display manometer",
+          "Range 0-300mmHg",
+          "Provided with a coil tube that extends to a length of 2m",
+          "Adult velcro cuff with D-ring"
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-1329/images/hero.webp",
+          "alt": {
+            "en": "Clock Model (CM-1329)"
+          },
+          "modelSkus": [
+            "CM-1329"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "e71b92a3fda89dcd9d126673b9797a60a60acbd62dc450d644202c07b260bdbf"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 150
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-3214-5",
+      "slug": "cm-3214-5",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "blood-pressure-monitoring",
+      "subcategory": "emt-kits",
+      "name": {
+        "en": "EMT Kits - System 5"
+      },
+      "variants": [
+        {
+          "sku": "CM-3214-5"
+        }
+      ],
+      "description": {
+        "en": "EMT kits were designed with the EMT/Paramedic in mind. The easy access, fold-open carrying case is made of heavy duty nylon for many years of rugged service. Features a chrome-plated, palm aneroid sphygmomanometer, and comes complete with adult, infant, child, large adult, and thigh cuffs & bladder. It is easy to change with male-female connector."
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-3214-5/images/hero.webp",
+          "alt": {
+            "en": "EMT Kits - System 5 (CM-3214-5)"
+          },
+          "modelSkus": [
+            "CM-3214-5"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "707c24bcbc1dac9707d8968c85cd7e071ae9e76f7cba63c36d88bc7c356e0ce6"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 160
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-3210-3",
+      "slug": "cm-3210-3",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "blood-pressure-monitoring",
+      "subcategory": "emt-kits",
+      "name": {
+        "en": "EMT Kits - System 3"
+      },
+      "variants": [
+        {
+          "sku": "CM-3210-3"
+        }
+      ],
+      "description": {
+        "en": "EMT kits were designed with the EMT/Paramedic in mind. The easy access, fold-open carrying case is made of heavy duty nylon for many years of rugged service. Features a chrome-plated, palm aneroid sphygmomanometer, and comes complete with three (child, adult and large adult) cuffs & bladder. It is easy to change with male-female connector."
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-3210-3/images/hero.webp",
+          "alt": {
+            "en": "EMT Kits - System 3 (CM-3210-3)"
+          },
+          "modelSkus": [
+            "CM-3210-3"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "c77787e5da4c9165cf2f9e4b4f76a7b586e0f9eaf39e886da36e20f858dd90b3"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 170
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-3212-50",
+      "slug": "cm-3212-50",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "blood-pressure-monitoring",
+      "subcategory": "emt-kits",
+      "name": {
+        "en": "EMT Kits"
+      },
+      "variants": [
+        {
+          "sku": "CM-3212-50"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": [
+          "EMT kits were designed with the EMT/Paramedic in mind. The easy access, fold-open carrying case is made of heavy duty nylon for many years of rugged service. Features a chrome-plated, palm aneroid sphygmomanometer, and comes complete with five (infant, child, adult, large adult and thigh) cuffs & bladder. It is easy to change with male-female connector",
+          "Includes single head stethoscope, neurological hammer, nurse utility scissors, disposable penlight, tape measuring, and name tag."
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-3212-50/images/hero.webp",
+          "alt": {
+            "en": "EMT Kits (CM-3212-50)"
+          },
+          "modelSkus": [
+            "CM-3212-50"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "f67d01ef146b34425f75a5d83078cdaaea9e17d1d10501cdfeb0c85ef7be5cc1"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 180
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-dvt-series",
+      "slug": "cm-dvt-series",
+      "status": "draft",
+      "reviewStatus": "source-verified-shared-images",
+      "category": "compression-therapy",
+      "subcategory": "dvt-compression-sleeves",
+      "name": {
+        "en": "Deep Vein Thrombosis Compression Sleeve"
+      },
+      "variants": [
+        {
+          "sku": "CM-DVTMD"
+        },
+        {
+          "sku": "CM-DVTM2"
+        },
+        {
+          "sku": "CM-DVTMSQ"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": [
+          "Portable pneumatic-compression system that mimics natural muscle-pump action to enhance limb blood flow and help prevent DVT",
+          "Non-invasive therapy suitable for both home and clinical use",
+          "Promotes venous return and overall circulation",
+          "Helps reduce post-operative pain and swelling",
+          "Accelerates wound-healing time",
+          "Adjunctive treatment for stasis dermatitis, venous stasis ulcers, arterial & diabetic leg ulcers",
+          "Relieves chronic venous insufficiency and lowers limb-edema levels"
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-dvt-series/images/hero.webp",
+          "alt": {
+            "en": "Deep Vein Thrombosis Compression Sleeve — catalogue family view"
+          },
+          "sourceType": "catalogue-extracted",
+          "contentHash": "78116a8ed0b8b5e1142730832b08f1af2d57171d418cc56577c1ac88e892e60a"
+        },
+        {
+          "role": "gallery",
+          "file": "products/cm-dvt-series/images/gallery-02.webp",
+          "alt": {
+            "en": "Deep Vein Thrombosis Compression Sleeve — catalogue family view"
+          },
+          "sourceType": "catalogue-extracted",
+          "contentHash": "4596145d74a83616d39137466ddf2dcaaea553684c3267a08501e494a896f4a0"
+        },
+        {
+          "role": "gallery",
+          "file": "products/cm-dvt-series/images/gallery-03.webp",
+          "alt": {
+            "en": "Deep Vein Thrombosis Compression Sleeve — catalogue family view"
+          },
+          "sourceType": "catalogue-extracted",
+          "contentHash": "4cf50b9adacd135a087ab1c433c382962e70106761fa2a845f3fca5021bca363"
+        },
+        {
+          "role": "gallery",
+          "file": "products/cm-dvt-series/images/gallery-04.webp",
+          "alt": {
+            "en": "Deep Vein Thrombosis Compression Sleeve — catalogue family view"
+          },
+          "sourceType": "catalogue-extracted",
+          "contentHash": "e683371770121af15ff9d50f6c9b83e87ec16f2660b7598b69250946052dd95b"
+        },
+        {
+          "role": "gallery",
+          "file": "products/cm-dvt-series/images/gallery-05.webp",
+          "alt": {
+            "en": "Deep Vein Thrombosis Compression Sleeve — catalogue family view"
+          },
+          "sourceType": "catalogue-extracted",
+          "contentHash": "be6c968ed556bdab157023a6f86cd8fadd8c15dadc858c2467f96ea3fa66abf6"
+        },
+        {
+          "role": "gallery",
+          "file": "products/cm-dvt-series/images/gallery-06.webp",
+          "alt": {
+            "en": "Deep Vein Thrombosis Compression Sleeve — catalogue family view"
+          },
+          "sourceType": "catalogue-extracted",
+          "contentHash": "f12ff17e0ea2734b9def0daeaf37b987a5488720ee9046cc097b6146eb702398"
+        },
+        {
+          "role": "gallery",
+          "file": "products/cm-dvt-series/images/gallery-07.webp",
+          "alt": {
+            "en": "Deep Vein Thrombosis Compression Sleeve — catalogue family view"
+          },
+          "sourceType": "catalogue-extracted",
+          "contentHash": "a226b573f56f2eca03b4c1714eee289b292b7aee27e27c24885bae8e66b0d2d9"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 190
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-4111-4211",
+      "slug": "cm-4111-4211",
+      "status": "draft",
+      "reviewStatus": "source-verified-shared-image",
+      "category": "stethoscopes",
+      "subcategory": "general-stethoscopes",
+      "name": {
+        "en": "Single Head Stethoscope"
+      },
+      "variants": [
+        {
+          "sku": "CM-4111",
+          "label": {
+            "en": "Adult"
+          },
+          "specifications": {
+            "en": [
+              "For adult,silver head(Oxidized & Anodized head for choice)",
+              "Standard PVC Y-tubing",
+              "Diameter of head:46mm"
+            ]
+          }
+        },
+        {
+          "sku": "CM-4211",
+          "label": {
+            "en": "Child"
+          },
+          "specifications": {
+            "en": [
+              "For child,silver head(Oxidized & Anodized head for choice)",
+              "Standard PVC Y-tubing",
+              "Diameter of head:33mm"
+            ]
+          }
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-4111-4211/images/hero.webp",
+          "alt": {
+            "en": "Single Head Stethoscope (CM-4111, CM-4211)"
+          },
+          "modelSkus": [
+            "CM-4111",
+            "CM-4211"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "f295085d20df0caaf7748f0365246ca2fb424169647a19d2d2eb2b7292cef351"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 200
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-4113-4213",
+      "slug": "cm-4113-4213",
+      "status": "draft",
+      "reviewStatus": "source-verified-shared-image",
+      "category": "stethoscopes",
+      "subcategory": "general-stethoscopes",
+      "name": {
+        "en": "Dual Head Stethoscope"
+      },
+      "variants": [
+        {
+          "sku": "CM-4113",
+          "label": {
+            "en": "Adult"
+          },
+          "specifications": {
+            "en": [
+              "For adult,silver head(Oxidized & Anodized head for choice)",
+              "Standard PVC Y-tubing",
+              "Diameter of head:47mm"
+            ]
+          }
+        },
+        {
+          "sku": "CM-4213",
+          "label": {
+            "en": "Chid"
+          },
+          "specifications": {
+            "en": [
+              "For child,silver head(Oxidized & Anodized head for choice)",
+              "Standard PVC Y-tubing",
+              "Diameter of head:33mm"
+            ]
+          }
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-4113-4213/images/hero.webp",
+          "alt": {
+            "en": "Dual Head Stethoscope (CM-4113, CM-4213)"
+          },
+          "modelSkus": [
+            "CM-4113",
+            "CM-4213"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "3e78649a0963cc3120e5ff8fdc4f99591b043a350837cbadc540bdbe73196fcc"
+        }
+      ],
+      "editorialNotes": [
+        "Catalogue title spelling retained: Chid."
+      ],
+      "sortOrder": 210
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-4111c",
+      "slug": "cm-4111c",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "stethoscopes",
+      "subcategory": "general-stethoscopes",
+      "name": {
+        "en": "Colored Single Head Stethoscope"
+      },
+      "variants": [
+        {
+          "sku": "CM-4111C"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": [
+          "For adult, Attractive colored head with matching color PVC Y-tubing",
+          "Color coordinated oxidized binaural",
+          "Diameter of head: 46mm",
+          "Color coordinated eartips also available"
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-4111c/images/hero.webp",
+          "alt": {
+            "en": "Colored Single Head Stethoscope (CM-4111C)"
+          },
+          "modelSkus": [
+            "CM-4111C"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "2479c1f76fceb4695e9af618bbf612688375d3bc8047630c531239f90e18b0e3"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 220
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-4113c",
+      "slug": "cm-4113c",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "stethoscopes",
+      "subcategory": "general-stethoscopes",
+      "name": {
+        "en": "Colored Dual Head Stethoscope"
+      },
+      "variants": [
+        {
+          "sku": "CM-4113C"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": [
+          "For adult, attractive colored head with matching color PVC Y-tubing",
+          "Diameter of head: 47mm"
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-4113c/images/hero.webp",
+          "alt": {
+            "en": "Colored Dual Head Stethoscope (CM-4113C)"
+          },
+          "modelSkus": [
+            "CM-4113C"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "5220f09d30e470195ce0742b2f99902d15b408d23b5b6108578bfeb9828a33f8"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 230
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-4112",
+      "slug": "cm-4112",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "stethoscopes",
+      "subcategory": "deluxe-stethoscopes",
+      "name": {
+        "en": "Deluxe Single Head Stethoscope"
+      },
+      "variants": [
+        {
+          "sku": "CM-4112"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": [
+          "Die-Cast aluminum alloy chestpiece and chrome-plated brass binaural make the stethoscope functionally sensitive and uniquely attractive,also offers a color coordinated snap-on membrane retaining rim",
+          "Non-chill rim",
+          "Color coordinated eartip also available"
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-4112/images/hero.webp",
+          "alt": {
+            "en": "Deluxe Single Head Stethoscope (CM-4112)"
+          },
+          "modelSkus": [
+            "CM-4112"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "44f30c933a85f182760dedce5c789ac3290e91578702764e632ee952921eceb9"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 240
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-4125",
+      "slug": "cm-4125",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "stethoscopes",
+      "subcategory": "deluxe-stethoscopes",
+      "name": {
+        "en": "Deluxe Dual Head Stethoscope"
+      },
+      "variants": [
+        {
+          "sku": "CM-4125"
+        }
+      ],
+      "description": {
+        "en": "Feature a development new design aluminum alloy chestpiece,matching PVC Y-tubing,and non-chill rim,for professional purpose."
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-4125/images/hero.webp",
+          "alt": {
+            "en": "Deluxe Dual Head Stethoscope (CM-4125)"
+          },
+          "modelSkus": [
+            "CM-4125"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "19a2fef43f873c23d372a3f1df4551ce5f420db99e835ea2136a42a365a5b437"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 250
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-4158",
+      "slug": "cm-4158",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "stethoscopes",
+      "subcategory": "sprague-rappaport-stethoscopes",
+      "name": {
+        "en": "Sprague Rappaport Stethoscope"
+      },
+      "variants": [
+        {
+          "sku": "CM-4158"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": [
+          "Outstanding acoustical quality heavy walled 22\" tubes in many difference colors",
+          "Includes five-in-one accessory kit",
+          "Two extra pair of soft eartips",
+          "Packed in PVC zipper bag",
+          "Various colors tube available"
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-4158/images/hero.webp",
+          "alt": {
+            "en": "Sprague Rappaport Stethoscope (CM-4158)"
+          },
+          "modelSkus": [
+            "CM-4158"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "3b50d7f1a062f8a704ef3a22d62913178f696022a110a4f1ffb3360451f08081"
+        },
+        {
+          "role": "packaging",
+          "file": "products/cm-4158/images/gallery-02.webp",
+          "alt": {
+            "en": "Sprague Rappaport Stethoscope (CM-4158)"
+          },
+          "modelSkus": [
+            "CM-4158"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "00b95a512e17f6e9a0cca5d50071db1fdcd696e72efa1403a9935ff66339c446"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 260
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-4158pu",
+      "slug": "cm-4158pu",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "stethoscopes",
+      "subcategory": "sprague-rappaport-stethoscopes",
+      "name": {
+        "en": "Colored Sprague"
+      },
+      "variants": [
+        {
+          "sku": "CM-4158PU"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": [
+          "Attractive colored head with matching color tube",
+          "Outstanding acoustical quality heavy walled 22\" tubes",
+          "Includes five-in-one accessory kit",
+          "Two extra pair of soft eartips",
+          "Various colors tube and chestpiece available"
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-4158pu/images/hero.webp",
+          "alt": {
+            "en": "Colored Sprague (CM-4158PU)"
+          },
+          "modelSkus": [
+            "CM-4158PU"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "55fb0501018fb969f2c8f5b0e754c07f36fc17484cc5c82d1e24b35c32e8ed90"
+        },
+        {
+          "role": "packaging",
+          "file": "products/cm-4158pu/images/gallery-02.webp",
+          "alt": {
+            "en": "Colored Sprague (CM-4158PU)"
+          },
+          "modelSkus": [
+            "CM-4158PU"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "f486390cdc2077278cd74887098ead6f0a544a1840b33ce4dae193f9edc22e6d"
+        },
+        {
+          "role": "packaging",
+          "file": "products/cm-4158pu/images/gallery-03.webp",
+          "alt": {
+            "en": "Colored Sprague (CM-4158PU)"
+          },
+          "modelSkus": [
+            "CM-4158PU"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "08c784ab027889fd41c8c75daf43c0e60344f7ffa427057d2c1beb0735189805"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 270
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-4168",
+      "slug": "cm-4168",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "stethoscopes",
+      "subcategory": "sprague-rappaport-stethoscopes",
+      "name": {
+        "en": "Clock Sprague Stethoscope"
+      },
+      "variants": [
+        {
+          "sku": "CM-4168"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": [
+          "A new stethoscope features a chestpiece with a clock",
+          "Chrome-plated binaural and 22\" tubes",
+          "Two extra pair of soft eartips",
+          "Various colors tube available"
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-4168/images/hero.webp",
+          "alt": {
+            "en": "Clock Sprague Stethoscope (CM-4168)"
+          },
+          "modelSkus": [
+            "CM-4168"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "76e936f19f943d85217b9a8ea63700a7608620350bee8fb7fe9998e24b347905"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 280
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-4158g",
+      "slug": "cm-4158g",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "stethoscopes",
+      "subcategory": "sprague-rappaport-stethoscopes",
+      "name": {
+        "en": "Gold-plated Type"
+      },
+      "variants": [
+        {
+          "sku": "CM-4158G"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": [
+          "Outstanding acoustical quality heavy walled 22\" tubes in many difference colors",
+          "Includes five-in-one accessory kit",
+          "Two extra pair of soft eartips",
+          "Various colors available"
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-4158g/images/hero.webp",
+          "alt": {
+            "en": "Gold-plated Type (CM-4158G)"
+          },
+          "modelSkus": [
+            "CM-4158G"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "f7489c2cdeecd9094de077df9118d1b175a070f67eb376d60b74f0cc39de67a9"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 290
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-4258",
+      "slug": "cm-4258",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "stethoscopes",
+      "subcategory": "specialty-stethoscopes",
+      "name": {
+        "en": "Clock Stethoscope"
+      },
+      "variants": [
+        {
+          "sku": "CM-4258"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": [
+          "Clock dual head stethoscope",
+          "Features internal spring binaural and PVC Y-tubing",
+          "Chestpiece with a clock"
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-4258/images/hero.webp",
+          "alt": {
+            "en": "Clock Stethoscope (CM-4258)"
+          },
+          "modelSkus": [
+            "CM-4258"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "28d888a6569ca5e6f83e7dfb871204b74e19dc9f0ecb87799a6e49e3d4ac178b"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 300
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-4318",
+      "slug": "cm-4318",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "stethoscopes",
+      "subcategory": "pediatric-stethoscopes",
+      "name": {
+        "en": "Newborn Stethoscope"
+      },
+      "variants": [
+        {
+          "sku": "CM-4318"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": [
+          "The newborn stethoscope feature a unique raised membrane for greater sound amplification",
+          "Chrome-plated brass binaural and PVC Y-tubing",
+          "Zinc alloy newborn chestpiece"
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-4318/images/hero.webp",
+          "alt": {
+            "en": "Newborn Stethoscope (CM-4318)"
+          },
+          "modelSkus": [
+            "CM-4318"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "70987938fb5583ece82b634ee9102d0a51f92167eb2ce603ec8cf37630257a51"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 310
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-4256",
+      "slug": "cm-4256",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "stethoscopes",
+      "subcategory": "sprague-rappaport-stethoscopes",
+      "name": {
+        "en": "Single Sprague Stethoscope"
+      },
+      "variants": [
+        {
+          "sku": "CM-4256"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": [
+          "Internal spring binaural",
+          "Zinc Alloy Sprague Rappaport chestpiece with one copper stem",
+          "Includes five-in-one accessory kit",
+          "Two extra pair of soft eartips"
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-4256/images/hero.webp",
+          "alt": {
+            "en": "Single Sprague Stethoscope (CM-4256)"
+          },
+          "modelSkus": [
+            "CM-4256"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "6086804fc6a44c257411cd4c8af4ec2c3125a3971d79e0af6675067e2bfe9146"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 320
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-4227",
+      "slug": "cm-4227",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "stethoscopes",
+      "subcategory": "specialty-stethoscopes",
+      "name": {
+        "en": "Bowles stethoscope"
+      },
+      "variants": [
+        {
+          "sku": "CM-4227"
+        }
+      ],
+      "description": {
+        "en": "The Bowels Stethoscope features a chrome-plated brass internal spring binaural,chrome-plated raised metal stem chestpiece"
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-4227/images/hero.webp",
+          "alt": {
+            "en": "Bowles stethoscope (CM-4227)"
+          },
+          "modelSkus": [
+            "CM-4227"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "70525265f6375cee42ff47d45e432b2ee2d1db6ac0aeb50953d6f56e3fab92cb"
+        }
+      ],
+      "editorialNotes": [
+        "Catalogue title says Bowles; catalogue prose says Bowels."
+      ],
+      "sortOrder": 330
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-4251",
+      "slug": "cm-4251",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "stethoscopes",
+      "subcategory": "professional-stethoscopes",
+      "name": {
+        "en": "Master Classic I"
+      },
+      "variants": [
+        {
+          "sku": "CM-4251"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": [
+          "Offers efficiency in auscultation that is unprecedented in a general examination stethoscope",
+          "Monitoring of both high and low frequency sounds without having to turn over the chestpiece",
+          "Features high performance single-lumen tubing, non-chill rim and soft-sealing eartips"
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-4251/images/hero.webp",
+          "alt": {
+            "en": "Master Classic I (CM-4251)"
+          },
+          "modelSkus": [
+            "CM-4251"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "78b366ed8324b9db56f6de8f8a931c5bc18b958d513e89af95fcc94db7e7241a"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 340
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-4252",
+      "slug": "cm-4252",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "stethoscopes",
+      "subcategory": "professional-stethoscopes",
+      "name": {
+        "en": "Master-Lite Stethoscope"
+      },
+      "variants": [
+        {
+          "sku": "CM-4252"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": [
+          "Zinc alloy chestpiece with chrome-plated silver finish",
+          "Comes with inner-spring binaural tubing",
+          "Special design for get better effect through press the back of head",
+          "Special design of binaural for suiting the ear structure"
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-4252/images/hero.webp",
+          "alt": {
+            "en": "Master-Lite Stethoscope (CM-4252)"
+          },
+          "modelSkus": [
+            "CM-4252"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "a4bf90ca97c73f236db034f81f09d71f260531bc0c6e5fdfb07eea1f2c7dc227"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 350
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-4253",
+      "slug": "cm-4253",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "stethoscopes",
+      "subcategory": "professional-stethoscopes",
+      "name": {
+        "en": "Master-Lite Stethoscope"
+      },
+      "variants": [
+        {
+          "sku": "CM-4253"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": [
+          "Zinc alloy chestpiece with powder-coating finish",
+          "Comes with inner-spring binaural tubing",
+          "Special design for get better effect through press the back of head",
+          "Special design of binaural for suiting the ear structure"
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-4253/images/hero.webp",
+          "alt": {
+            "en": "Master-Lite Stethoscope (CM-4253)"
+          },
+          "modelSkus": [
+            "CM-4253"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "7fac81de85b653d99525990fd1b01a460c3e439c9d5a68ff6cad5fb791d19850"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 360
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-4454",
+      "slug": "cm-4454",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "stethoscopes",
+      "subcategory": "professional-stethoscopes",
+      "name": {
+        "en": "Master Cardiology Stethoscope"
+      },
+      "variants": [
+        {
+          "sku": "CM-4454"
+        }
+      ],
+      "description": {
+        "en": "Known as the ultimate acoustical stethoscope, this masterpiece in one movement is designed to let you hear both high and low frequency sounds from a single-sided chestpiece. Features a handcrafted, solid polished zinc alloy chestpiece,\"2-tubes-in-1 design\",lightweigh headset,special procedures adapter for difficult site and pediatric ausculatation,non-chill rim,double-leaf binural spring and soft-sealing eartips."
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-4454/images/hero.webp",
+          "alt": {
+            "en": "Master Cardiology Stethoscope (CM-4454)"
+          },
+          "modelSkus": [
+            "CM-4454"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "b685cd1b9e97b03445063866c1d101cdeb5f7f7c933d62e62db460a193af4760"
+        }
+      ],
+      "editorialNotes": [
+        "Catalogue spellings retained: lightweigh, ausculatation, binural."
+      ],
+      "sortOrder": 370
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-4310",
+      "slug": "cm-4310",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "stethoscopes",
+      "subcategory": "specialty-stethoscopes",
+      "name": {
+        "en": "Pregnancy Stethoscope"
+      },
+      "variants": [
+        {
+          "sku": "CM-4310"
+        }
+      ],
+      "description": {
+        "en": "For pregnancy use"
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-4310/images/hero.webp",
+          "alt": {
+            "en": "Pregnancy Stethoscope (CM-4310)"
+          },
+          "modelSkus": [
+            "CM-4310"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "5512a2bbc5289fbaae738a05291faa694c458ee8a7f3201681842b0b376071ca"
+        }
+      ],
+      "editorialNotes": [
+        "Display title normalized from the catalogue phrase “For pregnancy use”; the source does not print a standalone product title."
+      ],
+      "sortOrder": 380
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-4433",
+      "slug": "cm-4433",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "stethoscopes",
+      "subcategory": "specialty-stethoscopes",
+      "name": {
+        "en": "Cardio Mate 3-in-1 Scope Set"
+      },
+      "variants": [
+        {
+          "sku": "CM-4433"
+        }
+      ],
+      "description": {
+        "en": "Features one classic adult stethoscope with spare chestpiece for pediatric and infant included which can be connected through a connector."
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-4433/images/hero.webp",
+          "alt": {
+            "en": "Cardio Mate 3-in-1 Scope Set (CM-4433)"
+          },
+          "modelSkus": [
+            "CM-4433"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "1411314151a6b1d02baf1c218233ffc0981f1f14238c1a29476d041e5bb64e8a"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 390
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-4101",
+      "slug": "cm-4101",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "stethoscopes",
+      "subcategory": "teaching-stethoscopes",
+      "name": {
+        "en": "Teaching Stethoscope"
+      },
+      "variants": [
+        {
+          "sku": "CM-4101"
+        }
+      ],
+      "description": {
+        "en": "Dual Head Stethoscope for Teaching Use\nWith two binaural."
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-4101/images/hero.webp",
+          "alt": {
+            "en": "Teaching Stethoscope (CM-4101)"
+          },
+          "modelSkus": [
+            "CM-4101"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "97906cead4507e8cabe2f2121db793aa627d483961ce832e22afc66e3069f29c"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 400
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-4121-4123",
+      "slug": "cm-4121-4123",
+      "status": "draft",
+      "reviewStatus": "source-verified-shared-images",
+      "category": "stethoscopes",
+      "subcategory": "pediatric-stethoscopes",
+      "name": {
+        "en": "Acrylic Stethoscope"
+      },
+      "variants": [
+        {
+          "sku": "CM-4121",
+          "label": {
+            "en": "Adult"
+          }
+        },
+        {
+          "sku": "CM-4122",
+          "label": {
+            "en": "Child"
+          }
+        },
+        {
+          "sku": "CM-4123",
+          "label": {
+            "en": "Infant"
+          }
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": [
+          "Superior sound transmission lightweight acrylic chestpiece with polish finished",
+          "With a reinforce dual inner-spring construction provides extra durability and preset at the anatomically correct angle for optimal fit.",
+          "Heavy-walled 22\" Y-tubing blocks out extraneous sounds"
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-4121-4123/images/hero.webp",
+          "alt": {
+            "en": "Acrylic Stethoscope (CM-4121, CM-4122, CM-4123)"
+          },
+          "modelSkus": [
+            "CM-4121",
+            "CM-4122",
+            "CM-4123"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "7d74ae00d93e2459ba5075f989ea142e9eed93e72f1d3bedafe0caf66008e626"
+        },
+        {
+          "role": "detail",
+          "file": "products/cm-4121-4123/images/gallery-02.webp",
+          "alt": {
+            "en": "Acrylic Stethoscope (CM-4121, CM-4122, CM-4123)"
+          },
+          "modelSkus": [
+            "CM-4121",
+            "CM-4122",
+            "CM-4123"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "aee91ecccbb6404ca169cc1ac4445bd4256e33b953021eeab940bca5f20da90e"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 410
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-4141",
+      "slug": "cm-4141",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "stethoscopes",
+      "subcategory": "deluxe-stethoscopes",
+      "name": {
+        "en": "Deluxe Single Head"
+      },
+      "variants": [
+        {
+          "sku": "CM-4141"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": [
+          "Zinc alloy chestpiece,powder-coated finish",
+          "Comes with non-chill rim",
+          "With inner spring binaural Y-tubing assembly",
+          "Uniquely designed for the shape of chestpiece",
+          "Special design of binaural for suiting the ear structure"
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-4141/images/hero.webp",
+          "alt": {
+            "en": "Deluxe Single Head (CM-4141)"
+          },
+          "modelSkus": [
+            "CM-4141"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "590fe6ea0b5cbf5456fe6b6a9a67a606c67464101b48b35b1c68a082cd8b246a"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 420
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-4146",
+      "slug": "cm-4146",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "stethoscopes",
+      "subcategory": "professional-stethoscopes",
+      "name": {
+        "en": "Cardiology Stainless Steel Stethoscope"
+      },
+      "variants": [
+        {
+          "sku": "CM-4146"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": [
+          "Super quality stainless steel components for extended professional use and super clear sound transmission.",
+          "Feature \"two-tubes-in-one design\" and interior spring, non-chill rim for both sith of dual head chestpiece to assure patient comfort",
+          "Comes complete with screw-on ear-tips",
+          "Spare parts includes: 1 pair of comfortable firm eartips; 1 pair of soft screw-on eartips; 1 membrane"
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-4146/images/hero.webp",
+          "alt": {
+            "en": "Cardiology Stainless Steel Stethoscope (CM-4146)"
+          },
+          "modelSkus": [
+            "CM-4146"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "ff64f08c35fe468306172a868c8f110c1fb46fce84ce5583afe32ba5fc9d5976"
+        },
+        {
+          "role": "packaging",
+          "file": "products/cm-4146/images/gallery-02.webp",
+          "alt": {
+            "en": "Cardiology Stainless Steel Stethoscope (CM-4146)"
+          },
+          "modelSkus": [
+            "CM-4146"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "b59a1de5d47d855f66d5d8796fa60632f6b0896d9829a73c9f0e93bd44d14197"
+        }
+      ],
+      "editorialNotes": [
+        "Catalogue spelling retained: sith."
+      ],
+      "sortOrder": 430
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-4136",
+      "slug": "cm-4136",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "stethoscopes",
+      "subcategory": "professional-stethoscopes",
+      "name": {
+        "en": "Stainless Steel Stethoscope for Adult"
+      },
+      "variants": [
+        {
+          "sku": "CM-4136"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": [
+          "For Adult, deluxe type",
+          "With uniquely designed binaural thick wall Y-tubing assembly",
+          "Special design of binaural for suiting the ear structure",
+          "Features non-chill rim,and quality membrane",
+          "Spare parts includes: 1 pair of comfortable firm eartips; 1 pair of soft screw-on eartips; 1 membrane"
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-4136/images/hero.webp",
+          "alt": {
+            "en": "Stainless Steel Stethoscope for Adult (CM-4136)"
+          },
+          "modelSkus": [
+            "CM-4136"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "4710b116d763fa83e45a284e2fa5937523f22310f3b19b9fadf028cc19424311"
+        },
+        {
+          "role": "packaging",
+          "file": "products/cm-4136/images/gallery-02.webp",
+          "alt": {
+            "en": "Stainless Steel Stethoscope for Adult (CM-4136)"
+          },
+          "modelSkus": [
+            "CM-4136"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "be2cfef385921287a0b438078bab16960cb57b5906b6cca18b078b6180ead6a1"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 440
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-4236",
+      "slug": "cm-4236",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "stethoscopes",
+      "subcategory": "pediatric-stethoscopes",
+      "name": {
+        "en": "Pediatric Stainless Steel Stethoscope"
+      },
+      "variants": [
+        {
+          "sku": "CM-4236"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": [
+          "For pediatric purpose, deluxe type",
+          "With uniquely designed binaural thick wall Y-tubing assembly",
+          "Special design of binaural for suiting the ear structure",
+          "Features non-chill rim, and quality membrane",
+          "Spare parts includes: 1 pair of comfortable firm eartips; 1 pair of soft screw-on eartips; 1 membrane"
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-4236/images/hero.webp",
+          "alt": {
+            "en": "Pediatric Stainless Steel Stethoscope (CM-4236)"
+          },
+          "modelSkus": [
+            "CM-4236"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "65f6f2c4b574acb5443339b1af858f8f6af1b6d1e7be1379ba0489595adbcf92"
+        },
+        {
+          "role": "packaging",
+          "file": "products/cm-4236/images/gallery-02.webp",
+          "alt": {
+            "en": "Pediatric Stainless Steel Stethoscope (CM-4236)"
+          },
+          "modelSkus": [
+            "CM-4236"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "b5bbeefad39baa71f611b6c37649f636a137926b8844135ba7efa264523cbe23"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 450
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-4337",
+      "slug": "cm-4337",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "stethoscopes",
+      "subcategory": "professional-stethoscopes",
+      "name": {
+        "en": "Deluxe Cardilogy Clinical Stethoscope"
+      },
+      "variants": [
+        {
+          "sku": "CM-4337"
+        }
+      ],
+      "description": {
+        "en": "Feature a stainless steel chestpiece with two retaining rims and two membrane for adult and pediatric, stainless steel internal spring binaural for high acoustic sensitivity"
+      },
+      "features": {
+        "en": [
+          "Spare parts includes: 1 pair of comfortable firm eartips; 1 pair of soft screw-on eartips; 2 Membranes(adult and pediatric)"
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-4337/images/hero.webp",
+          "alt": {
+            "en": "Deluxe Cardilogy Clinical Stethoscope (CM-4337)"
+          },
+          "modelSkus": [
+            "CM-4337"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "7fd51f83bde452f2d23155524c950ad7dedd03c62eb971b57d565e089c0775cf"
+        }
+      ],
+      "editorialNotes": [
+        "Catalogue spelling retained: Cardilogy."
+      ],
+      "sortOrder": 460
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-4100-series",
+      "slug": "cm-4100-series",
+      "status": "draft",
+      "reviewStatus": "source-verified-shared-copy",
+      "category": "stethoscopes",
+      "subcategory": "disposable-stethoscopes",
+      "name": {
+        "en": "Disposable Stethoscope"
+      },
+      "variants": [
+        {
+          "sku": "CM-4100A"
+        },
+        {
+          "sku": "CM-4100B"
+        },
+        {
+          "sku": "CM-4100C"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": [
+          "Features a plastic chestpiece and binaural",
+          "Extra light-weight plastic scope is ideal for single patient use of children education purpose",
+          "Color available"
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-4100-series/images/hero.webp",
+          "alt": {
+            "en": "Disposable Stethoscope (CM-4100A)"
+          },
+          "modelSkus": [
+            "CM-4100A"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "3f3535d1c3414f73988a6983917bed77d41555b77bf6b1fe985537f518ca11a7"
+        },
+        {
+          "role": "gallery",
+          "file": "products/cm-4100-series/images/gallery-02.webp",
+          "alt": {
+            "en": "Disposable Stethoscope (CM-4100B)"
+          },
+          "modelSkus": [
+            "CM-4100B"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "d164cf1d1478ce4c6f7217c3f28643d7faaee125bb9e353b1c925c5435cd89d9"
+        },
+        {
+          "role": "gallery",
+          "file": "products/cm-4100-series/images/gallery-03.webp",
+          "alt": {
+            "en": "Disposable Stethoscope (CM-4100C)"
+          },
+          "modelSkus": [
+            "CM-4100C"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "88b11e1d20e46377130dd66aa9be3ca6a1fd5bc017533f63625c0d229f750d0b"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 470
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-4411-series",
+      "slug": "cm-4411-series",
+      "status": "draft",
+      "reviewStatus": "source-verified-no-description",
+      "category": "stethoscope-accessories",
+      "subcategory": "stethoscope-covers",
+      "name": {
+        "en": "Stethoscope Cover"
+      },
+      "variants": [
+        {
+          "sku": "CM-4411A"
+        },
+        {
+          "sku": "CM-4411B"
+        },
+        {
+          "sku": "CM-4411C"
+        },
+        {
+          "sku": "CM-4411D"
+        },
+        {
+          "sku": "CM-4411E"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-4411-series/images/hero.webp",
+          "alt": {
+            "en": "Stethoscope Cover (CM-4411A)"
+          },
+          "modelSkus": [
+            "CM-4411A"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "e50cd1a27501f4f05f466be4f82c87831bf7359254055ca4fbe15e901c93ac8e"
+        },
+        {
+          "role": "gallery",
+          "file": "products/cm-4411-series/images/gallery-02.webp",
+          "alt": {
+            "en": "Stethoscope Cover (CM-4411B)"
+          },
+          "modelSkus": [
+            "CM-4411B"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "95453cb5e2470f77be446e2e6072b2628bd3e21d1be6b436c8e0aed8f14b7baa"
+        },
+        {
+          "role": "gallery",
+          "file": "products/cm-4411-series/images/gallery-03.webp",
+          "alt": {
+            "en": "Stethoscope Cover (CM-4411C)"
+          },
+          "modelSkus": [
+            "CM-4411C"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "facc5b36406ecdfb591e80ce0d601af3597cefb16a97df83251975ac9ff58f10"
+        },
+        {
+          "role": "gallery",
+          "file": "products/cm-4411-series/images/gallery-04.webp",
+          "alt": {
+            "en": "Stethoscope Cover (CM-4411D)"
+          },
+          "modelSkus": [
+            "CM-4411D"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "90a31ad27b1f1fdeba057ae3aec5583826716f4ffbe305bcc0615ef3078e8bbf"
+        },
+        {
+          "role": "gallery",
+          "file": "products/cm-4411-series/images/gallery-05.webp",
+          "alt": {
+            "en": "Stethoscope Cover (CM-4411E)"
+          },
+          "modelSkus": [
+            "CM-4411E"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "f52d50963dc2e32b424c2adfe5e127a92ec08df78e4c96d7949030aca1c097b9"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 480
+    },
+    {
+      "schemaVersion": 1,
+      "id": "gauge-6011",
+      "slug": "gauge-6011",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "blood-pressure-accessories",
+      "subcategory": "gauges",
+      "name": {
+        "en": "Sphygmomanometer Gauge"
+      },
+      "variants": [
+        {
+          "sku": "6011"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": [
+          "0-300mmHg",
+          "NON STOP PIN.",
+          "Zinc alloy case",
+          "(120g)"
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/gauge-6011/images/hero.webp",
+          "alt": {
+            "en": "Sphygmomanometer Gauge (6011)"
+          },
+          "modelSkus": [
+            "6011"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "01ba959041e039c133ea02d68844ea623b8f5b4dbf3d59985a50cefd8c649653"
+        }
+      ],
+      "editorialNotes": [
+        "Generic display title inferred from the pictured product type; the catalogue prints only the model code and specifications."
+      ],
+      "sortOrder": 490
+    },
+    {
+      "schemaVersion": 1,
+      "id": "gauge-6012",
+      "slug": "gauge-6012",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "blood-pressure-accessories",
+      "subcategory": "gauges",
+      "name": {
+        "en": "Sphygmomanometer Gauge"
+      },
+      "variants": [
+        {
+          "sku": "6012"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": [
+          "20-300mmHg",
+          "NON STOP PIN.",
+          "Zinc alloy case",
+          "(120g)"
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/gauge-6012/images/hero.webp",
+          "alt": {
+            "en": "Sphygmomanometer Gauge (6012)"
+          },
+          "modelSkus": [
+            "6012"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "a746875457f5ac0151a89a52fea758af2b7868253881e402cf7e244c8a70309c"
+        }
+      ],
+      "editorialNotes": [
+        "Generic display title inferred from the pictured product type; the catalogue prints only the model code and specifications."
+      ],
+      "sortOrder": 500
+    },
+    {
+      "schemaVersion": 1,
+      "id": "gauge-6013",
+      "slug": "gauge-6013",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "blood-pressure-accessories",
+      "subcategory": "gauges",
+      "name": {
+        "en": "Sphygmomanometer Gauge"
+      },
+      "variants": [
+        {
+          "sku": "6013"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": [
+          "0-300mmHg",
+          "NON STOP PIN.",
+          "Grained finished.",
+          "Zinc alloy case",
+          "(120g)"
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/gauge-6013/images/hero.webp",
+          "alt": {
+            "en": "Sphygmomanometer Gauge (6013)"
+          },
+          "modelSkus": [
+            "6013"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "614354f94d523202b9c6634f85255b8f858d6696e12ef34a4942e79cea522b97"
+        }
+      ],
+      "editorialNotes": [
+        "Generic display title inferred from the pictured product type; the catalogue prints only the model code and specifications."
+      ],
+      "sortOrder": 510
+    },
+    {
+      "schemaVersion": 1,
+      "id": "gauge-6014",
+      "slug": "gauge-6014",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "blood-pressure-accessories",
+      "subcategory": "gauges",
+      "name": {
+        "en": "Sphygmomanometer Gauge"
+      },
+      "variants": [
+        {
+          "sku": "6014"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": [
+          "0-300mmHg",
+          "NON STOP PIN.",
+          "Zinc Case with Rubber Protective Ring"
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/gauge-6014/images/hero.webp",
+          "alt": {
+            "en": "Sphygmomanometer Gauge (6014)"
+          },
+          "modelSkus": [
+            "6014"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "2ec140a43ae19ff7c59fe32a254c8dfdfcb37bd11e012fbb5fb10e3533bc9b41"
+        }
+      ],
+      "editorialNotes": [
+        "Generic display title inferred from the pictured product type; the catalogue prints only the model code and specifications."
+      ],
+      "sortOrder": 520
+    },
+    {
+      "schemaVersion": 1,
+      "id": "gauge-6015",
+      "slug": "gauge-6015",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "blood-pressure-accessories",
+      "subcategory": "gauges",
+      "name": {
+        "en": "Sphygmomanometer Gauge"
+      },
+      "variants": [
+        {
+          "sku": "6015"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": [
+          "0-300mmHg",
+          "NON STOP PIN",
+          "Zinc case with Plastic Cover"
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/gauge-6015/images/hero.webp",
+          "alt": {
+            "en": "Sphygmomanometer Gauge (6015)"
+          },
+          "modelSkus": [
+            "6015"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "6b287482db2bebac097a89c21554197c0130039d18b273141924116c3de3ec84"
+        }
+      ],
+      "editorialNotes": [
+        "Generic display title inferred from the pictured product type; the catalogue prints only the model code and specifications."
+      ],
+      "sortOrder": 530
+    },
+    {
+      "schemaVersion": 1,
+      "id": "gauge-6016",
+      "slug": "gauge-6016",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "blood-pressure-accessories",
+      "subcategory": "gauges",
+      "name": {
+        "en": "Sphygmomanometer Gauge"
+      },
+      "variants": [
+        {
+          "sku": "6016"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": [
+          "20-300mmHg",
+          "NON STOP PIN",
+          "Zinc case with Plastic Cover"
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/gauge-6016/images/hero.webp",
+          "alt": {
+            "en": "Sphygmomanometer Gauge (6016)"
+          },
+          "modelSkus": [
+            "6016"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "26bf7350bb1a6bdebb9ee7deeba22125b6d1109d6679392aa56bc4116a6fcecf"
+        }
+      ],
+      "editorialNotes": [
+        "Generic display title inferred from the pictured product type; the catalogue prints only the model code and specifications."
+      ],
+      "sortOrder": 540
+    },
+    {
+      "schemaVersion": 1,
+      "id": "gauge-6017",
+      "slug": "gauge-6017",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "blood-pressure-accessories",
+      "subcategory": "gauges",
+      "name": {
+        "en": "Sphygmomanometer Gauge"
+      },
+      "variants": [
+        {
+          "sku": "6017"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": [
+          "Luminescent faceplate",
+          "(140g)"
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/gauge-6017/images/hero.webp",
+          "alt": {
+            "en": "Sphygmomanometer Gauge (6017)"
+          },
+          "modelSkus": [
+            "6017"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "c1d7ccb55bb55079377751daae51ccdfc0d8916c8e95d7644d22e9c9904c8c0b"
+        }
+      ],
+      "editorialNotes": [
+        "Generic display title inferred from the pictured product type; the catalogue prints only the model code and specifications."
+      ],
+      "sortOrder": 550
+    },
+    {
+      "schemaVersion": 1,
+      "id": "gauge-6018",
+      "slug": "gauge-6018",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "blood-pressure-accessories",
+      "subcategory": "gauge-guards",
+      "name": {
+        "en": "Guage Guard"
+      },
+      "variants": [
+        {
+          "sku": "6018"
+        }
+      ],
+      "description": {
+        "en": "Rubber Protective Ring"
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/gauge-6018/images/hero.webp",
+          "alt": {
+            "en": "Guage Guard (6018)"
+          },
+          "modelSkus": [
+            "6018"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "437c6d10c7631b61ea922eba167fe0d917b340cd515c5632b879d965e5e6cb56"
+        }
+      ],
+      "editorialNotes": [
+        "Catalogue spelling retained: Guage."
+      ],
+      "sortOrder": 560
+    },
+    {
+      "schemaVersion": 1,
+      "id": "pvc-bladder-6111-series",
+      "slug": "pvc-bladder-6111-series",
+      "status": "draft",
+      "reviewStatus": "source-verified-family-images",
+      "category": "blood-pressure-accessories",
+      "subcategory": "bladders",
+      "name": {
+        "en": "PVC Bladder"
+      },
+      "variants": [
+        {
+          "sku": "6111",
+          "label": {
+            "en": "Below 1 year old"
+          },
+          "specifications": {
+            "en": [
+              "90 x 25mm",
+              "newborn"
+            ]
+          }
+        },
+        {
+          "sku": "6112",
+          "label": {
+            "en": "1-4 years old"
+          },
+          "specifications": {
+            "en": [
+              "150 x 30mm",
+              "infant"
+            ]
+          }
+        },
+        {
+          "sku": "6113",
+          "label": {
+            "en": "5-9 years old"
+          },
+          "specifications": {
+            "en": [
+              "190 x 50mm",
+              "small adult"
+            ]
+          }
+        },
+        {
+          "sku": "6114",
+          "label": {
+            "en": "10-16 years old"
+          },
+          "specifications": {
+            "en": [
+              "210 x 85mm",
+              "child"
+            ]
+          }
+        },
+        {
+          "sku": "6115",
+          "label": {
+            "en": "Adult"
+          },
+          "specifications": {
+            "en": [
+              "220 x 120mm",
+              "1-tube"
+            ]
+          }
+        },
+        {
+          "sku": "6125",
+          "label": {
+            "en": "Adult"
+          },
+          "specifications": {
+            "en": [
+              "220 x 120mm",
+              "2-tubes"
+            ]
+          }
+        },
+        {
+          "sku": "6116",
+          "label": {
+            "en": "Large adult"
+          },
+          "specifications": {
+            "en": [
+              "325 x 150mm"
+            ]
+          }
+        },
+        {
+          "sku": "6117",
+          "label": {
+            "en": "Thigh"
+          },
+          "specifications": {
+            "en": [
+              "350 x 175mm"
+            ]
+          }
+        }
+      ],
+      "description": {
+        "en": "NOTE:Any customer's requirement on Bladders size, type(1-tube or 2-tubes)available"
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/pvc-bladder-6111-series/images/hero.webp",
+          "alt": {
+            "en": "PVC Bladder — catalogue family view"
+          },
+          "sourceType": "catalogue-extracted",
+          "contentHash": "9e11ff9b20f313a0335ee9c999885028551c735e2f7c6f43d9dd36a5f9c2a934"
+        },
+        {
+          "role": "gallery",
+          "file": "products/pvc-bladder-6111-series/images/gallery-02.webp",
+          "alt": {
+            "en": "PVC Bladder — catalogue family view"
+          },
+          "sourceType": "catalogue-extracted",
+          "contentHash": "94d63529b095797ea0fd5e4e7f3a216d584114dedf2b38cba4f4183c7c9b2ba7"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 570
+    },
+    {
+      "schemaVersion": 1,
+      "id": "premium-pvc-bladder-6145",
+      "slug": "premium-pvc-bladder-6145",
+      "status": "draft",
+      "reviewStatus": "source-verified-no-description",
+      "category": "blood-pressure-accessories",
+      "subcategory": "bladders",
+      "name": {
+        "en": "Premium PVC Bladder"
+      },
+      "variants": [
+        {
+          "sku": "6145"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/premium-pvc-bladder-6145/images/hero.webp",
+          "alt": {
+            "en": "Premium PVC Bladder (6145)"
+          },
+          "modelSkus": [
+            "6145"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "1cd55a30bb79a807fd55726f11a8f51ff66765d54149fb69f1e42e21911a8639"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 580
+    },
+    {
+      "schemaVersion": 1,
+      "id": "infussion-pvc-bladder-6135",
+      "slug": "infussion-pvc-bladder-6135",
+      "status": "draft",
+      "reviewStatus": "source-verified-no-description",
+      "category": "blood-pressure-accessories",
+      "subcategory": "bladders",
+      "name": {
+        "en": "Infussion PVC Bladder"
+      },
+      "variants": [
+        {
+          "sku": "6135"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/infussion-pvc-bladder-6135/images/hero.webp",
+          "alt": {
+            "en": "Infussion PVC Bladder (6135)"
+          },
+          "modelSkus": [
+            "6135"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "e0f2c2acf95ff6ec13f3acd811a43af38a1a285752dbf849ddd1b194fc1bf91c"
+        }
+      ],
+      "editorialNotes": [
+        "Catalogue spelling retained: Infussion."
+      ],
+      "sortOrder": 590
+    },
+    {
+      "schemaVersion": 1,
+      "id": "deluxe-pvc-bladder-6185",
+      "slug": "deluxe-pvc-bladder-6185",
+      "status": "draft",
+      "reviewStatus": "source-verified-no-description",
+      "category": "blood-pressure-accessories",
+      "subcategory": "bladders",
+      "name": {
+        "en": "Deluxe PVC Bladder"
+      },
+      "variants": [
+        {
+          "sku": "6185"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/deluxe-pvc-bladder-6185/images/hero.webp",
+          "alt": {
+            "en": "Deluxe PVC Bladder (6185)"
+          },
+          "modelSkus": [
+            "6185"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "c92ac41823bccee47ab1e69c3dbd4198c73ad8aa3bf2d123f7eaba4af8a28643"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 600
+    },
+    {
+      "schemaVersion": 1,
+      "id": "single-patient-blood-pressure-cuff-6175",
+      "slug": "single-patient-blood-pressure-cuff-6175",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "blood-pressure-accessories",
+      "subcategory": "blood-pressure-cuffs",
+      "name": {
+        "en": "Single-Patient Use Blood Pressure Cuff"
+      },
+      "variants": [
+        {
+          "sku": "6175"
+        }
+      ],
+      "description": {
+        "en": "NOTE:Any customer's requirement on cuff size, type(1-tube or 2-tubes) available"
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/single-patient-blood-pressure-cuff-6175/images/hero.webp",
+          "alt": {
+            "en": "Single-Patient Use Blood Pressure Cuff (6175)"
+          },
+          "modelSkus": [
+            "6175"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "47f6d1f88c2c1c5e3d8ce46b4e8a836f35b88f4c733dd0ee2c669eea2a2b147f"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 610
+    },
+    {
+      "schemaVersion": 1,
+      "id": "deluxe-blood-pressure-cuff-6195",
+      "slug": "deluxe-blood-pressure-cuff-6195",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "blood-pressure-accessories",
+      "subcategory": "blood-pressure-cuffs",
+      "name": {
+        "en": "Deluxe Blood Pressure Cuff"
+      },
+      "variants": [
+        {
+          "sku": "6195"
+        }
+      ],
+      "description": {
+        "en": "NOTE:Any customer's requirement on bladders size, type(1-tube or 2-tubes)available"
+      },
+      "features": {
+        "en": [
+          "Latex Free",
+          "It is available for aneroid or digital"
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/deluxe-blood-pressure-cuff-6195/images/hero.webp",
+          "alt": {
+            "en": "Deluxe Blood Pressure Cuff (6195)"
+          },
+          "modelSkus": [
+            "6195"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "125d2dda891d4d8a7edd011c1a26867c4756c0c63040da52838c109e89f58125"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 620
+    },
+    {
+      "schemaVersion": 1,
+      "id": "latex-bladder-series",
+      "slug": "latex-bladder-series",
+      "status": "draft",
+      "reviewStatus": "needs-review-source-inconsistency",
+      "category": "blood-pressure-accessories",
+      "subcategory": "bladders",
+      "name": {
+        "en": "Latex Bladder"
+      },
+      "variants": [
+        {
+          "sku": "6151",
+          "label": {
+            "en": "Below 1 year old"
+          },
+          "specifications": {
+            "en": [
+              "90 x 25mm",
+              "newborn"
+            ]
+          }
+        },
+        {
+          "sku": "6152",
+          "label": {
+            "en": "1-4 years old"
+          },
+          "specifications": {
+            "en": [
+              "150 x 30mm",
+              "infant"
+            ]
+          }
+        },
+        {
+          "sku": "6153",
+          "label": {
+            "en": "5-9 years old"
+          },
+          "specifications": {
+            "en": [
+              "190 x 50mm",
+              "small adult"
+            ]
+          }
+        },
+        {
+          "sku": "6154",
+          "label": {
+            "en": "10-16 years old"
+          },
+          "specifications": {
+            "en": [
+              "210 x 85mm",
+              "child"
+            ]
+          }
+        },
+        {
+          "sku": "6155",
+          "label": {
+            "en": "Adult"
+          },
+          "specifications": {
+            "en": [
+              "220 x 120mm",
+              "1-tube"
+            ]
+          }
+        },
+        {
+          "sku": "6165",
+          "label": {
+            "en": "Adult"
+          },
+          "specifications": {
+            "en": [
+              "220 x 120mm",
+              "2-tubes"
+            ]
+          }
+        },
+        {
+          "sku": "6156",
+          "label": {
+            "en": "Large adult"
+          },
+          "specifications": {
+            "en": [
+              "325 x 150mm"
+            ]
+          }
+        },
+        {
+          "sku": "6157",
+          "label": {
+            "en": "Thigh"
+          },
+          "specifications": {
+            "en": [
+              "350 x 175mm"
+            ]
+          }
+        },
+        {
+          "sku": "6163"
+        },
+        {
+          "sku": "6164"
+        },
+        {
+          "sku": "6166"
+        },
+        {
+          "sku": "6167"
+        }
+      ],
+      "description": {
+        "en": "NOTE:Any customer's requirement on Bladders size, type(1-tube or 2-tubes)available"
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/latex-bladder-series/images/hero.webp",
+          "alt": {
+            "en": "Latex Bladder (6153)"
+          },
+          "modelSkus": [
+            "6153"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "3aa53de4ee860a5a338ea585784bb55ec491c587bc9b23bf792d2e79f94f1a44"
+        },
+        {
+          "role": "gallery",
+          "file": "products/latex-bladder-series/images/gallery-02.webp",
+          "alt": {
+            "en": "Latex Bladder (6154)"
+          },
+          "modelSkus": [
+            "6154"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "0e4c7f5e2676ad29533f79a8d7ca34bc6ef9458f204213c90f4700a7779ad970"
+        },
+        {
+          "role": "gallery",
+          "file": "products/latex-bladder-series/images/gallery-03.webp",
+          "alt": {
+            "en": "Latex Bladder (6155)"
+          },
+          "modelSkus": [
+            "6155"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "e2e42a95ff85140dbb8eb36f983f43e38ac3d26af100e018c33471d21ec4ad46"
+        },
+        {
+          "role": "gallery",
+          "file": "products/latex-bladder-series/images/gallery-04.webp",
+          "alt": {
+            "en": "Latex Bladder (6156)"
+          },
+          "modelSkus": [
+            "6156"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "94f013f15ca82751e8c4507ea0c53a380110d07006c1dfb7656f2c76d2f930d4"
+        },
+        {
+          "role": "gallery",
+          "file": "products/latex-bladder-series/images/gallery-05.webp",
+          "alt": {
+            "en": "Latex Bladder (6157)"
+          },
+          "modelSkus": [
+            "6157"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "725901cf0a2ac38fac392eb896067ab15f4017b1ce95aecde42dd7429b00e2e0"
+        },
+        {
+          "role": "gallery",
+          "file": "products/latex-bladder-series/images/gallery-06.webp",
+          "alt": {
+            "en": "Latex Bladder (6163)"
+          },
+          "modelSkus": [
+            "6163"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "b177f59a9dc1dc1e9840ffd059a0f16b63be9141ff8576c1124bd25bdc5d0c69"
+        },
+        {
+          "role": "gallery",
+          "file": "products/latex-bladder-series/images/gallery-07.webp",
+          "alt": {
+            "en": "Latex Bladder (6164)"
+          },
+          "modelSkus": [
+            "6164"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "ff7f1ba773f24af7abed98b7d3db364042375bd954ab09f2dfce7f7d059e3bc8"
+        },
+        {
+          "role": "gallery",
+          "file": "products/latex-bladder-series/images/gallery-08.webp",
+          "alt": {
+            "en": "Latex Bladder (6165)"
+          },
+          "modelSkus": [
+            "6165"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "4a87b3c5f5dc25968d8e7d60eb33ce9b2a490c5d822dca959faa491aba8160da"
+        },
+        {
+          "role": "gallery",
+          "file": "products/latex-bladder-series/images/gallery-09.webp",
+          "alt": {
+            "en": "Latex Bladder (6166)"
+          },
+          "modelSkus": [
+            "6166"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "3240494ad8a3085035d02ebafd0e0d469dcbe8d49b924fe9fdabc80c8d895cf3"
+        },
+        {
+          "role": "gallery",
+          "file": "products/latex-bladder-series/images/gallery-10.webp",
+          "alt": {
+            "en": "Latex Bladder (6167)"
+          },
+          "modelSkus": [
+            "6167"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "1e2225e222bff8d801240d4829a293adf4c8a7486c69d5c4a75cc67bcb0b1a93"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 630
+    },
+    {
+      "schemaVersion": 1,
+      "id": "nylon-calibrated-cuff-series",
+      "slug": "nylon-calibrated-cuff-series",
+      "status": "draft",
+      "reviewStatus": "source-verified-family-images",
+      "category": "blood-pressure-accessories",
+      "subcategory": "blood-pressure-cuffs",
+      "name": {
+        "en": "Nylon Calibrated Cuff"
+      },
+      "variants": [
+        {
+          "sku": "6211",
+          "label": {
+            "en": "Below 1 year old"
+          },
+          "specifications": {
+            "en": [
+              "250 x 45mm",
+              "newborn"
+            ]
+          }
+        },
+        {
+          "sku": "6212",
+          "label": {
+            "en": "1-4 years old"
+          },
+          "specifications": {
+            "en": [
+              "330 x 50mm",
+              "Infant"
+            ]
+          }
+        },
+        {
+          "sku": "6213",
+          "label": {
+            "en": "5-9 years old"
+          },
+          "specifications": {
+            "en": [
+              "380 x 70mm",
+              "small adult"
+            ]
+          }
+        },
+        {
+          "sku": "6214",
+          "label": {
+            "en": "10-16 years old"
+          },
+          "specifications": {
+            "en": [
+              "450 x 105mm",
+              "child"
+            ]
+          }
+        },
+        {
+          "sku": "6215",
+          "label": {
+            "en": "Adult"
+          },
+          "specifications": {
+            "en": [
+              "500 x 140mm"
+            ]
+          }
+        },
+        {
+          "sku": "6216",
+          "label": {
+            "en": "Large Adult"
+          },
+          "specifications": {
+            "en": [
+              "620 x 170mm"
+            ]
+          }
+        },
+        {
+          "sku": "6217",
+          "label": {
+            "en": "Thigh"
+          },
+          "specifications": {
+            "en": [
+              "770 x 185mm"
+            ]
+          }
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/nylon-calibrated-cuff-series/images/hero.webp",
+          "alt": {
+            "en": "Nylon Calibrated Cuff — catalogue family view"
+          },
+          "sourceType": "catalogue-extracted",
+          "contentHash": "aac39b0f34566d9c1a3fa659c7fce386bfe1cd2261b14bc402d77662cc884fe3"
+        },
+        {
+          "role": "gallery",
+          "file": "products/nylon-calibrated-cuff-series/images/gallery-02.webp",
+          "alt": {
+            "en": "Nylon Calibrated Cuff — catalogue family view"
+          },
+          "sourceType": "catalogue-extracted",
+          "contentHash": "726d1d4a7c9932a8cdc826e96b756daa82f1b3dd7f372e48cd1bf0ed5b231d2b"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 640
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cuff-6280",
+      "slug": "cuff-6280",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "blood-pressure-accessories",
+      "subcategory": "blood-pressure-cuffs",
+      "name": {
+        "en": "Deluxe Home Cuff"
+      },
+      "variants": [
+        {
+          "sku": "6280",
+          "specifications": {
+            "en": [
+              "500x160mm"
+            ]
+          }
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cuff-6280/images/hero.webp",
+          "alt": {
+            "en": "Deluxe Home Cuff (6280)"
+          },
+          "modelSkus": [
+            "6280"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "17dd1249e7ad7d842bb9663fe789ec026faedbd977e0ff272795901d779a2b15"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 650
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cuff-6281",
+      "slug": "cuff-6281",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "blood-pressure-accessories",
+      "subcategory": "blood-pressure-cuffs",
+      "name": {
+        "en": "Blood Pressure Cuff with D-Ring"
+      },
+      "variants": [
+        {
+          "sku": "6281",
+          "label": {
+            "en": "Adult"
+          },
+          "specifications": {
+            "en": [
+              "510x140mm"
+            ]
+          }
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cuff-6281/images/hero.webp",
+          "alt": {
+            "en": "Blood Pressure Cuff with D-Ring (6281)"
+          },
+          "modelSkus": [
+            "6281"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "93414959dc82a47402e7421b66eafd86e8dd16297253be00cdb9a44280365f0a"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 660
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cuff-6282",
+      "slug": "cuff-6282",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "blood-pressure-accessories",
+      "subcategory": "blood-pressure-cuffs",
+      "name": {
+        "en": "Calibrated nylon cuff with a ganci in metal"
+      },
+      "variants": [
+        {
+          "sku": "6282",
+          "label": {
+            "en": "adult"
+          },
+          "specifications": {
+            "en": [
+              "500x140mm"
+            ]
+          }
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cuff-6282/images/hero.webp",
+          "alt": {
+            "en": "Calibrated nylon cuff with a ganci in metal (6282)"
+          },
+          "modelSkus": [
+            "6282"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "4f06c1d4c13294650dfecc9b70457c3a68f9ec11409ccab635ba1ef463105dae"
+        }
+      ],
+      "editorialNotes": [
+        "Catalogue wording retained: ganci in metal."
+      ],
+      "sortOrder": 670
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cuff-6283",
+      "slug": "cuff-6283",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "blood-pressure-accessories",
+      "subcategory": "blood-pressure-cuffs",
+      "name": {
+        "en": "Metal Chip Cuff"
+      },
+      "variants": [
+        {
+          "sku": "6283",
+          "label": {
+            "en": "Adult"
+          },
+          "specifications": {
+            "en": [
+              "500x140mm"
+            ]
+          }
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cuff-6283/images/hero.webp",
+          "alt": {
+            "en": "Metal Chip Cuff (6283)"
+          },
+          "modelSkus": [
+            "6283"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "628aa3ee0e26e87347ea5a182bcdd2a1e4bdc0eb2db485cf3a5b0cfd889682e4"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 680
+    },
+    {
+      "schemaVersion": 1,
+      "id": "heavy-duty-nylon-calibrated-cuff-series",
+      "slug": "heavy-duty-nylon-calibrated-cuff-series",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "blood-pressure-accessories",
+      "subcategory": "blood-pressure-cuffs",
+      "name": {
+        "en": "Heavy Duty Nylon Calibrated Cuff"
+      },
+      "variants": [
+        {
+          "sku": "6221",
+          "label": {
+            "en": "1-4 years old"
+          },
+          "specifications": {
+            "en": [
+              "260 x 75mm",
+              "Infant"
+            ]
+          }
+        },
+        {
+          "sku": "6222",
+          "label": {
+            "en": "10-16 years old"
+          },
+          "specifications": {
+            "en": [
+              "345 x 105mm",
+              "child"
+            ]
+          }
+        },
+        {
+          "sku": "6223",
+          "label": {
+            "en": "Adult"
+          },
+          "specifications": {
+            "en": [
+              "530 x 145mm"
+            ]
+          }
+        },
+        {
+          "sku": "6224",
+          "label": {
+            "en": "Large Adult"
+          },
+          "specifications": {
+            "en": [
+              "630 x 180mm"
+            ]
+          }
+        },
+        {
+          "sku": "6225",
+          "label": {
+            "en": "Thigh"
+          },
+          "specifications": {
+            "en": [
+              "830 x 210mm"
+            ]
+          }
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": [
+          "Durable nylon construction",
+          "Exclusive size marking system",
+          "For use with most aneroid or mercurial blood pressure instruments available in 5 sizes"
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/heavy-duty-nylon-calibrated-cuff-series/images/hero.webp",
+          "alt": {
+            "en": "Heavy Duty Nylon Calibrated Cuff — Thigh (6225)"
+          },
+          "modelSkus": [
+            "6225"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "081a85b4150c64369114ada59436efabb3fa9a71c0d131a6311ad9df257b11ac"
+        },
+        {
+          "role": "gallery",
+          "file": "products/heavy-duty-nylon-calibrated-cuff-series/images/gallery-02.webp",
+          "alt": {
+            "en": "Heavy Duty Nylon Calibrated Cuff — Infant (6221)"
+          },
+          "modelSkus": [
+            "6221"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "2ff0b26b14940d4f333ccc14b3f999159444b4521bf8f42a3e4fffedc4add54e"
+        },
+        {
+          "role": "gallery",
+          "file": "products/heavy-duty-nylon-calibrated-cuff-series/images/gallery-03.webp",
+          "alt": {
+            "en": "Heavy Duty Nylon Calibrated Cuff — Child (6222)"
+          },
+          "modelSkus": [
+            "6222"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "8fb176028f5a33b520f0db367f8b00632647e2e36f4b437258f04eace6c73e5c"
+        },
+        {
+          "role": "gallery",
+          "file": "products/heavy-duty-nylon-calibrated-cuff-series/images/gallery-04.webp",
+          "alt": {
+            "en": "Heavy Duty Nylon Calibrated Cuff — Large Adult (6224)"
+          },
+          "modelSkus": [
+            "6224"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "9824588ad17382d09a81d37198bcbd05cdf9e4cc2b6c5c0879742d2c1ff6db87"
+        },
+        {
+          "role": "gallery",
+          "file": "products/heavy-duty-nylon-calibrated-cuff-series/images/gallery-05.webp",
+          "alt": {
+            "en": "Heavy Duty Nylon Calibrated Cuff — Thigh (6225)"
+          },
+          "modelSkus": [
+            "6225"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "c8042a794ecc7e0b0f4f996c02c5af7e9deb60503f472a6edd60249d4aa75642"
+        },
+        {
+          "role": "gallery",
+          "file": "products/heavy-duty-nylon-calibrated-cuff-series/images/gallery-06.webp",
+          "alt": {
+            "en": "Heavy Duty Nylon Calibrated Cuff — Adult (6223)"
+          },
+          "modelSkus": [
+            "6223"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "27135aca3d8dbcc55e818a77770710b179fd29ac098109b6722e3a05799bf4d9"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 690
+    },
+    {
+      "schemaVersion": 1,
+      "id": "bulb-6411",
+      "slug": "bulb-6411",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "blood-pressure-accessories",
+      "subcategory": "inflation-bulbs",
+      "name": {
+        "en": "PVC Ribbed Bulb with taper metal net end valve"
+      },
+      "variants": [
+        {
+          "sku": "6411"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/bulb-6411/images/hero.webp",
+          "alt": {
+            "en": "PVC Ribbed Bulb with taper metal net end valve (6411)"
+          },
+          "modelSkus": [
+            "6411"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "e6c76d8df23a2ab3f3264b35129c59c253a8b3d0cc4d8294e564c4b04c7bfc11"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 700
+    },
+    {
+      "schemaVersion": 1,
+      "id": "bulb-6412",
+      "slug": "bulb-6412",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "blood-pressure-accessories",
+      "subcategory": "inflation-bulbs",
+      "name": {
+        "en": "Standard Latex Bulb with end valve"
+      },
+      "variants": [
+        {
+          "sku": "6412"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/bulb-6412/images/hero.webp",
+          "alt": {
+            "en": "Standard Latex Bulb with end valve (6412)"
+          },
+          "modelSkus": [
+            "6412"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "d5500fdbf6c641630579433f5ff85a036f1e237f69d5e942be030d1dac6a4bb3"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 710
+    },
+    {
+      "schemaVersion": 1,
+      "id": "bulb-6413",
+      "slug": "bulb-6413",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "blood-pressure-accessories",
+      "subcategory": "inflation-bulbs",
+      "name": {
+        "en": "Standard PVC Bulb with end valve"
+      },
+      "variants": [
+        {
+          "sku": "6413"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/bulb-6413/images/hero.webp",
+          "alt": {
+            "en": "Standard PVC Bulb with end valve (6413)"
+          },
+          "modelSkus": [
+            "6413"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "35e74dad86d5ffb8fcec84f3a5c3ceeb79593bde7bd4c4e96a547706bb1a2abf"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 720
+    },
+    {
+      "schemaVersion": 1,
+      "id": "bulb-6414",
+      "slug": "bulb-6414",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "blood-pressure-accessories",
+      "subcategory": "inflation-bulbs",
+      "name": {
+        "en": "Rubber Bulb with plastic end valve"
+      },
+      "variants": [
+        {
+          "sku": "6414"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/bulb-6414/images/hero.webp",
+          "alt": {
+            "en": "Rubber Bulb with plastic end valve (6414)"
+          },
+          "modelSkus": [
+            "6414"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "2ca600ddff1b5525dc0cc0cce6e6db53402f90d67320cb75b081dcca403e1999"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 730
+    },
+    {
+      "schemaVersion": 1,
+      "id": "valve-6511",
+      "slug": "valve-6511",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "blood-pressure-accessories",
+      "subcategory": "valves",
+      "name": {
+        "en": "Plastic push-button air release valve"
+      },
+      "variants": [
+        {
+          "sku": "6511"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/valve-6511/images/hero.webp",
+          "alt": {
+            "en": "Plastic push-button air release valve (6511)"
+          },
+          "modelSkus": [
+            "6511"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "a665bec543ff94e6c01ba451ea1c6acc13c51d121110d6b6c121cefa44673f31"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 740
+    },
+    {
+      "schemaVersion": 1,
+      "id": "valve-6512",
+      "slug": "valve-6512",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "blood-pressure-accessories",
+      "subcategory": "valves",
+      "name": {
+        "en": "Deluxe air release net valve with spring"
+      },
+      "variants": [
+        {
+          "sku": "6512"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/valve-6512/images/hero.webp",
+          "alt": {
+            "en": "Deluxe air release net valve with spring (6512)"
+          },
+          "modelSkus": [
+            "6512"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "dc45eea84fb59248937b9898ebb86149e4ed6a7c4a6c12663d430b5f698cb167"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 750
+    },
+    {
+      "schemaVersion": 1,
+      "id": "valve-6513",
+      "slug": "valve-6513",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "blood-pressure-accessories",
+      "subcategory": "valves",
+      "name": {
+        "en": "Premium air release valve with spring"
+      },
+      "variants": [
+        {
+          "sku": "6513"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/valve-6513/images/hero.webp",
+          "alt": {
+            "en": "Premium air release valve with spring (6513)"
+          },
+          "modelSkus": [
+            "6513"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "66112ba0184d1d8c83c677e881c62ce36514ac5f7d27ddf0be032a36866fe2ba"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 760
+    },
+    {
+      "schemaVersion": 1,
+      "id": "valve-6514",
+      "slug": "valve-6514",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "blood-pressure-accessories",
+      "subcategory": "valves",
+      "name": {
+        "en": "Standard air release valve with spring"
+      },
+      "variants": [
+        {
+          "sku": "6514"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/valve-6514/images/hero.webp",
+          "alt": {
+            "en": "Standard air release valve with spring (6514)"
+          },
+          "modelSkus": [
+            "6514"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "f54057a90228e711324f228490603aaed15f16db7e35b01e4e306319c52f90c9"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 770
+    },
+    {
+      "schemaVersion": 1,
+      "id": "valve-6515",
+      "slug": "valve-6515",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "blood-pressure-accessories",
+      "subcategory": "valves",
+      "name": {
+        "en": "Plastic end valve"
+      },
+      "variants": [
+        {
+          "sku": "6515"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/valve-6515/images/hero.webp",
+          "alt": {
+            "en": "Plastic end valve (6515)"
+          },
+          "modelSkus": [
+            "6515"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "a7c28ed6972ab70af26ed62909493fb8331f0c1d0c68ad7d4b518b0f0ff9fa19"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 780
+    },
+    {
+      "schemaVersion": 1,
+      "id": "valve-6516",
+      "slug": "valve-6516",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "blood-pressure-accessories",
+      "subcategory": "valves",
+      "name": {
+        "en": "Plastic end valve"
+      },
+      "variants": [
+        {
+          "sku": "6516"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/valve-6516/images/hero.webp",
+          "alt": {
+            "en": "Plastic end valve (6516)"
+          },
+          "modelSkus": [
+            "6516"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "ef8cc2bc91b0d88fae236bc9f13eafbd98d42c72c4238f49ab01eed59807dfe2"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 790
+    },
+    {
+      "schemaVersion": 1,
+      "id": "valve-6517",
+      "slug": "valve-6517",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "blood-pressure-accessories",
+      "subcategory": "valves",
+      "name": {
+        "en": "Metal net end valve(dust filter)"
+      },
+      "variants": [
+        {
+          "sku": "6517"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/valve-6517/images/hero.webp",
+          "alt": {
+            "en": "Metal net end valve(dust filter) (6517)"
+          },
+          "modelSkus": [
+            "6517"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "acad2c1010a548aeaa47a239da68ea2f464617c395133871a0226bca4aea5e45"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 800
+    },
+    {
+      "schemaVersion": 1,
+      "id": "valve-6518",
+      "slug": "valve-6518",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "blood-pressure-accessories",
+      "subcategory": "valves",
+      "name": {
+        "en": "Standard end valve"
+      },
+      "variants": [
+        {
+          "sku": "6518"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/valve-6518/images/hero.webp",
+          "alt": {
+            "en": "Standard end valve (6518)"
+          },
+          "modelSkus": [
+            "6518"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "9df72e9a4968800a5ae4d3ea8343f7c9c5065d558a82f44633f8192dac4ab537"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 810
+    },
+    {
+      "schemaVersion": 1,
+      "id": "connector-6519",
+      "slug": "connector-6519",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "blood-pressure-accessories",
+      "subcategory": "connectors",
+      "name": {
+        "en": "Copper Male-Female Connector"
+      },
+      "variants": [
+        {
+          "sku": "6519"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/connector-6519/images/hero.webp",
+          "alt": {
+            "en": "Copper Male-Female Connector (6519)"
+          },
+          "modelSkus": [
+            "6519"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "28445b1f3eab07dad0be03f1882ea784432a05efa5ae9002bb0341040e23f51a"
+        },
+        {
+          "role": "detail",
+          "file": "products/connector-6519/images/gallery-02.webp",
+          "alt": {
+            "en": "Copper Male-Female Connector (6519)"
+          },
+          "modelSkus": [
+            "6519"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "b041f9c40751d8319b3600ce5ea92bb1b29ce49dd2a428ff00777e69222e24a3"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 820
+    },
+    {
+      "schemaVersion": 1,
+      "id": "connector-6520",
+      "slug": "connector-6520",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "blood-pressure-accessories",
+      "subcategory": "connectors",
+      "name": {
+        "en": "Plastic Male-Female Luer Connector"
+      },
+      "variants": [
+        {
+          "sku": "6520"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/connector-6520/images/hero.webp",
+          "alt": {
+            "en": "Plastic Male-Female Luer Connector (6520)"
+          },
+          "modelSkus": [
+            "6520"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "471dd872d04ab981616e6a0a2f59122a92ef826ac2e20a1d55c3e762481beaf5"
+        },
+        {
+          "role": "detail",
+          "file": "products/connector-6520/images/gallery-02.webp",
+          "alt": {
+            "en": "Plastic Male-Female Luer Connector (6520)"
+          },
+          "modelSkus": [
+            "6520"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "3c3a27dd6a9510d3d8c2c845c7cd799cb66437c4c9835ad2dc52ec2d5c776106"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 830
+    },
+    {
+      "schemaVersion": 1,
+      "id": "connector-6521",
+      "slug": "connector-6521",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "blood-pressure-accessories",
+      "subcategory": "connectors",
+      "name": {
+        "en": "Plastic Connector"
+      },
+      "variants": [
+        {
+          "sku": "6521"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/connector-6521/images/hero.webp",
+          "alt": {
+            "en": "Plastic Connector (6521)"
+          },
+          "modelSkus": [
+            "6521"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "24dee4f980119f92660bdfe1c6593a32e049476ba30769f66ce48c71403b16c5"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 840
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cases-6600-6601",
+      "slug": "cases-6600-6601",
+      "status": "draft",
+      "reviewStatus": "source-verified-shared-image",
+      "category": "blood-pressure-accessories",
+      "subcategory": "carrying-cases",
+      "name": {
+        "en": "Vinyl Zipper Case"
+      },
+      "variants": [
+        {
+          "sku": "6600",
+          "label": {
+            "en": "for sphygmomanometer"
+          }
+        },
+        {
+          "sku": "6601",
+          "label": {
+            "en": "for home blood pressure kit"
+          }
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cases-6600-6601/images/hero.webp",
+          "alt": {
+            "en": "Vinyl Zipper Case (6600, 6601)"
+          },
+          "modelSkus": [
+            "6600",
+            "6601"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "6df8174f8f8a27fcb6363e3244fcee1d175aa916994d5312c59c4942ecc6e1ef"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 850
+    },
+    {
+      "schemaVersion": 1,
+      "id": "case-6610",
+      "slug": "case-6610",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "blood-pressure-accessories",
+      "subcategory": "carrying-cases",
+      "name": {
+        "en": "Nylon zipper case"
+      },
+      "variants": [
+        {
+          "sku": "6610"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/case-6610/images/hero.webp",
+          "alt": {
+            "en": "Nylon zipper case (6610)"
+          },
+          "modelSkus": [
+            "6610"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "2e96cce21cb1c00aaf7716daed2addd2b148b0d0486b815227d1aaebc70d8654"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 860
+    },
+    {
+      "schemaVersion": 1,
+      "id": "case-6620",
+      "slug": "case-6620",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "blood-pressure-accessories",
+      "subcategory": "carrying-cases",
+      "name": {
+        "en": "Non-woven zipper case for environmental protection"
+      },
+      "variants": [
+        {
+          "sku": "6620"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/case-6620/images/hero.webp",
+          "alt": {
+            "en": "Non-woven zipper case for environmental protection (6620)"
+          },
+          "modelSkus": [
+            "6620"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "d6cba889f5aedaee2910da484fd5825a0f0a76fd6d2b64db73ae2bc75d17ca2e"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 870
+    },
+    {
+      "schemaVersion": 1,
+      "id": "case-6630",
+      "slug": "case-6630",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "blood-pressure-accessories",
+      "subcategory": "carrying-cases",
+      "name": {
+        "en": "Deluxe nylon carrying case with handle"
+      },
+      "variants": [
+        {
+          "sku": "6630"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/case-6630/images/hero.webp",
+          "alt": {
+            "en": "Deluxe nylon carrying case with handle (6630)"
+          },
+          "modelSkus": [
+            "6630"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "a851777c84abe7dc0c24d2738304c200698f6104368f2e0ca41eb20bfbd72cc7"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 880
+    },
+    {
+      "schemaVersion": 1,
+      "id": "chestpiece-6711a",
+      "slug": "chestpiece-6711a",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "stethoscope-accessories",
+      "subcategory": "chestpieces",
+      "name": {
+        "en": "Single-head chestpiece for adult"
+      },
+      "variants": [
+        {
+          "sku": "6711A"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/chestpiece-6711a/images/hero.webp",
+          "alt": {
+            "en": "Single-head chestpiece for adult (6711A)"
+          },
+          "modelSkus": [
+            "6711A"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "3e4c64dc42c47ff6c35c9238b2f948587f2ee73088cbb5aef122b2fb7c68319c"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 890
+    },
+    {
+      "schemaVersion": 1,
+      "id": "chestpiece-6711x",
+      "slug": "chestpiece-6711x",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "stethoscope-accessories",
+      "subcategory": "chestpieces",
+      "name": {
+        "en": "Single-head chestpiece for child"
+      },
+      "variants": [
+        {
+          "sku": "6711X"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/chestpiece-6711x/images/hero.webp",
+          "alt": {
+            "en": "Single-head chestpiece for child (6711X)"
+          },
+          "modelSkus": [
+            "6711X"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "2ff34e5769a3aa4f0b8618cf09d32f42cfb49c29b5ce887a411ad9fb7b82ee89"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 900
+    },
+    {
+      "schemaVersion": 1,
+      "id": "chestpiece-6711c",
+      "slug": "chestpiece-6711c",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "stethoscope-accessories",
+      "subcategory": "chestpieces",
+      "name": {
+        "en": "Colored Single-head chestpiece for adult"
+      },
+      "variants": [
+        {
+          "sku": "6711C"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/chestpiece-6711c/images/hero.webp",
+          "alt": {
+            "en": "Colored Single-head chestpiece for adult (6711C)"
+          },
+          "modelSkus": [
+            "6711C"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "fd88a0520a8572daac17f4af8fef86500c57043f32ae39b4ce198fb43865efc0"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 910
+    },
+    {
+      "schemaVersion": 1,
+      "id": "chestpiece-6711n",
+      "slug": "chestpiece-6711n",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "stethoscope-accessories",
+      "subcategory": "chestpieces",
+      "name": {
+        "en": "Single-head chestpiece for adult,Non-chill rim"
+      },
+      "variants": [
+        {
+          "sku": "6711N"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/chestpiece-6711n/images/hero.webp",
+          "alt": {
+            "en": "Single-head chestpiece for adult,Non-chill rim (6711N)"
+          },
+          "modelSkus": [
+            "6711N"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "45a4ef18983d56221e7e140b7fd390cbe171b25282601d201dc6189b7a3d05ea"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 920
+    },
+    {
+      "schemaVersion": 1,
+      "id": "chestpiece-6712a",
+      "slug": "chestpiece-6712a",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "stethoscope-accessories",
+      "subcategory": "chestpieces",
+      "name": {
+        "en": "Dual-head chestpiece for adult"
+      },
+      "variants": [
+        {
+          "sku": "6712A"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/chestpiece-6712a/images/hero.webp",
+          "alt": {
+            "en": "Dual-head chestpiece for adult (6712A)"
+          },
+          "modelSkus": [
+            "6712A"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "9f39978a6d45c3e090096e097e153f3f410cf7f8047e739866863236af8daac0"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 930
+    },
+    {
+      "schemaVersion": 1,
+      "id": "chestpiece-6712x",
+      "slug": "chestpiece-6712x",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "stethoscope-accessories",
+      "subcategory": "chestpieces",
+      "name": {
+        "en": "Dual-head chestpiece for child"
+      },
+      "variants": [
+        {
+          "sku": "6712X"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/chestpiece-6712x/images/hero.webp",
+          "alt": {
+            "en": "Dual-head chestpiece for child (6712X)"
+          },
+          "modelSkus": [
+            "6712X"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "532dce7002715eac0f12ea4ca4f078e04c236b633709dd7a2a28defc6df7554e"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 940
+    },
+    {
+      "schemaVersion": 1,
+      "id": "chestpiece-6712c",
+      "slug": "chestpiece-6712c",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "stethoscope-accessories",
+      "subcategory": "chestpieces",
+      "name": {
+        "en": "Colored Dual-head chestpiece for adult"
+      },
+      "variants": [
+        {
+          "sku": "6712C"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/chestpiece-6712c/images/hero.webp",
+          "alt": {
+            "en": "Colored Dual-head chestpiece for adult (6712C)"
+          },
+          "modelSkus": [
+            "6712C"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "9dbaf821942f592a6e8f94761d7330b04220a18fd0c122ff3ddb2158db538764"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 950
+    },
+    {
+      "schemaVersion": 1,
+      "id": "chestpiece-6712n",
+      "slug": "chestpiece-6712n",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "stethoscope-accessories",
+      "subcategory": "chestpieces",
+      "name": {
+        "en": "Dual-head chestpiece for adult, Non-chill ring"
+      },
+      "variants": [
+        {
+          "sku": "6712N"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/chestpiece-6712n/images/hero.webp",
+          "alt": {
+            "en": "Dual-head chestpiece for adult, Non-chill ring (6712N)"
+          },
+          "modelSkus": [
+            "6712N"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "1eac0ef31c1369bddd3fbbc0a85dbb290932e8af39913c521cde7fdc51638c17"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 960
+    },
+    {
+      "schemaVersion": 1,
+      "id": "chestpiece-6713c",
+      "slug": "chestpiece-6713c",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "stethoscope-accessories",
+      "subcategory": "chestpieces",
+      "name": {
+        "en": "Colored Rappaport head"
+      },
+      "variants": [
+        {
+          "sku": "6713C"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/chestpiece-6713c/images/hero.webp",
+          "alt": {
+            "en": "Colored Rappaport head (6713C)"
+          },
+          "modelSkus": [
+            "6713C"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "537f82f6c8a63227b89271a325df75fa9eb1f58074274d62b826d6cc71e0d2a4"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 970
+    },
+    {
+      "schemaVersion": 1,
+      "id": "chestpiece-6713a",
+      "slug": "chestpiece-6713a",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "stethoscope-accessories",
+      "subcategory": "chestpieces",
+      "name": {
+        "en": "Rappaport head"
+      },
+      "variants": [
+        {
+          "sku": "6713A"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/chestpiece-6713a/images/hero.webp",
+          "alt": {
+            "en": "Rappaport head (6713A)"
+          },
+          "modelSkus": [
+            "6713A"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "b51f3c925cc7e0b6369b64241810deb89b0d953453043e27f48169b8322e5540"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 980
+    },
+    {
+      "schemaVersion": 1,
+      "id": "chestpiece-6713w",
+      "slug": "chestpiece-6713w",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "stethoscope-accessories",
+      "subcategory": "chestpieces",
+      "name": {
+        "en": "Rappaport head with clock"
+      },
+      "variants": [
+        {
+          "sku": "6713W"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/chestpiece-6713w/images/hero.webp",
+          "alt": {
+            "en": "Rappaport head with clock (6713W)"
+          },
+          "modelSkus": [
+            "6713W"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "a3aaabe4118bc64e415bbd88cd28bae7ab6fa5ec0a451ab6d03359b17f02bb77"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 990
+    },
+    {
+      "schemaVersion": 1,
+      "id": "chestpiece-6714",
+      "slug": "chestpiece-6714",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "stethoscope-accessories",
+      "subcategory": "chestpieces",
+      "name": {
+        "en": "Oxidized Single Head Chestpiece"
+      },
+      "variants": [
+        {
+          "sku": "6714"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/chestpiece-6714/images/hero.webp",
+          "alt": {
+            "en": "Oxidized Single Head Chestpiece (6714)"
+          },
+          "modelSkus": [
+            "6714"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "e1b045c4018d67b4fb121222e78281dda1ce597e360e1de65e4e8b81ddd8fb8a"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 1000
+    },
+    {
+      "schemaVersion": 1,
+      "id": "chestpiece-6715",
+      "slug": "chestpiece-6715",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "stethoscope-accessories",
+      "subcategory": "chestpieces",
+      "name": {
+        "en": "Colored Dual-head chestpiece for child"
+      },
+      "variants": [
+        {
+          "sku": "6715"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/chestpiece-6715/images/hero.webp",
+          "alt": {
+            "en": "Colored Dual-head chestpiece for child (6715)"
+          },
+          "modelSkus": [
+            "6715"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "7f034780c0188d99833f918b01b27c2ac8b08eddc66ca7dba3f73f1e83431ad7"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 1010
+    },
+    {
+      "schemaVersion": 1,
+      "id": "chestpiece-6716",
+      "slug": "chestpiece-6716",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "stethoscope-accessories",
+      "subcategory": "chestpieces",
+      "name": {
+        "en": "Dual-head for infant"
+      },
+      "variants": [
+        {
+          "sku": "6716"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/chestpiece-6716/images/hero.webp",
+          "alt": {
+            "en": "Dual-head for infant (6716)"
+          },
+          "modelSkus": [
+            "6716"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "053af6ed7ab5bd66238209969e8237d5ed62f312c18331c348bb112a1b827314"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 1020
+    },
+    {
+      "schemaVersion": 1,
+      "id": "chestpiece-6717",
+      "slug": "chestpiece-6717",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "stethoscope-accessories",
+      "subcategory": "chestpieces",
+      "name": {
+        "en": "Deluxe single head chestpiece"
+      },
+      "variants": [
+        {
+          "sku": "6717"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/chestpiece-6717/images/hero.webp",
+          "alt": {
+            "en": "Deluxe single head chestpiece (6717)"
+          },
+          "modelSkus": [
+            "6717"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "253aea960859a8c9d52dfa163d9a22d847674b8bc7429b167016db5e0545d6db"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 1030
+    },
+    {
+      "schemaVersion": 1,
+      "id": "chestpiece-6718",
+      "slug": "chestpiece-6718",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "stethoscope-accessories",
+      "subcategory": "chestpieces",
+      "name": {
+        "en": "Acrylic chestpiece"
+      },
+      "variants": [
+        {
+          "sku": "6718"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/chestpiece-6718/images/hero.webp",
+          "alt": {
+            "en": "Acrylic chestpiece (6718)"
+          },
+          "modelSkus": [
+            "6718"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "bfa414e7905b4902abebe86dca5955f7b026502cf9b1a8de9817c86363718cb6"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 1040
+    },
+    {
+      "schemaVersion": 1,
+      "id": "chestpiece-6719",
+      "slug": "chestpiece-6719",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "stethoscope-accessories",
+      "subcategory": "chestpieces",
+      "name": {
+        "en": "Stainless steel head for Cardiology"
+      },
+      "variants": [
+        {
+          "sku": "6719"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/chestpiece-6719/images/hero.webp",
+          "alt": {
+            "en": "Stainless steel head for Cardiology (6719)"
+          },
+          "modelSkus": [
+            "6719"
+          ],
+          "sourceType": "edited",
+          "contentHash": "d2a92f5a1916853aff083e0ef56eb5bf902331b758365e4d374dd15bae42e8b2"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 1050
+    },
+    {
+      "schemaVersion": 1,
+      "id": "chestpiece-6720",
+      "slug": "chestpiece-6720",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "stethoscope-accessories",
+      "subcategory": "chestpieces",
+      "name": {
+        "en": "Stainless Steel head for Adult"
+      },
+      "variants": [
+        {
+          "sku": "6720"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/chestpiece-6720/images/hero.webp",
+          "alt": {
+            "en": "Stainless Steel head for Adult (6720)"
+          },
+          "modelSkus": [
+            "6720"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "178239acf34e3e112104c8b32c73b4f3efbb99d074febbd467676f0279a4cb17"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 1060
+    },
+    {
+      "schemaVersion": 1,
+      "id": "chestpiece-6721",
+      "slug": "chestpiece-6721",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "stethoscope-accessories",
+      "subcategory": "chestpieces",
+      "name": {
+        "en": "Stainless Dual head for Pediatirc"
+      },
+      "variants": [
+        {
+          "sku": "6721"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/chestpiece-6721/images/hero.webp",
+          "alt": {
+            "en": "Stainless Dual head for Pediatirc (6721)"
+          },
+          "modelSkus": [
+            "6721"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "1c5f86f790f962b2b8898b651654ed23243bda49da2fd431c94d68a5ebb9b3e3"
+        }
+      ],
+      "editorialNotes": [
+        "Catalogue spelling retained: Pediatirc."
+      ],
+      "sortOrder": 1070
+    },
+    {
+      "schemaVersion": 1,
+      "id": "chestpiece-6722",
+      "slug": "chestpiece-6722",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "stethoscope-accessories",
+      "subcategory": "chestpieces",
+      "name": {
+        "en": "Polished Zinc alloy Single Head"
+      },
+      "variants": [
+        {
+          "sku": "6722"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/chestpiece-6722/images/hero.webp",
+          "alt": {
+            "en": "Polished Zinc alloy Single Head (6722)"
+          },
+          "modelSkus": [
+            "6722"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "a688d190cc1f6bb2879f37347ec598a515ee4f28b72b6b96d4280ce7fbee6dad"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 1080
+    },
+    {
+      "schemaVersion": 1,
+      "id": "chestpiece-6723",
+      "slug": "chestpiece-6723",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "stethoscope-accessories",
+      "subcategory": "chestpieces",
+      "name": {
+        "en": "Super Fetal head"
+      },
+      "variants": [
+        {
+          "sku": "6723"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/chestpiece-6723/images/hero.webp",
+          "alt": {
+            "en": "Super Fetal head (6723)"
+          },
+          "modelSkus": [
+            "6723"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "5a5f2ec71c51d2b28ed8638fb3f192eb941c4be42092e859aee27fa4e79f9aec"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 1090
+    },
+    {
+      "schemaVersion": 1,
+      "id": "chestpiece-6724",
+      "slug": "chestpiece-6724",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "stethoscope-accessories",
+      "subcategory": "chestpieces",
+      "name": {
+        "en": "Fetal Head"
+      },
+      "variants": [
+        {
+          "sku": "6724"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/chestpiece-6724/images/hero.webp",
+          "alt": {
+            "en": "Fetal Head (6724)"
+          },
+          "modelSkus": [
+            "6724"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "2db0aa8ce9c33fcfe46bfe67f7f2a56cc4e370b673fbdd3d89a46e46b97a0ef2"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 1100
+    },
+    {
+      "schemaVersion": 1,
+      "id": "chestpiece-6725",
+      "slug": "chestpiece-6725",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "stethoscope-accessories",
+      "subcategory": "chestpieces",
+      "name": {
+        "en": "Bowels Head"
+      },
+      "variants": [
+        {
+          "sku": "6725"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/chestpiece-6725/images/hero.webp",
+          "alt": {
+            "en": "Bowels Head (6725)"
+          },
+          "modelSkus": [
+            "6725"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "f5883d3187a3f4f38ad17d1eedccf5141a78369a60e8329bde49865dc6a9a292"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 1110
+    },
+    {
+      "schemaVersion": 1,
+      "id": "chestpiece-6726",
+      "slug": "chestpiece-6726",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "stethoscope-accessories",
+      "subcategory": "chestpieces",
+      "name": {
+        "en": "Deluxe cardiology head(Zinc)"
+      },
+      "variants": [
+        {
+          "sku": "6726"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/chestpiece-6726/images/hero.webp",
+          "alt": {
+            "en": "Deluxe cardiology head(Zinc) (6726)"
+          },
+          "modelSkus": [
+            "6726"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "468d40b1572e1db02322e84967fe54678c0a01453235089b07fbd88a1831f878"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 1120
+    },
+    {
+      "schemaVersion": 1,
+      "id": "chestpiece-6727",
+      "slug": "chestpiece-6727",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "stethoscope-accessories",
+      "subcategory": "chestpieces",
+      "name": {
+        "en": "Single sprague"
+      },
+      "variants": [
+        {
+          "sku": "6727"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/chestpiece-6727/images/hero.webp",
+          "alt": {
+            "en": "Single sprague (6727)"
+          },
+          "modelSkus": [
+            "6727"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "191bd092431566e49448ce81fc28af830bd41723f7c269847f7bab7b67c9a45d"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 1130
+    },
+    {
+      "schemaVersion": 1,
+      "id": "eartips-601-614",
+      "slug": "eartips-601-614",
+      "status": "draft",
+      "reviewStatus": "source-verified-no-description",
+      "category": "stethoscope-accessories",
+      "subcategory": "eartips",
+      "name": {
+        "en": "Eartips"
+      },
+      "variants": [
+        {
+          "sku": "601"
+        },
+        {
+          "sku": "602"
+        },
+        {
+          "sku": "603"
+        },
+        {
+          "sku": "604"
+        },
+        {
+          "sku": "605"
+        },
+        {
+          "sku": "606"
+        },
+        {
+          "sku": "607"
+        },
+        {
+          "sku": "608"
+        },
+        {
+          "sku": "609"
+        },
+        {
+          "sku": "610"
+        },
+        {
+          "sku": "611"
+        },
+        {
+          "sku": "612"
+        },
+        {
+          "sku": "613"
+        },
+        {
+          "sku": "614"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": []
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/eartips-601-614/images/hero.webp",
+          "alt": {
+            "en": "Eartips (601)"
+          },
+          "modelSkus": [
+            "601"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "8e4882e6248e4230b0044ca8767d190fa1fc0c7810bda6c15006fb56f00a2818"
+        },
+        {
+          "role": "gallery",
+          "file": "products/eartips-601-614/images/gallery-02.webp",
+          "alt": {
+            "en": "Eartips (602)"
+          },
+          "modelSkus": [
+            "602"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "2716eea7cda308d8dfe4a887c57bead1ac7f2623d9438c395eb268ccc87376fe"
+        },
+        {
+          "role": "gallery",
+          "file": "products/eartips-601-614/images/gallery-03.webp",
+          "alt": {
+            "en": "Eartips (603)"
+          },
+          "modelSkus": [
+            "603"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "89da9ada12073da0c4d3a9baef5fe37c95ab97be72071b802a627028460833f8"
+        },
+        {
+          "role": "gallery",
+          "file": "products/eartips-601-614/images/gallery-04.webp",
+          "alt": {
+            "en": "Eartips (604)"
+          },
+          "modelSkus": [
+            "604"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "f290cdb610d4c1861b2e19dc8b91fcce56bbef801d5028b3d495271c416e11a3"
+        },
+        {
+          "role": "gallery",
+          "file": "products/eartips-601-614/images/gallery-05.webp",
+          "alt": {
+            "en": "Eartips (605)"
+          },
+          "modelSkus": [
+            "605"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "eed03a0a11adc6bf0f4ff56731295766c34d4b65f95a84d46833ad2e9934c192"
+        },
+        {
+          "role": "gallery",
+          "file": "products/eartips-601-614/images/gallery-06.webp",
+          "alt": {
+            "en": "Eartips (606)"
+          },
+          "modelSkus": [
+            "606"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "091a314bba1d45ba142840f4e389b74cef2da5a217923e155ffda4dba8170d2d"
+        },
+        {
+          "role": "gallery",
+          "file": "products/eartips-601-614/images/gallery-07.webp",
+          "alt": {
+            "en": "Eartips (607)"
+          },
+          "modelSkus": [
+            "607"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "e59ffe894ca4d21f4c12b740ed58096bb73260924df4bc42e65fd9f6a2a5d228"
+        },
+        {
+          "role": "gallery",
+          "file": "products/eartips-601-614/images/gallery-08.webp",
+          "alt": {
+            "en": "Eartips (608)"
+          },
+          "modelSkus": [
+            "608"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "4270aa768267adb75356a81fcb226f7564fb04cf3f97d594492ae274ce82b66c"
+        },
+        {
+          "role": "gallery",
+          "file": "products/eartips-601-614/images/gallery-09.webp",
+          "alt": {
+            "en": "Eartips (609)"
+          },
+          "modelSkus": [
+            "609"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "7afcf1dadfeaa3a792c589e4328065011c930d2fa4a9d4621ec54a06f4bd2307"
+        },
+        {
+          "role": "gallery",
+          "file": "products/eartips-601-614/images/gallery-10.webp",
+          "alt": {
+            "en": "Eartips (610)"
+          },
+          "modelSkus": [
+            "610"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "7db5878c2fd86f7be23e4facc983b296b37fe6a88f45d7e960e5046ec887d590"
+        },
+        {
+          "role": "gallery",
+          "file": "products/eartips-601-614/images/gallery-11.webp",
+          "alt": {
+            "en": "Eartips (611)"
+          },
+          "modelSkus": [
+            "611"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "8cf202b39624abba87706c928e53dbc7679e599b437bc334b3cbc489eb78fd2e"
+        },
+        {
+          "role": "gallery",
+          "file": "products/eartips-601-614/images/gallery-12.webp",
+          "alt": {
+            "en": "Eartips (612)"
+          },
+          "modelSkus": [
+            "612"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "181df26dd514709f12d4df165b66673cba99646fef2a2f2a464322a9f5b9506c"
+        },
+        {
+          "role": "gallery",
+          "file": "products/eartips-601-614/images/gallery-13.webp",
+          "alt": {
+            "en": "Eartips (613)"
+          },
+          "modelSkus": [
+            "613"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "2ff0b0f150c74fcc1923ee55be86ec47beefdfe411599c936b0a9d06685b5fab"
+        },
+        {
+          "role": "gallery",
+          "file": "products/eartips-601-614/images/gallery-14.webp",
+          "alt": {
+            "en": "Eartips (614)"
+          },
+          "modelSkus": [
+            "614"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "923f161756e0f96ab2e209ab6c34eb1c7641a6ce1f3bf86355a74872f7e79518"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 1140
+    },
+    {
+      "schemaVersion": 1,
+      "id": "inflatable-pressure-relief-seat-cushion",
+      "slug": "inflatable-pressure-relief-seat-cushion",
+      "status": "draft",
+      "reviewStatus": "source-verified-no-sku",
+      "category": "patient-care",
+      "subcategory": "pressure-relief",
+      "name": {
+        "en": "Inflatable Pressure-Relief Seat Cushion"
+      },
+      "variants": [],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": [
+          "Premium PVC shell with dimpled ventilation cells that disperse seat-pressure and channel airflow around hips & thighs",
+          "Heat-seal technology forms seamless edges for superior airtight integrity—no leaks even after repeated inflations",
+          "Maintains healthy blood circulation and helps prevent pressure ulcers during extended sitting or bed rest",
+          "Recommended for wheelchair users, bedridden patients, post-hemorrhoid recovery, lumbar-pain sufferers, and expectant mothers needing extra lumbar relief"
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/inflatable-pressure-relief-seat-cushion/images/hero.webp",
+          "alt": {
+            "en": "Inflatable Pressure-Relief Seat Cushion"
+          },
+          "sourceType": "catalogue-extracted",
+          "contentHash": "d783f3774b36704cbd11db98d797900cde62c23be9dc51b2fc494ed373dce787"
+        },
+        {
+          "role": "gallery",
+          "file": "products/inflatable-pressure-relief-seat-cushion/images/gallery-02.webp",
+          "alt": {
+            "en": "Inflatable Pressure-Relief Seat Cushion"
+          },
+          "sourceType": "catalogue-extracted",
+          "contentHash": "277d4bb3c50307de6721011c64035e284ad42f98d5cdfac2c73f5e884a10fa04"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 1150
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-pi-pressure-infusor-series",
+      "slug": "cm-pi-pressure-infusor-series",
+      "status": "draft",
+      "reviewStatus": "source-verified-shared-images",
+      "category": "patient-care",
+      "subcategory": "pressure-infusors",
+      "name": {
+        "en": "Pressure Infusor for I.V. Bag"
+      },
+      "variants": [
+        {
+          "sku": "CM-PI500",
+          "specifications": {
+            "en": [
+              "500 ml"
+            ]
+          }
+        },
+        {
+          "sku": "CM-PI1000",
+          "specifications": {
+            "en": [
+              "1000 ml"
+            ]
+          }
+        },
+        {
+          "sku": "CM-PI3000",
+          "specifications": {
+            "en": [
+              "3000 ml"
+            ]
+          }
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": [
+          "Rapid, hand-pump pressure infuser (≤ 300 mmHg) with built-in gauge and 3-way stopcock for safe release",
+          "Tough PVC/nylon sleeve with clear window; fits 500 ml, 1000 ml or 3000 ml bags and supports arterial-line flushing",
+          "Hook-and-loop closure and hang loop simplify use in ER, OR and critical care"
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-pi-pressure-infusor-series/images/hero.webp",
+          "alt": {
+            "en": "Pressure Infusor for I.V. Bag — catalogue family view"
+          },
+          "sourceType": "catalogue-extracted",
+          "contentHash": "4c4b2e17759c79004df157e49d213d3a43afdf13e599a4c18219345b39a6e820"
+        },
+        {
+          "role": "gallery",
+          "file": "products/cm-pi-pressure-infusor-series/images/gallery-02.webp",
+          "alt": {
+            "en": "Pressure Infusor for I.V. Bag — 1000 ml (CM-PI1000)"
+          },
+          "modelSkus": [
+            "CM-PI1000"
+          ],
+          "sourceType": "catalogue-extracted",
+          "contentHash": "c5e5abe3e556ebb3ab3153a554ac586c19ffbae6e92fb0e9f74226c2b0d7f441"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 1160
+    }
+  ]
+}

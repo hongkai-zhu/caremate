@@ -1,0 +1,27 @@
+schemaVersion: 1
+id: deluxe-blood-pressure-cuff-6195
+slug: deluxe-blood-pressure-cuff-6195
+status: draft
+reviewStatus: source-verified
+category: blood-pressure-accessories
+subcategory: blood-pressure-cuffs
+name:
+  en: Deluxe Blood Pressure Cuff
+variants:
+- sku: '6195'
+description:
+  en: NOTE:Any customer's requirement on bladders size, type(1-tube or 2-tubes)available
+features:
+  en:
+  - Latex Free
+  - It is available for aneroid or digital
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Deluxe Blood Pressure Cuff (6195)
+  modelSkus:
+  - '6195'
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 620

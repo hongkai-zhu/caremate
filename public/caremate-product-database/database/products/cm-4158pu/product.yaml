@@ -1,0 +1,44 @@
+schemaVersion: 1
+id: cm-4158pu
+slug: cm-4158pu
+status: draft
+reviewStatus: source-verified
+category: stethoscopes
+subcategory: sprague-rappaport-stethoscopes
+name:
+  en: Colored Sprague
+variants:
+- sku: CM-4158PU
+description:
+  en: ''
+features:
+  en:
+  - Attractive colored head with matching color tube
+  - Outstanding acoustical quality heavy walled 22" tubes
+  - Includes five-in-one accessory kit
+  - Two extra pair of soft eartips
+  - Various colors tube and chestpiece available
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Colored Sprague (CM-4158PU)
+  modelSkus:
+  - CM-4158PU
+  sourceType: catalogue-extracted
+- role: packaging
+  file: images/gallery-02.webp
+  alt:
+    en: Colored Sprague (CM-4158PU)
+  modelSkus:
+  - CM-4158PU
+  sourceType: catalogue-extracted
+- role: packaging
+  file: images/gallery-03.webp
+  alt:
+    en: Colored Sprague (CM-4158PU)
+  modelSkus:
+  - CM-4158PU
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 270

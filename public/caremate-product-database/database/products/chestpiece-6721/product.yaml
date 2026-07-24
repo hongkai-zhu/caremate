@@ -1,0 +1,26 @@
+schemaVersion: 1
+id: chestpiece-6721
+slug: chestpiece-6721
+status: draft
+reviewStatus: source-verified
+category: stethoscope-accessories
+subcategory: chestpieces
+name:
+  en: Stainless Dual head for Pediatirc
+variants:
+- sku: '6721'
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Stainless Dual head for Pediatirc (6721)
+  modelSkus:
+  - '6721'
+  sourceType: catalogue-extracted
+editorialNotes:
+- 'Catalogue spelling retained: Pediatirc.'
+sortOrder: 1070

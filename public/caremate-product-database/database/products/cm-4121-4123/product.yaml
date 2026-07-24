@@ -1,0 +1,48 @@
+schemaVersion: 1
+id: cm-4121-4123
+slug: cm-4121-4123
+status: draft
+reviewStatus: source-verified-shared-images
+category: stethoscopes
+subcategory: pediatric-stethoscopes
+name:
+  en: Acrylic Stethoscope
+variants:
+- sku: CM-4121
+  label:
+    en: Adult
+- sku: CM-4122
+  label:
+    en: Child
+- sku: CM-4123
+  label:
+    en: Infant
+description:
+  en: ''
+features:
+  en:
+  - Superior sound transmission lightweight acrylic chestpiece with polish finished
+  - With a reinforce dual inner-spring construction provides extra durability and preset at the anatomically
+    correct angle for optimal fit.
+  - Heavy-walled 22" Y-tubing blocks out extraneous sounds
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Acrylic Stethoscope (CM-4121, CM-4122, CM-4123)
+  modelSkus:
+  - CM-4121
+  - CM-4122
+  - CM-4123
+  sourceType: catalogue-extracted
+- role: detail
+  file: images/gallery-02.webp
+  alt:
+    en: Acrylic Stethoscope (CM-4121, CM-4122, CM-4123)
+  modelSkus:
+  - CM-4121
+  - CM-4122
+  - CM-4123
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 410

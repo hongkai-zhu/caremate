@@ -1,0 +1,30 @@
+schemaVersion: 1
+id: cm-2021
+slug: cm-2021
+status: draft
+reviewStatus: source-verified
+category: blood-pressure-monitoring
+subcategory: blood-pressure-kits
+name:
+  en: Self-taking Home Blood Pressure Kit
+variants:
+- sku: CM-2021
+description:
+  en: ''
+features:
+  en:
+  - Self-taking home blood pressure kit is designed for easy home monitoring by individual
+  - Deluxe metal ring velcro cuff makes application easy
+  - The attached stethoscope makes this unit a true "Self-Monitor"
+  - Range 0-300mmHg.Manometer with NON STOP PIN
+  - Standard model in vinyl zipper case
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Self-taking Home Blood Pressure Kit (CM-2021)
+  modelSkus:
+  - CM-2021
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 70

@@ -1,0 +1,25 @@
+schemaVersion: 1
+id: chestpiece-6712n
+slug: chestpiece-6712n
+status: draft
+reviewStatus: source-verified
+category: stethoscope-accessories
+subcategory: chestpieces
+name:
+  en: Dual-head chestpiece for adult, Non-chill ring
+variants:
+- sku: 6712N
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Dual-head chestpiece for adult, Non-chill ring (6712N)
+  modelSkus:
+  - 6712N
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 960

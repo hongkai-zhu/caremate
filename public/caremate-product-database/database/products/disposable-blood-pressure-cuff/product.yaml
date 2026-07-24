@@ -1,0 +1,26 @@
+schemaVersion: 1
+id: disposable-blood-pressure-cuff
+slug: disposable-blood-pressure-cuff
+status: draft
+reviewStatus: source-verified-no-sku
+category: blood-pressure-accessories
+subcategory: blood-pressure-cuffs
+name:
+  en: Disposable Blood Pressure Cuff
+variants: []
+description:
+  en: ''
+features:
+  en:
+  - latex-free cuff prevents cross-contamination while staying gentle on delicate skin
+  - Color-coded, one-piece design is leak-tested and durable for multiple inflations
+  - Even pneumatic pressure delivers accurate BP readings and can drive I.V. fluids when used as a sleevee
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Disposable Blood Pressure Cuff
+  sourceType: catalogue-extracted
+editorialNotes:
+- 'Catalogue spelling retained: sleevee.'
+sortOrder: 140

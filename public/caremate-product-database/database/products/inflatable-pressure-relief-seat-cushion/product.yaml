@@ -1,0 +1,35 @@
+schemaVersion: 1
+id: inflatable-pressure-relief-seat-cushion
+slug: inflatable-pressure-relief-seat-cushion
+status: draft
+reviewStatus: source-verified-no-sku
+category: patient-care
+subcategory: pressure-relief
+name:
+  en: Inflatable Pressure-Relief Seat Cushion
+variants: []
+description:
+  en: ''
+features:
+  en:
+  - Premium PVC shell with dimpled ventilation cells that disperse seat-pressure and channel airflow around
+    hips & thighs
+  - Heat-seal technology forms seamless edges for superior airtight integrity—no leaks even after repeated
+    inflations
+  - Maintains healthy blood circulation and helps prevent pressure ulcers during extended sitting or bed
+    rest
+  - Recommended for wheelchair users, bedridden patients, post-hemorrhoid recovery, lumbar-pain sufferers,
+    and expectant mothers needing extra lumbar relief
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Inflatable Pressure-Relief Seat Cushion
+  sourceType: catalogue-extracted
+- role: gallery
+  file: images/gallery-02.webp
+  alt:
+    en: Inflatable Pressure-Relief Seat Cushion
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 1150

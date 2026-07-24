@@ -1,0 +1,38 @@
+schemaVersion: 1
+id: cm-3414-3424
+slug: cm-3414-3424
+status: draft
+reviewStatus: source-verified
+category: blood-pressure-monitoring
+subcategory: palm-sphygmomanometers
+name:
+  en: Palm Sphygmomanometer
+variants:
+- sku: CM-3414
+  label:
+    en: with 1 tube
+- sku: CM-3424
+  label:
+    en: with 2 tubes
+description:
+  en: ''
+features:
+  en:
+  - Palm aneroid sphygmomanometer
+  - Left and right hand use, silver dial
+  - Chrome-plated for case and handle, 65mm diameter dial
+  - Shining Latex Free calibrated cuff(cuff & bladder with 2-in-1)
+  - PVC ribbed bulb
+  - Shining nylon carrying case
+  - Large size metal end valve with dust filter
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Palm Sphygmomanometer (CM-3414, CM-3424)
+  modelSkus:
+  - CM-3414
+  - CM-3424
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 90

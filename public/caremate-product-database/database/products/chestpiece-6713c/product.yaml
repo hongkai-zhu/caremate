@@ -1,0 +1,25 @@
+schemaVersion: 1
+id: chestpiece-6713c
+slug: chestpiece-6713c
+status: draft
+reviewStatus: source-verified
+category: stethoscope-accessories
+subcategory: chestpieces
+name:
+  en: Colored Rappaport head
+variants:
+- sku: 6713C
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Colored Rappaport head (6713C)
+  modelSkus:
+  - 6713C
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 970

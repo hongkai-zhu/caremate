@@ -1,0 +1,30 @@
+schemaVersion: 1
+id: cuff-6283
+slug: cuff-6283
+status: draft
+reviewStatus: source-verified
+category: blood-pressure-accessories
+subcategory: blood-pressure-cuffs
+name:
+  en: Metal Chip Cuff
+variants:
+- sku: '6283'
+  label:
+    en: Adult
+  specifications:
+    en:
+    - 500x140mm
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Metal Chip Cuff (6283)
+  modelSkus:
+  - '6283'
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 680

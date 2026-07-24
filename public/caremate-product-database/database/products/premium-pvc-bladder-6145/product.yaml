@@ -1,0 +1,25 @@
+schemaVersion: 1
+id: premium-pvc-bladder-6145
+slug: premium-pvc-bladder-6145
+status: draft
+reviewStatus: source-verified-no-description
+category: blood-pressure-accessories
+subcategory: bladders
+name:
+  en: Premium PVC Bladder
+variants:
+- sku: '6145'
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Premium PVC Bladder (6145)
+  modelSkus:
+  - '6145'
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 580

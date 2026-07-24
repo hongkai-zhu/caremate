@@ -1,0 +1,40 @@
+{
+  "document": "Catalogue of Caremate 506.pdf",
+  "pdfPage": 11,
+  "cataloguePages": [
+    27
+  ],
+  "textExtraction": "300-dpi OCR with visual verification",
+  "notes": [
+    "The two catalogue photos are family examples and are not individually mapped to every SKU."
+  ],
+  "productId": "pvc-bladder-6111-series",
+  "imageSources": [
+    {
+      "pdfPage": 11,
+      "ordinal": 2,
+      "xref": 186,
+      "sourcePixelDimensions": [
+        413,
+        383
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-11_img-02_xref-186.webp",
+      "productFile": "images/hero.webp"
+    },
+    {
+      "pdfPage": 11,
+      "ordinal": 1,
+      "xref": 185,
+      "sourcePixelDimensions": [
+        415,
+        399
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-11_img-01_xref-185.webp",
+      "productFile": "images/gallery-02.webp"
+    }
+  ],
+  "sourceTextPolicy": "Catalogue wording is preserved, including verified source typos. Line-wrap artifacts were removed. No unsupported model-to-image relationship was invented.",
+  "pdfPages": [
+    11
+  ]
+}

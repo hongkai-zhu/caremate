@@ -1,0 +1,4321 @@
+[
+  {
+    "pdfPage": 1,
+    "cataloguePages": [
+      1,
+      2
+    ],
+    "ordinal": 1,
+    "xref": 637,
+    "smask": 0,
+    "pixelWidth": 664,
+    "pixelHeight": 681,
+    "bbox": [
+      319.51,
+      353.72,
+      558.79,
+      599.0
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-01_img-01_xref-637.webp",
+    "normalizedSha256": "5484a7c1ba9d08d62134bfae7c2fd41391f1537d142d6eed27426e79c840e577",
+    "productIds": [
+      "cm-1621"
+    ],
+    "normalizedPixelWidth": 664,
+    "normalizedPixelHeight": 681
+  },
+  {
+    "pdfPage": 1,
+    "cataloguePages": [
+      1,
+      2
+    ],
+    "ordinal": 2,
+    "xref": 638,
+    "smask": 0,
+    "pixelWidth": 471,
+    "pixelHeight": 661,
+    "bbox": [
+      67.13,
+      157.64,
+      236.81,
+      395.72
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-01_img-02_xref-638.webp",
+    "normalizedSha256": "c1939e447b36248a3732da39b90c2c3e534465f7d1bde5f0ae19d25319bac9d7",
+    "productIds": [
+      "cm-1222"
+    ],
+    "normalizedPixelWidth": 471,
+    "normalizedPixelHeight": 661
+  },
+  {
+    "pdfPage": 1,
+    "cataloguePages": [
+      1,
+      2
+    ],
+    "ordinal": 3,
+    "xref": 639,
+    "smask": 0,
+    "pixelWidth": 642,
+    "pixelHeight": 675,
+    "bbox": [
+      70.72,
+      544.28,
+      302.09,
+      787.4
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-01_img-03_xref-639.webp",
+    "normalizedSha256": "4b3b567326b6fd71faed83825b74e9a5f6abd0aa9fb27c2dcb5d3f026b09321c",
+    "productIds": [
+      "cm-1551"
+    ],
+    "normalizedPixelWidth": 642,
+    "normalizedPixelHeight": 675
+  },
+  {
+    "pdfPage": 1,
+    "cataloguePages": [
+      1,
+      2
+    ],
+    "ordinal": 4,
+    "xref": 640,
+    "smask": 0,
+    "pixelWidth": 642,
+    "pixelHeight": 535,
+    "bbox": [
+      919.0,
+      178.76,
+      1150.12,
+      371.48
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-01_img-04_xref-640.webp",
+    "normalizedSha256": "47cef40a56491448765bc8cde8b3bc9d9902658b18781b9003dc3a55cc9a8f0d",
+    "productIds": [
+      "cm-1722"
+    ],
+    "normalizedPixelWidth": 642,
+    "normalizedPixelHeight": 535
+  },
+  {
+    "pdfPage": 1,
+    "cataloguePages": [
+      1,
+      2
+    ],
+    "ordinal": 5,
+    "xref": 641,
+    "smask": 0,
+    "pixelWidth": 948,
+    "pixelHeight": 699,
+    "bbox": [
+      655.94,
+      383.32,
+      997.22,
+      634.84
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-01_img-05_xref-641.webp",
+    "normalizedSha256": "7bf7a409725ffdf780c4b63186c70e812d3edd77ef1af8d43963010fe226772d",
+    "productIds": [
+      "cm-2243"
+    ],
+    "normalizedPixelWidth": 948,
+    "normalizedPixelHeight": 699
+  },
+  {
+    "pdfPage": 1,
+    "cataloguePages": [
+      1,
+      2
+    ],
+    "ordinal": 6,
+    "xref": 642,
+    "smask": 0,
+    "pixelWidth": 58,
+    "pixelHeight": 182,
+    "bbox": [
+      1018.41,
+      404.33,
+      1039.29,
+      469.85
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-01_img-06_xref-642.webp",
+    "normalizedSha256": "ed1f86f2eba63b7e912a7f804fa12424efb20f578a55df8b1fd63781d804debe",
+    "productIds": [
+      "cm-2243"
+    ],
+    "normalizedPixelWidth": 58,
+    "normalizedPixelHeight": 182
+  },
+  {
+    "pdfPage": 1,
+    "cataloguePages": [
+      1,
+      2
+    ],
+    "ordinal": 7,
+    "xref": 643,
+    "smask": 0,
+    "pixelWidth": 58,
+    "pixelHeight": 182,
+    "bbox": [
+      1081.28,
+      404.33,
+      1102.16,
+      469.85
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-01_img-07_xref-643.webp",
+    "normalizedSha256": "43fd7a8fe32903ad06e7d3dea57bef640a74251361cc217445019688a9660a24",
+    "productIds": [
+      "cm-2243"
+    ],
+    "normalizedPixelWidth": 58,
+    "normalizedPixelHeight": 182
+  },
+  {
+    "pdfPage": 1,
+    "cataloguePages": [
+      1,
+      2
+    ],
+    "ordinal": 8,
+    "xref": 644,
+    "smask": 0,
+    "pixelWidth": 25,
+    "pixelHeight": 24,
+    "bbox": [
+      1081.28,
+      442.49,
+      1090.28,
+      451.13
+    ],
+    "classification": "excluded",
+    "classificationReason": "gauge instruction arrow overlay",
+    "normalizedFile": "",
+    "normalizedSha256": "",
+    "productIds": [],
+    "normalizedPixelWidth": null,
+    "normalizedPixelHeight": null
+  },
+  {
+    "pdfPage": 1,
+    "cataloguePages": [
+      1,
+      2
+    ],
+    "ordinal": 9,
+    "xref": 645,
+    "smask": 0,
+    "pixelWidth": 27,
+    "pixelHeight": 24,
+    "bbox": [
+      1092.08,
+      440.33,
+      1101.8,
+      448.97
+    ],
+    "classification": "excluded",
+    "classificationReason": "gauge instruction arrow overlay",
+    "normalizedFile": "",
+    "normalizedSha256": "",
+    "productIds": [],
+    "normalizedPixelWidth": null,
+    "normalizedPixelHeight": null
+  },
+  {
+    "pdfPage": 2,
+    "cataloguePages": [
+      3,
+      4
+    ],
+    "ordinal": 1,
+    "xref": 23,
+    "smask": 0,
+    "pixelWidth": 2540,
+    "pixelHeight": 1831,
+    "bbox": [
+      0.0,
+      0.0,
+      1218.99,
+      878.79
+    ],
+    "classification": "excluded",
+    "classificationReason": "full-spread background",
+    "normalizedFile": "",
+    "normalizedSha256": "",
+    "productIds": [],
+    "normalizedPixelWidth": null,
+    "normalizedPixelHeight": null
+  },
+  {
+    "pdfPage": 2,
+    "cataloguePages": [
+      3,
+      4
+    ],
+    "ordinal": 2,
+    "xref": 24,
+    "smask": 0,
+    "pixelWidth": 1493,
+    "pixelHeight": 1523,
+    "bbox": [
+      80.62,
+      381.08,
+      272.58,
+      576.9
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-02_img-02_xref-24.webp",
+    "normalizedSha256": "03ab8dd2efb0ed98d23793d1ba1a5b9cc7a36dbcddea7e1769a7168195000e47",
+    "productIds": [
+      "cm-2021"
+    ],
+    "normalizedPixelWidth": 1493,
+    "normalizedPixelHeight": 1523
+  },
+  {
+    "pdfPage": 2,
+    "cataloguePages": [
+      3,
+      4
+    ],
+    "ordinal": 3,
+    "xref": 25,
+    "smask": 0,
+    "pixelWidth": 1852,
+    "pixelHeight": 1583,
+    "bbox": [
+      315.78,
+      192.85,
+      553.89,
+      396.38
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-02_img-03_xref-25.webp",
+    "normalizedSha256": "1debcce33ddc5d2374034326bef8130a57607d1089477a1fa41434e650ad6082",
+    "productIds": [
+      "cm-2621"
+    ],
+    "normalizedPixelWidth": 1852,
+    "normalizedPixelHeight": 1583
+  },
+  {
+    "pdfPage": 2,
+    "cataloguePages": [
+      3,
+      4
+    ],
+    "ordinal": 4,
+    "xref": 26,
+    "smask": 0,
+    "pixelWidth": 3591,
+    "pixelHeight": 3643,
+    "bbox": [
+      663.31,
+      156.47,
+      1125.01,
+      624.86
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-02_img-04_xref-26.webp",
+    "normalizedSha256": "4a55532018d5c7e83239ff738c4a5fe6978ff6f956c4788a9e08ce36e8c260c6",
+    "productIds": [
+      "cm-2000"
+    ],
+    "normalizedPixelWidth": 1796,
+    "normalizedPixelHeight": 1822
+  },
+  {
+    "pdfPage": 3,
+    "cataloguePages": [
+      5,
+      6
+    ],
+    "ordinal": 1,
+    "xref": 50,
+    "smask": 0,
+    "pixelWidth": 2540,
+    "pixelHeight": 1831,
+    "bbox": [
+      0.0,
+      0.0,
+      1218.99,
+      878.79
+    ],
+    "classification": "excluded",
+    "classificationReason": "full-spread background",
+    "normalizedFile": "",
+    "normalizedSha256": "",
+    "productIds": [],
+    "normalizedPixelWidth": null,
+    "normalizedPixelHeight": null
+  },
+  {
+    "pdfPage": 3,
+    "cataloguePages": [
+      5,
+      6
+    ],
+    "ordinal": 2,
+    "xref": 51,
+    "smask": 0,
+    "pixelWidth": 1478,
+    "pixelHeight": 1501,
+    "bbox": [
+      72.01,
+      179.48,
+      262.04,
+      372.47
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-03_img-02_xref-51.webp",
+    "normalizedSha256": "e526b0b51a08fa0bdf7f42dcb1e669180878fa044cf128269ab1fd9659e9bf3c",
+    "productIds": [
+      "cm-3414-3424"
+    ],
+    "normalizedPixelWidth": 1478,
+    "normalizedPixelHeight": 1501
+  },
+  {
+    "pdfPage": 3,
+    "cataloguePages": [
+      5,
+      6
+    ],
+    "ordinal": 3,
+    "xref": 52,
+    "smask": 0,
+    "pixelWidth": 1889,
+    "pixelHeight": 1881,
+    "bbox": [
+      306.13,
+      345.59,
+      549.0,
+      587.44
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-03_img-03_xref-52.webp",
+    "normalizedSha256": "3d234baf32f78a6b6f68be4c9eb973042b42452444d70cc865025d9e3cdae6fb",
+    "productIds": [
+      "cm-3410-3420"
+    ],
+    "normalizedPixelWidth": 1889,
+    "normalizedPixelHeight": 1881
+  },
+  {
+    "pdfPage": 3,
+    "cataloguePages": [
+      5,
+      6
+    ],
+    "ordinal": 4,
+    "xref": 53,
+    "smask": 0,
+    "pixelWidth": 1844,
+    "pixelHeight": 1292,
+    "bbox": [
+      671.92,
+      165.08,
+      909.01,
+      331.2
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-03_img-04_xref-53.webp",
+    "normalizedSha256": "275c60df70b04641ca10cf95470e2f61be0e439597941a69ee2461c0c2161c02",
+    "productIds": [
+      "cm-3412-3422"
+    ],
+    "normalizedPixelWidth": 1844,
+    "normalizedPixelHeight": 1292
+  },
+  {
+    "pdfPage": 3,
+    "cataloguePages": [
+      5,
+      6
+    ],
+    "ordinal": 5,
+    "xref": 54,
+    "smask": 0,
+    "pixelWidth": 1493,
+    "pixelHeight": 1583,
+    "bbox": [
+      918.65,
+      373.37,
+      1110.61,
+      576.9
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-03_img-05_xref-54.webp",
+    "normalizedSha256": "7134d6721c529364a6ba9f6cae55c13d8be0f747bf2631ff15ed49b88e1f4199",
+    "productIds": [
+      "cm-3413-3423"
+    ],
+    "normalizedPixelWidth": 1493,
+    "normalizedPixelHeight": 1583
+  },
+  {
+    "pdfPage": 3,
+    "cataloguePages": [
+      5,
+      6
+    ],
+    "ordinal": 6,
+    "xref": 55,
+    "smask": 0,
+    "pixelWidth": 1763,
+    "pixelHeight": 1068,
+    "bbox": [
+      61.33,
+      626.78,
+      288.0,
+      764.1
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-03_img-06_xref-55.webp",
+    "normalizedSha256": "0deff97ef084639fa37783249cdf55e2e7b79dcb0526d8ed864d4993d057e420",
+    "productIds": [
+      "cm-3411-3421"
+    ],
+    "normalizedPixelWidth": 1763,
+    "normalizedPixelHeight": 1068
+  },
+  {
+    "pdfPage": 3,
+    "cataloguePages": [
+      5,
+      6
+    ],
+    "ordinal": 7,
+    "xref": 57,
+    "smask": 56,
+    "pixelWidth": 4000,
+    "pixelHeight": 4000,
+    "bbox": [
+      632.99,
+      526.57,
+      905.24,
+      798.83
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-03_img-07_xref-57.webp",
+    "normalizedSha256": "a1b630472959a7bde81b169337fc33e2bf215b68c5e0848abdd3717a888e36f4",
+    "productIds": [
+      "disposable-blood-pressure-cuff"
+    ],
+    "normalizedPixelWidth": 2000,
+    "normalizedPixelHeight": 2000
+  },
+  {
+    "pdfPage": 4,
+    "cataloguePages": [
+      9,
+      10
+    ],
+    "ordinal": 1,
+    "xref": 83,
+    "smask": 0,
+    "pixelWidth": 2540,
+    "pixelHeight": 1831,
+    "bbox": [
+      0.0,
+      0.0,
+      1218.99,
+      878.79
+    ],
+    "classification": "excluded",
+    "classificationReason": "full-spread background",
+    "normalizedFile": "",
+    "normalizedSha256": "",
+    "productIds": [],
+    "normalizedPixelWidth": null,
+    "normalizedPixelHeight": null
+  },
+  {
+    "pdfPage": 4,
+    "cataloguePages": [
+      9,
+      10
+    ],
+    "ordinal": 2,
+    "xref": 84,
+    "smask": 0,
+    "pixelWidth": 1046,
+    "pixelHeight": 1240,
+    "bbox": [
+      61.33,
+      164.05,
+      195.82,
+      323.48
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-04_img-02_xref-84.webp",
+    "normalizedSha256": "e71b92a3fda89dcd9d126673b9797a60a60acbd62dc450d644202c07b260bdbf",
+    "productIds": [
+      "cm-1329"
+    ],
+    "normalizedPixelWidth": 1046,
+    "normalizedPixelHeight": 1240
+  },
+  {
+    "pdfPage": 4,
+    "cataloguePages": [
+      9,
+      10
+    ],
+    "ordinal": 3,
+    "xref": 86,
+    "smask": 85,
+    "pixelWidth": 7008,
+    "pixelHeight": 4672,
+    "bbox": [
+      594.4,
+      401.88,
+      783.82,
+      686.01
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-04_img-03_xref-86.webp",
+    "normalizedSha256": "78116a8ed0b8b5e1142730832b08f1af2d57171d418cc56577c1ac88e892e60a",
+    "productIds": [
+      "cm-dvt-series"
+    ],
+    "normalizedPixelWidth": 1752,
+    "normalizedPixelHeight": 1168
+  },
+  {
+    "pdfPage": 4,
+    "cataloguePages": [
+      9,
+      10
+    ],
+    "ordinal": 4,
+    "xref": 88,
+    "smask": 87,
+    "pixelWidth": 7008,
+    "pixelHeight": 4672,
+    "bbox": [
+      677.34,
+      340.5,
+      869.82,
+      629.23
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-04_img-04_xref-88.webp",
+    "normalizedSha256": "4596145d74a83616d39137466ddf2dcaaea553684c3267a08501e494a896f4a0",
+    "productIds": [
+      "cm-dvt-series"
+    ],
+    "normalizedPixelWidth": 1752,
+    "normalizedPixelHeight": 1168
+  },
+  {
+    "pdfPage": 4,
+    "cataloguePages": [
+      9,
+      10
+    ],
+    "ordinal": 5,
+    "xref": 90,
+    "smask": 89,
+    "pixelWidth": 7008,
+    "pixelHeight": 4672,
+    "bbox": [
+      882.3,
+      425.25,
+      1167.87,
+      615.64
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-04_img-05_xref-90.webp",
+    "normalizedSha256": "4cf50b9adacd135a087ab1c433c382962e70106761fa2a845f3fca5021bca363",
+    "productIds": [
+      "cm-dvt-series"
+    ],
+    "normalizedPixelWidth": 1752,
+    "normalizedPixelHeight": 1168
+  },
+  {
+    "pdfPage": 4,
+    "cataloguePages": [
+      9,
+      10
+    ],
+    "ordinal": 6,
+    "xref": 91,
+    "smask": 0,
+    "pixelWidth": 1687,
+    "pixelHeight": 1120,
+    "bbox": [
+      64.29,
+      457.84,
+      281.19,
+      601.84
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-04_img-06_xref-91.webp",
+    "normalizedSha256": "c77787e5da4c9165cf2f9e4b4f76a7b586e0f9eaf39e886da36e20f858dd90b3",
+    "productIds": [
+      "cm-3210-3"
+    ],
+    "normalizedPixelWidth": 1687,
+    "normalizedPixelHeight": 1120
+  },
+  {
+    "pdfPage": 4,
+    "cataloguePages": [
+      9,
+      10
+    ],
+    "ordinal": 7,
+    "xref": 92,
+    "smask": 0,
+    "pixelWidth": 949,
+    "pixelHeight": 1389,
+    "bbox": [
+      433.81,
+      305.22,
+      555.82,
+      483.81
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-04_img-07_xref-92.webp",
+    "normalizedSha256": "707c24bcbc1dac9707d8968c85cd7e071ae9e76f7cba63c36d88bc7c356e0ce6",
+    "productIds": [
+      "cm-3214-5"
+    ],
+    "normalizedPixelWidth": 949,
+    "normalizedPixelHeight": 1389
+  },
+  {
+    "pdfPage": 4,
+    "cataloguePages": [
+      9,
+      10
+    ],
+    "ordinal": 8,
+    "xref": 93,
+    "smask": 0,
+    "pixelWidth": 971,
+    "pixelHeight": 1411,
+    "bbox": [
+      441.52,
+      605.69,
+      566.36,
+      787.11
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-04_img-08_xref-93.webp",
+    "normalizedSha256": "f67d01ef146b34425f75a5d83078cdaaea9e17d1d10501cdfeb0c85ef7be5cc1",
+    "productIds": [
+      "cm-3212-50"
+    ],
+    "normalizedPixelWidth": 971,
+    "normalizedPixelHeight": 1411
+  },
+  {
+    "pdfPage": 4,
+    "cataloguePages": [
+      9,
+      10
+    ],
+    "ordinal": 9,
+    "xref": 308,
+    "smask": 0,
+    "pixelWidth": 2540,
+    "pixelHeight": 1831,
+    "bbox": [
+      0.0,
+      0.0,
+      1218.99,
+      878.79
+    ],
+    "classification": "excluded",
+    "classificationReason": "full-spread background",
+    "normalizedFile": "",
+    "normalizedSha256": "",
+    "productIds": [],
+    "normalizedPixelWidth": null,
+    "normalizedPixelHeight": null
+  },
+  {
+    "pdfPage": 4,
+    "cataloguePages": [
+      9,
+      10
+    ],
+    "ordinal": 10,
+    "xref": 95,
+    "smask": 0,
+    "pixelWidth": 3718,
+    "pixelHeight": 3718,
+    "bbox": [
+      914.5,
+      210.36,
+      1131.99,
+      427.86
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-04_img-10_xref-95.webp",
+    "normalizedSha256": "e683371770121af15ff9d50f6c9b83e87ec16f2660b7598b69250946052dd95b",
+    "productIds": [
+      "cm-dvt-series"
+    ],
+    "normalizedPixelWidth": 1859,
+    "normalizedPixelHeight": 1859
+  },
+  {
+    "pdfPage": 4,
+    "cataloguePages": [
+      9,
+      10
+    ],
+    "ordinal": 11,
+    "xref": 97,
+    "smask": 96,
+    "pixelWidth": 3455,
+    "pixelHeight": 3454,
+    "bbox": [
+      922.92,
+      151.04,
+      1163.65,
+      391.7
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-04_img-11_xref-97.webp",
+    "normalizedSha256": "be6c968ed556bdab157023a6f86cd8fadd8c15dadc858c2467f96ea3fa66abf6",
+    "productIds": [
+      "cm-dvt-series"
+    ],
+    "normalizedPixelWidth": 1728,
+    "normalizedPixelHeight": 1727
+  },
+  {
+    "pdfPage": 4,
+    "cataloguePages": [
+      9,
+      10
+    ],
+    "ordinal": 12,
+    "xref": 99,
+    "smask": 98,
+    "pixelWidth": 3247,
+    "pixelHeight": 3246,
+    "bbox": [
+      629.72,
+      201.85,
+      845.91,
+      417.97
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-04_img-12_xref-99.webp",
+    "normalizedSha256": "f12ff17e0ea2734b9def0daeaf37b987a5488720ee9046cc097b6146eb702398",
+    "productIds": [
+      "cm-dvt-series"
+    ],
+    "normalizedPixelWidth": 1624,
+    "normalizedPixelHeight": 1623
+  },
+  {
+    "pdfPage": 4,
+    "cataloguePages": [
+      9,
+      10
+    ],
+    "ordinal": 13,
+    "xref": 101,
+    "smask": 100,
+    "pixelWidth": 3041,
+    "pixelHeight": 3041,
+    "bbox": [
+      662.6,
+      154.93,
+      867.7,
+      360.03
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-04_img-13_xref-101.webp",
+    "normalizedSha256": "a226b573f56f2eca03b4c1714eee289b292b7aee27e27c24885bae8e66b0d2d9",
+    "productIds": [
+      "cm-dvt-series"
+    ],
+    "normalizedPixelWidth": 1521,
+    "normalizedPixelHeight": 1521
+  },
+  {
+    "pdfPage": 5,
+    "cataloguePages": [
+      15,
+      16
+    ],
+    "ordinal": 1,
+    "xref": 308,
+    "smask": 0,
+    "pixelWidth": 2540,
+    "pixelHeight": 1831,
+    "bbox": [
+      0.0,
+      0.0,
+      1218.99,
+      878.79
+    ],
+    "classification": "excluded",
+    "classificationReason": "full-spread background",
+    "normalizedFile": "",
+    "normalizedSha256": "",
+    "productIds": [],
+    "normalizedPixelWidth": null,
+    "normalizedPixelHeight": null
+  },
+  {
+    "pdfPage": 5,
+    "cataloguePages": [
+      15,
+      16
+    ],
+    "ordinal": 2,
+    "xref": 125,
+    "smask": 0,
+    "pixelWidth": 1516,
+    "pixelHeight": 1315,
+    "bbox": [
+      83.45,
+      174.59,
+      278.36,
+      343.67
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-05_img-02_xref-125.webp",
+    "normalizedSha256": "f295085d20df0caaf7748f0365246ca2fb424169647a19d2d2eb2b7292cef351",
+    "productIds": [
+      "cm-4111-4211"
+    ],
+    "normalizedPixelWidth": 1516,
+    "normalizedPixelHeight": 1315
+  },
+  {
+    "pdfPage": 5,
+    "cataloguePages": [
+      15,
+      16
+    ],
+    "ordinal": 3,
+    "xref": 126,
+    "smask": 0,
+    "pixelWidth": 1374,
+    "pixelHeight": 1351,
+    "bbox": [
+      89.23,
+      374.4,
+      265.89,
+      548.1
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-05_img-03_xref-126.webp",
+    "normalizedSha256": "3e78649a0963cc3120e5ff8fdc4f99591b043a350837cbadc540bdbe73196fcc",
+    "productIds": [
+      "cm-4113-4213"
+    ],
+    "normalizedPixelWidth": 1374,
+    "normalizedPixelHeight": 1351
+  },
+  {
+    "pdfPage": 5,
+    "cataloguePages": [
+      15,
+      16
+    ],
+    "ordinal": 4,
+    "xref": 127,
+    "smask": 0,
+    "pixelWidth": 1314,
+    "pixelHeight": 1456,
+    "bbox": [
+      95.92,
+      584.61,
+      264.86,
+      771.81
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-05_img-04_xref-127.webp",
+    "normalizedSha256": "2479c1f76fceb4695e9af618bbf612688375d3bc8047630c531239f90e18b0e3",
+    "productIds": [
+      "cm-4111c"
+    ],
+    "normalizedPixelWidth": 1314,
+    "normalizedPixelHeight": 1456
+  },
+  {
+    "pdfPage": 5,
+    "cataloguePages": [
+      15,
+      16
+    ],
+    "ordinal": 5,
+    "xref": 128,
+    "smask": 0,
+    "pixelWidth": 1128,
+    "pixelHeight": 1546,
+    "bbox": [
+      688.25,
+      162.12,
+      833.28,
+      360.9
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-05_img-05_xref-128.webp",
+    "normalizedSha256": "5220f09d30e470195ce0742b2f99902d15b408d23b5b6108578bfeb9828a33f8",
+    "productIds": [
+      "cm-4113c"
+    ],
+    "normalizedPixelWidth": 1128,
+    "normalizedPixelHeight": 1546
+  },
+  {
+    "pdfPage": 5,
+    "cataloguePages": [
+      15,
+      16
+    ],
+    "ordinal": 6,
+    "xref": 129,
+    "smask": 0,
+    "pixelWidth": 1194,
+    "pixelHeight": 1299,
+    "bbox": [
+      685.42,
+      383.01,
+      838.93,
+      550.03
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-05_img-06_xref-129.webp",
+    "normalizedSha256": "44f30c933a85f182760dedce5c789ac3290e91578702764e632ee952921eceb9",
+    "productIds": [
+      "cm-4112"
+    ],
+    "normalizedPixelWidth": 1194,
+    "normalizedPixelHeight": 1299
+  },
+  {
+    "pdfPage": 5,
+    "cataloguePages": [
+      15,
+      16
+    ],
+    "ordinal": 7,
+    "xref": 130,
+    "smask": 0,
+    "pixelWidth": 1247,
+    "pixelHeight": 1389,
+    "bbox": [
+      680.53,
+      587.44,
+      840.86,
+      766.03
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-05_img-07_xref-130.webp",
+    "normalizedSha256": "19a2fef43f873c23d372a3f1df4551ce5f420db99e835ea2136a42a365a5b437",
+    "productIds": [
+      "cm-4125"
+    ],
+    "normalizedPixelWidth": 1247,
+    "normalizedPixelHeight": 1389
+  },
+  {
+    "pdfPage": 6,
+    "cataloguePages": [
+      17,
+      18
+    ],
+    "ordinal": 1,
+    "xref": 134,
+    "smask": 0,
+    "pixelWidth": 536,
+    "pixelHeight": 537,
+    "bbox": [
+      70.41,
+      173.3,
+      263.37,
+      366.74
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-06_img-01_xref-134.webp",
+    "normalizedSha256": "3b50d7f1a062f8a704ef3a22d62913178f696022a110a4f1ffb3360451f08081",
+    "productIds": [
+      "cm-4158"
+    ],
+    "normalizedPixelWidth": 536,
+    "normalizedPixelHeight": 537
+  },
+  {
+    "pdfPage": 6,
+    "cataloguePages": [
+      17,
+      18
+    ],
+    "ordinal": 2,
+    "xref": 135,
+    "smask": 0,
+    "pixelWidth": 344,
+    "pixelHeight": 221,
+    "bbox": [
+      297.48,
+      196.24,
+      421.56,
+      275.92
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-06_img-02_xref-135.webp",
+    "normalizedSha256": "00b95a512e17f6e9a0cca5d50071db1fdcd696e72efa1403a9935ff66339c446",
+    "productIds": [
+      "cm-4158"
+    ],
+    "normalizedPixelWidth": 344,
+    "normalizedPixelHeight": 221
+  },
+  {
+    "pdfPage": 6,
+    "cataloguePages": [
+      17,
+      18
+    ],
+    "ordinal": 3,
+    "xref": 136,
+    "smask": 0,
+    "pixelWidth": 492,
+    "pixelHeight": 521,
+    "bbox": [
+      78.21,
+      389.23,
+      255.57,
+      576.91
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-06_img-03_xref-136.webp",
+    "normalizedSha256": "55fb0501018fb969f2c8f5b0e754c07f36fc17484cc5c82d1e24b35c32e8ed90",
+    "productIds": [
+      "cm-4158pu"
+    ],
+    "normalizedPixelWidth": 492,
+    "normalizedPixelHeight": 521
+  },
+  {
+    "pdfPage": 6,
+    "cataloguePages": [
+      17,
+      18
+    ],
+    "ordinal": 4,
+    "xref": 137,
+    "smask": 0,
+    "pixelWidth": 256,
+    "pixelHeight": 123,
+    "bbox": [
+      299.26,
+      420.83,
+      391.42,
+      465.23
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-06_img-04_xref-137.webp",
+    "normalizedSha256": "f486390cdc2077278cd74887098ead6f0a544a1840b33ce4dae193f9edc22e6d",
+    "productIds": [
+      "cm-4158pu"
+    ],
+    "normalizedPixelWidth": 256,
+    "normalizedPixelHeight": 123
+  },
+  {
+    "pdfPage": 6,
+    "cataloguePages": [
+      17,
+      18
+    ],
+    "ordinal": 5,
+    "xref": 138,
+    "smask": 0,
+    "pixelWidth": 256,
+    "pixelHeight": 134,
+    "bbox": [
+      398.75,
+      418.91,
+      490.91,
+      467.15
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-06_img-05_xref-138.webp",
+    "normalizedSha256": "08c784ab027889fd41c8c75daf43c0e60344f7ffa427057d2c1beb0735189805",
+    "productIds": [
+      "cm-4158pu"
+    ],
+    "normalizedPixelWidth": 256,
+    "normalizedPixelHeight": 134
+  },
+  {
+    "pdfPage": 6,
+    "cataloguePages": [
+      17,
+      18
+    ],
+    "ordinal": 6,
+    "xref": 139,
+    "smask": 0,
+    "pixelWidth": 456,
+    "pixelHeight": 499,
+    "bbox": [
+      84.81,
+      598.36,
+      248.97,
+      778.12
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-06_img-06_xref-139.webp",
+    "normalizedSha256": "76e936f19f943d85217b9a8ea63700a7608620350bee8fb7fe9998e24b347905",
+    "productIds": [
+      "cm-4168"
+    ],
+    "normalizedPixelWidth": 456,
+    "normalizedPixelHeight": 499
+  },
+  {
+    "pdfPage": 6,
+    "cataloguePages": [
+      17,
+      18
+    ],
+    "ordinal": 7,
+    "xref": 140,
+    "smask": 0,
+    "pixelWidth": 512,
+    "pixelHeight": 479,
+    "bbox": [
+      677.4,
+      169.25,
+      861.72,
+      341.57
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-06_img-07_xref-140.webp",
+    "normalizedSha256": "f7489c2cdeecd9094de077df9118d1b175a070f67eb376d60b74f0cc39de67a9",
+    "productIds": [
+      "cm-4158g"
+    ],
+    "normalizedPixelWidth": 512,
+    "normalizedPixelHeight": 479
+  },
+  {
+    "pdfPage": 6,
+    "cataloguePages": [
+      17,
+      18
+    ],
+    "ordinal": 8,
+    "xref": 141,
+    "smask": 0,
+    "pixelWidth": 547,
+    "pixelHeight": 557,
+    "bbox": [
+      671.04,
+      361.76,
+      868.08,
+      562.4
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-06_img-08_xref-141.webp",
+    "normalizedSha256": "28d888a6569ca5e6f83e7dfb871204b74e19dc9f0ecb87799a6e49e3d4ac178b",
+    "productIds": [
+      "cm-4258"
+    ],
+    "normalizedPixelWidth": 547,
+    "normalizedPixelHeight": 557
+  },
+  {
+    "pdfPage": 6,
+    "cataloguePages": [
+      17,
+      18
+    ],
+    "ordinal": 9,
+    "xref": 142,
+    "smask": 0,
+    "pixelWidth": 421,
+    "pixelHeight": 414,
+    "bbox": [
+      668.64,
+      581.88,
+      870.48,
+      780.6
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-06_img-09_xref-142.webp",
+    "normalizedSha256": "70987938fb5583ece82b634ee9102d0a51f92167eb2ce603ec8cf37630257a51",
+    "productIds": [
+      "cm-4318"
+    ],
+    "normalizedPixelWidth": 421,
+    "normalizedPixelHeight": 414
+  },
+  {
+    "pdfPage": 7,
+    "cataloguePages": [
+      19,
+      20
+    ],
+    "ordinal": 1,
+    "xref": 145,
+    "smask": 0,
+    "pixelWidth": 547,
+    "pixelHeight": 490,
+    "bbox": [
+      65.57,
+      589.01,
+      262.61,
+      765.65
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-07_img-01_xref-145.webp",
+    "normalizedSha256": "78b366ed8324b9db56f6de8f8a931c5bc18b958d513e89af95fcc94db7e7241a",
+    "productIds": [
+      "cm-4251"
+    ],
+    "normalizedPixelWidth": 547,
+    "normalizedPixelHeight": 490
+  },
+  {
+    "pdfPage": 7,
+    "cataloguePages": [
+      19,
+      20
+    ],
+    "ordinal": 2,
+    "xref": 146,
+    "smask": 0,
+    "pixelWidth": 526,
+    "pixelHeight": 531,
+    "bbox": [
+      69.41,
+      161.44,
+      258.77,
+      352.48
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-07_img-02_xref-146.webp",
+    "normalizedSha256": "6086804fc6a44c257411cd4c8af4ec2c3125a3971d79e0af6675067e2bfe9146",
+    "productIds": [
+      "cm-4256"
+    ],
+    "normalizedPixelWidth": 526,
+    "normalizedPixelHeight": 531
+  },
+  {
+    "pdfPage": 7,
+    "cataloguePages": [
+      19,
+      20
+    ],
+    "ordinal": 3,
+    "xref": 147,
+    "smask": 0,
+    "pixelWidth": 496,
+    "pixelHeight": 579,
+    "bbox": [
+      74.69,
+      373.09,
+      253.49,
+      581.65
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-07_img-03_xref-147.webp",
+    "normalizedSha256": "70525265f6375cee42ff47d45e432b2ee2d1db6ac0aeb50953d6f56e3fab92cb",
+    "productIds": [
+      "cm-4227"
+    ],
+    "normalizedPixelWidth": 496,
+    "normalizedPixelHeight": 579
+  },
+  {
+    "pdfPage": 7,
+    "cataloguePages": [
+      19,
+      20
+    ],
+    "ordinal": 4,
+    "xref": 148,
+    "smask": 0,
+    "pixelWidth": 538,
+    "pixelHeight": 505,
+    "bbox": [
+      672.19,
+      162.28,
+      865.87,
+      343.96
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-07_img-04_xref-148.webp",
+    "normalizedSha256": "a4bf90ca97c73f236db034f81f09d71f260531bc0c6e5fdfb07eea1f2c7dc227",
+    "productIds": [
+      "cm-4252"
+    ],
+    "normalizedPixelWidth": 538,
+    "normalizedPixelHeight": 505
+  },
+  {
+    "pdfPage": 7,
+    "cataloguePages": [
+      19,
+      20
+    ],
+    "ordinal": 5,
+    "xref": 149,
+    "smask": 0,
+    "pixelWidth": 492,
+    "pixelHeight": 555,
+    "bbox": [
+      680.47,
+      570.19,
+      857.59,
+      770.11
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-07_img-05_xref-149.webp",
+    "normalizedSha256": "b685cd1b9e97b03445063866c1d101cdeb5f7f7c933d62e62db460a193af4760",
+    "productIds": [
+      "cm-4454"
+    ],
+    "normalizedPixelWidth": 492,
+    "normalizedPixelHeight": 555
+  },
+  {
+    "pdfPage": 7,
+    "cataloguePages": [
+      19,
+      20
+    ],
+    "ordinal": 6,
+    "xref": 150,
+    "smask": 0,
+    "pixelWidth": 592,
+    "pixelHeight": 444,
+    "bbox": [
+      662.35,
+      374.69,
+      875.72,
+      534.77
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-07_img-06_xref-150.webp",
+    "normalizedSha256": "7fac81de85b653d99525990fd1b01a460c3e439c9d5a68ff6cad5fb791d19850",
+    "productIds": [
+      "cm-4253"
+    ],
+    "normalizedPixelWidth": 592,
+    "normalizedPixelHeight": 444
+  },
+  {
+    "pdfPage": 8,
+    "cataloguePages": [
+      21,
+      22
+    ],
+    "ordinal": 1,
+    "xref": 153,
+    "smask": 0,
+    "pixelWidth": 512,
+    "pixelHeight": 546,
+    "bbox": [
+      80.12,
+      170.13,
+      264.44,
+      366.69
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-08_img-01_xref-153.webp",
+    "normalizedSha256": "5512a2bbc5289fbaae738a05291faa694c458ee8a7f3201681842b0b376071ca",
+    "productIds": [
+      "cm-4310"
+    ],
+    "normalizedPixelWidth": 512,
+    "normalizedPixelHeight": 546
+  },
+  {
+    "pdfPage": 8,
+    "cataloguePages": [
+      21,
+      22
+    ],
+    "ordinal": 2,
+    "xref": 154,
+    "smask": 0,
+    "pixelWidth": 506,
+    "pixelHeight": 483,
+    "bbox": [
+      81.2,
+      596.87,
+      263.36,
+      770.63
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-08_img-02_xref-154.webp",
+    "normalizedSha256": "97906cead4507e8cabe2f2121db793aa627d483961ce832e22afc66e3069f29c",
+    "productIds": [
+      "cm-4101"
+    ],
+    "normalizedPixelWidth": 506,
+    "normalizedPixelHeight": 483
+  },
+  {
+    "pdfPage": 8,
+    "cataloguePages": [
+      21,
+      22
+    ],
+    "ordinal": 3,
+    "xref": 155,
+    "smask": 0,
+    "pixelWidth": 554,
+    "pixelHeight": 542,
+    "bbox": [
+      666.69,
+      161.36,
+      866.13,
+      356.48
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-08_img-03_xref-155.webp",
+    "normalizedSha256": "7d74ae00d93e2459ba5075f989ea142e9eed93e72f1d3bedafe0caf66008e626",
+    "productIds": [
+      "cm-4121-4123"
+    ],
+    "normalizedPixelWidth": 554,
+    "normalizedPixelHeight": 542
+  },
+  {
+    "pdfPage": 8,
+    "cataloguePages": [
+      21,
+      22
+    ],
+    "ordinal": 4,
+    "xref": 156,
+    "smask": 0,
+    "pixelWidth": 242,
+    "pixelHeight": 142,
+    "bbox": [
+      893.36,
+      175.94,
+      980.72,
+      227.3
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-08_img-04_xref-156.webp",
+    "normalizedSha256": "aee91ecccbb6404ca169cc1ac4445bd4256e33b953021eeab940bca5f20da90e",
+    "productIds": [
+      "cm-4121-4123"
+    ],
+    "normalizedPixelWidth": 242,
+    "normalizedPixelHeight": 142
+  },
+  {
+    "pdfPage": 8,
+    "cataloguePages": [
+      21,
+      22
+    ],
+    "ordinal": 5,
+    "xref": 157,
+    "smask": 0,
+    "pixelWidth": 514,
+    "pixelHeight": 525,
+    "bbox": [
+      673.77,
+      393.04,
+      859.05,
+      582.16
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-08_img-05_xref-157.webp",
+    "normalizedSha256": "590fe6ea0b5cbf5456fe6b6a9a67a606c67464101b48b35b1c68a082cd8b246a",
+    "productIds": [
+      "cm-4141"
+    ],
+    "normalizedPixelWidth": 514,
+    "normalizedPixelHeight": 525
+  },
+  {
+    "pdfPage": 8,
+    "cataloguePages": [
+      21,
+      22
+    ],
+    "ordinal": 6,
+    "xref": 158,
+    "smask": 0,
+    "pixelWidth": 516,
+    "pixelHeight": 447,
+    "bbox": [
+      673.41,
+      606.49,
+      859.41,
+      767.53
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-08_img-06_xref-158.webp",
+    "normalizedSha256": "ff64f08c35fe468306172a868c8f110c1fb46fce84ce5583afe32ba5fc9d5976",
+    "productIds": [
+      "cm-4146"
+    ],
+    "normalizedPixelWidth": 516,
+    "normalizedPixelHeight": 447
+  },
+  {
+    "pdfPage": 8,
+    "cataloguePages": [
+      21,
+      22
+    ],
+    "ordinal": 7,
+    "xref": 159,
+    "smask": 0,
+    "pixelWidth": 264,
+    "pixelHeight": 131,
+    "bbox": [
+      893.36,
+      597.27,
+      988.4,
+      644.31
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-08_img-07_xref-159.webp",
+    "normalizedSha256": "b59a1de5d47d855f66d5d8796fa60632f6b0896d9829a73c9f0e93bd44d14197",
+    "productIds": [
+      "cm-4146"
+    ],
+    "normalizedPixelWidth": 264,
+    "normalizedPixelHeight": 131
+  },
+  {
+    "pdfPage": 8,
+    "cataloguePages": [
+      21,
+      22
+    ],
+    "ordinal": 8,
+    "xref": 160,
+    "smask": 0,
+    "pixelWidth": 443,
+    "pixelHeight": 483,
+    "bbox": [
+      92.48,
+      388.05,
+      252.08,
+      562.05
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-08_img-08_xref-160.webp",
+    "normalizedSha256": "1411314151a6b1d02baf1c218233ffc0981f1f14238c1a29476d041e5bb64e8a",
+    "productIds": [
+      "cm-4433"
+    ],
+    "normalizedPixelWidth": 443,
+    "normalizedPixelHeight": 483
+  },
+  {
+    "pdfPage": 9,
+    "cataloguePages": [
+      23,
+      24
+    ],
+    "ordinal": 1,
+    "xref": 163,
+    "smask": 0,
+    "pixelWidth": 638,
+    "pixelHeight": 588,
+    "bbox": [
+      921.54,
+      511.07,
+      1151.22,
+      722.75
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-09_img-01_xref-163.webp",
+    "normalizedSha256": "95453cb5e2470f77be446e2e6072b2628bd3e21d1be6b436c8e0aed8f14b7baa",
+    "productIds": [
+      "cm-4411-series"
+    ],
+    "normalizedPixelWidth": 638,
+    "normalizedPixelHeight": 588
+  },
+  {
+    "pdfPage": 9,
+    "cataloguePages": [
+      23,
+      24
+    ],
+    "ordinal": 2,
+    "xref": 164,
+    "smask": 0,
+    "pixelWidth": 473,
+    "pixelHeight": 368,
+    "bbox": [
+      666.35,
+      530.6,
+      893.39,
+      707.0
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-09_img-02_xref-164.webp",
+    "normalizedSha256": "e50cd1a27501f4f05f466be4f82c87831bf7359254055ca4fbe15e901c93ac8e",
+    "productIds": [
+      "cm-4411-series"
+    ],
+    "normalizedPixelWidth": 473,
+    "normalizedPixelHeight": 368
+  },
+  {
+    "pdfPage": 9,
+    "cataloguePages": [
+      23,
+      24
+    ],
+    "ordinal": 3,
+    "xref": 165,
+    "smask": 0,
+    "pixelWidth": 284,
+    "pixelHeight": 148,
+    "bbox": [
+      303.73,
+      402.24,
+      406.29,
+      455.81
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-09_img-03_xref-165.webp",
+    "normalizedSha256": "b5bbeefad39baa71f611b6c37649f636a137926b8844135ba7efa264523cbe23",
+    "productIds": [
+      "cm-4236"
+    ],
+    "normalizedPixelWidth": 284,
+    "normalizedPixelHeight": 148
+  },
+  {
+    "pdfPage": 9,
+    "cataloguePages": [
+      23,
+      24
+    ],
+    "ordinal": 4,
+    "xref": 166,
+    "smask": 0,
+    "pixelWidth": 480,
+    "pixelHeight": 580,
+    "bbox": [
+      81.88,
+      163.34,
+      254.68,
+      372.14
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-09_img-04_xref-166.webp",
+    "normalizedSha256": "4710b116d763fa83e45a284e2fa5937523f22310f3b19b9fadf028cc19424311",
+    "productIds": [
+      "cm-4136"
+    ],
+    "normalizedPixelWidth": 480,
+    "normalizedPixelHeight": 580
+  },
+  {
+    "pdfPage": 9,
+    "cataloguePages": [
+      23,
+      24
+    ],
+    "ordinal": 5,
+    "xref": 167,
+    "smask": 0,
+    "pixelWidth": 299,
+    "pixelHeight": 156,
+    "bbox": [
+      300.72,
+      186.35,
+      408.48,
+      242.51
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-09_img-05_xref-167.webp",
+    "normalizedSha256": "be2cfef385921287a0b438078bab16960cb57b5906b6cca18b078b6180ead6a1",
+    "productIds": [
+      "cm-4136"
+    ],
+    "normalizedPixelWidth": 299,
+    "normalizedPixelHeight": 156
+  },
+  {
+    "pdfPage": 9,
+    "cataloguePages": [
+      23,
+      24
+    ],
+    "ordinal": 6,
+    "xref": 168,
+    "smask": 0,
+    "pixelWidth": 578,
+    "pixelHeight": 491,
+    "bbox": [
+      64.24,
+      380.84,
+      272.32,
+      557.72
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-09_img-06_xref-168.webp",
+    "normalizedSha256": "65f6f2c4b574acb5443339b1af858f8f6af1b6d1e7be1379ba0489595adbcf92",
+    "productIds": [
+      "cm-4236"
+    ],
+    "normalizedPixelWidth": 578,
+    "normalizedPixelHeight": 491
+  },
+  {
+    "pdfPage": 9,
+    "cataloguePages": [
+      23,
+      24
+    ],
+    "ordinal": 7,
+    "xref": 169,
+    "smask": 0,
+    "pixelWidth": 620,
+    "pixelHeight": 501,
+    "bbox": [
+      56.68,
+      590.98,
+      279.88,
+      771.46
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-09_img-07_xref-169.webp",
+    "normalizedSha256": "7fd51f83bde452f2d23155524c950ad7dedd03c62eb971b57d565e089c0775cf",
+    "productIds": [
+      "cm-4337"
+    ],
+    "normalizedPixelWidth": 620,
+    "normalizedPixelHeight": 501
+  },
+  {
+    "pdfPage": 9,
+    "cataloguePages": [
+      23,
+      24
+    ],
+    "ordinal": 8,
+    "xref": 170,
+    "smask": 0,
+    "pixelWidth": 403,
+    "pixelHeight": 452,
+    "bbox": [
+      666.35,
+      172.48,
+      811.55,
+      335.2
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-09_img-08_xref-170.webp",
+    "normalizedSha256": "3f3535d1c3414f73988a6983917bed77d41555b77bf6b1fe985537f518ca11a7",
+    "productIds": [
+      "cm-4100-series"
+    ],
+    "normalizedPixelWidth": 403,
+    "normalizedPixelHeight": 452
+  },
+  {
+    "pdfPage": 9,
+    "cataloguePages": [
+      23,
+      24
+    ],
+    "ordinal": 9,
+    "xref": 171,
+    "smask": 0,
+    "pixelWidth": 403,
+    "pixelHeight": 430,
+    "bbox": [
+      836.83,
+      178.88,
+      982.03,
+      333.68
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-09_img-09_xref-171.webp",
+    "normalizedSha256": "d164cf1d1478ce4c6f7217c3f28643d7faaee125bb9e353b1c925c5435cd89d9",
+    "productIds": [
+      "cm-4100-series"
+    ],
+    "normalizedPixelWidth": 403,
+    "normalizedPixelHeight": 430
+  },
+  {
+    "pdfPage": 9,
+    "cataloguePages": [
+      23,
+      24
+    ],
+    "ordinal": 10,
+    "xref": 172,
+    "smask": 0,
+    "pixelWidth": 403,
+    "pixelHeight": 457,
+    "bbox": [
+      1006.02,
+      171.52,
+      1151.22,
+      336.16
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-09_img-10_xref-172.webp",
+    "normalizedSha256": "88b11e1d20e46377130dd66aa9be3ca6a1fd5bc017533f63625c0d229f750d0b",
+    "productIds": [
+      "cm-4100-series"
+    ],
+    "normalizedPixelWidth": 403,
+    "normalizedPixelHeight": 457
+  },
+  {
+    "pdfPage": 10,
+    "cataloguePages": [
+      25,
+      26
+    ],
+    "ordinal": 1,
+    "xref": 175,
+    "smask": 0,
+    "pixelWidth": 661,
+    "pixelHeight": 458,
+    "bbox": [
+      57.76,
+      607.87,
+      295.85,
+      772.76
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-10_img-01_xref-175.webp",
+    "normalizedSha256": "f52d50963dc2e32b424c2adfe5e127a92ec08df78e4c96d7949030aca1c097b9",
+    "productIds": [
+      "cm-4411-series"
+    ],
+    "normalizedPixelWidth": 661,
+    "normalizedPixelHeight": 458
+  },
+  {
+    "pdfPage": 10,
+    "cataloguePages": [
+      25,
+      26
+    ],
+    "ordinal": 2,
+    "xref": 176,
+    "smask": 0,
+    "pixelWidth": 661,
+    "pixelHeight": 495,
+    "bbox": [
+      57.76,
+      177.26,
+      295.85,
+      355.58
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-10_img-02_xref-176.webp",
+    "normalizedSha256": "facc5b36406ecdfb591e80ce0d601af3597cefb16a97df83251975ac9ff58f10",
+    "productIds": [
+      "cm-4411-series"
+    ],
+    "normalizedPixelWidth": 661,
+    "normalizedPixelHeight": 495
+  },
+  {
+    "pdfPage": 10,
+    "cataloguePages": [
+      25,
+      26
+    ],
+    "ordinal": 3,
+    "xref": 177,
+    "smask": 0,
+    "pixelWidth": 661,
+    "pixelHeight": 634,
+    "bbox": [
+      57.76,
+      384.96,
+      295.85,
+      613.2
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-10_img-03_xref-177.webp",
+    "normalizedSha256": "90a31ad27b1f1fdeba057ae3aec5583826716f4ffbe305bcc0615ef3078e8bbf",
+    "productIds": [
+      "cm-4411-series"
+    ],
+    "normalizedPixelWidth": 661,
+    "normalizedPixelHeight": 634
+  },
+  {
+    "pdfPage": 10,
+    "cataloguePages": [
+      25,
+      26
+    ],
+    "ordinal": 4,
+    "xref": 178,
+    "smask": 0,
+    "pixelWidth": 556,
+    "pixelHeight": 451,
+    "bbox": [
+      671.48,
+      193.55,
+      871.88,
+      356.03
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-10_img-04_xref-178.webp",
+    "normalizedSha256": "256d7f60d44613acb8c6f22ddd0afc09224597cf60fb7aa51b1ecade88c86a4e",
+    "productIds": [
+      "gauge-6011",
+      "gauge-6012"
+    ],
+    "normalizedPixelWidth": 556,
+    "normalizedPixelHeight": 451
+  },
+  {
+    "pdfPage": 10,
+    "cataloguePages": [
+      25,
+      26
+    ],
+    "ordinal": 5,
+    "xref": 179,
+    "smask": 0,
+    "pixelWidth": 418,
+    "pixelHeight": 323,
+    "bbox": [
+      931.6,
+      201.23,
+      1132.0,
+      356.03
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-10_img-05_xref-179.webp",
+    "normalizedSha256": "5e1468df526bc040e2518cbbf2d9bfee29b42ac03e1f55eee7f2cf6303b926f6",
+    "productIds": [
+      "gauge-6013",
+      "gauge-6014"
+    ],
+    "normalizedPixelWidth": 418,
+    "normalizedPixelHeight": 323
+  },
+  {
+    "pdfPage": 10,
+    "cataloguePages": [
+      25,
+      26
+    ],
+    "ordinal": 6,
+    "xref": 180,
+    "smask": 0,
+    "pixelWidth": 556,
+    "pixelHeight": 437,
+    "bbox": [
+      661.57,
+      532.88,
+      861.97,
+      690.32
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-10_img-06_xref-180.webp",
+    "normalizedSha256": "737ba79116ddf721925473b8c23cf1e82bd7c77453b0269d7ee2fbb59d3fa745",
+    "productIds": [
+      "gauge-6015",
+      "gauge-6016"
+    ],
+    "normalizedPixelWidth": 556,
+    "normalizedPixelHeight": 437
+  },
+  {
+    "pdfPage": 10,
+    "cataloguePages": [
+      25,
+      26
+    ],
+    "ordinal": 7,
+    "xref": 181,
+    "smask": 0,
+    "pixelWidth": 283,
+    "pixelHeight": 409,
+    "bbox": [
+      1040.88,
+      537.92,
+      1142.88,
+      685.28
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-10_img-07_xref-181.webp",
+    "normalizedSha256": "437c6d10c7631b61ea922eba167fe0d917b340cd515c5632b879d965e5e6cb56",
+    "productIds": [
+      "gauge-6018"
+    ],
+    "normalizedPixelWidth": 283,
+    "normalizedPixelHeight": 409
+  },
+  {
+    "pdfPage": 10,
+    "cataloguePages": [
+      25,
+      26
+    ],
+    "ordinal": 8,
+    "xref": 182,
+    "smask": 0,
+    "pixelWidth": 256,
+    "pixelHeight": 441,
+    "bbox": [
+      919.21,
+      532.28,
+      1011.37,
+      690.92
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-10_img-08_xref-182.webp",
+    "normalizedSha256": "c1d7ccb55bb55079377751daae51ccdfc0d8916c8e95d7644d22e9c9904c8c0b",
+    "productIds": [
+      "gauge-6017"
+    ],
+    "normalizedPixelWidth": 256,
+    "normalizedPixelHeight": 441
+  },
+  {
+    "pdfPage": 11,
+    "cataloguePages": [
+      27,
+      28
+    ],
+    "ordinal": 1,
+    "xref": 185,
+    "smask": 0,
+    "pixelWidth": 415,
+    "pixelHeight": 399,
+    "bbox": [
+      233.7,
+      176.27,
+      383.12,
+      319.93
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-11_img-01_xref-185.webp",
+    "normalizedSha256": "94d63529b095797ea0fd5e4e7f3a216d584114dedf2b38cba4f4183c7c9b2ba7",
+    "productIds": [
+      "pvc-bladder-6111-series"
+    ],
+    "normalizedPixelWidth": 415,
+    "normalizedPixelHeight": 399
+  },
+  {
+    "pdfPage": 11,
+    "cataloguePages": [
+      27,
+      28
+    ],
+    "ordinal": 2,
+    "xref": 186,
+    "smask": 0,
+    "pixelWidth": 413,
+    "pixelHeight": 383,
+    "bbox": [
+      66.74,
+      176.63,
+      215.44,
+      314.72
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-11_img-02_xref-186.webp",
+    "normalizedSha256": "9e11ff9b20f313a0335ee9c999885028551c735e2f7c6f43d9dd36a5f9c2a934",
+    "productIds": [
+      "pvc-bladder-6111-series"
+    ],
+    "normalizedPixelWidth": 413,
+    "normalizedPixelHeight": 383
+  },
+  {
+    "pdfPage": 11,
+    "cataloguePages": [
+      27,
+      28
+    ],
+    "ordinal": 3,
+    "xref": 187,
+    "smask": 0,
+    "pixelWidth": 242,
+    "pixelHeight": 190,
+    "bbox": [
+      822.03,
+      468.31,
+      909.15,
+      536.71
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-11_img-03_xref-187.webp",
+    "normalizedSha256": "e2e42a95ff85140dbb8eb36f983f43e38ac3d26af100e018c33471d21ec4ad46",
+    "productIds": [
+      "latex-bladder-series"
+    ],
+    "normalizedPixelWidth": 242,
+    "normalizedPixelHeight": 190
+  },
+  {
+    "pdfPage": 11,
+    "cataloguePages": [
+      27,
+      28
+    ],
+    "ordinal": 4,
+    "xref": 188,
+    "smask": 0,
+    "pixelWidth": 204,
+    "pixelHeight": 142,
+    "bbox": [
+      653.92,
+      597.01,
+      727.6,
+      648.35
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-11_img-04_xref-188.webp",
+    "normalizedSha256": "b177f59a9dc1dc1e9840ffd059a0f16b63be9141ff8576c1124bd25bdc5d0c69",
+    "productIds": [
+      "latex-bladder-series"
+    ],
+    "normalizedPixelWidth": 204,
+    "normalizedPixelHeight": 142
+  },
+  {
+    "pdfPage": 11,
+    "cataloguePages": [
+      27,
+      28
+    ],
+    "ordinal": 5,
+    "xref": 189,
+    "smask": 0,
+    "pixelWidth": 240,
+    "pixelHeight": 138,
+    "bbox": [
+      730.89,
+      597.01,
+      817.53,
+      646.69
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-11_img-05_xref-189.webp",
+    "normalizedSha256": "ff7f1ba773f24af7abed98b7d3db364042375bd954ab09f2dfce7f7d059e3bc8",
+    "productIds": [
+      "latex-bladder-series"
+    ],
+    "normalizedPixelWidth": 240,
+    "normalizedPixelHeight": 138
+  },
+  {
+    "pdfPage": 11,
+    "cataloguePages": [
+      27,
+      28
+    ],
+    "ordinal": 6,
+    "xref": 190,
+    "smask": 0,
+    "pixelWidth": 338,
+    "pixelHeight": 189,
+    "bbox": [
+      1023.46,
+      597.01,
+      1145.38,
+      665.05
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-11_img-06_xref-190.webp",
+    "normalizedSha256": "1e2225e222bff8d801240d4829a293adf4c8a7486c69d5c4a75cc67bcb0b1a93",
+    "productIds": [
+      "latex-bladder-series"
+    ],
+    "normalizedPixelWidth": 338,
+    "normalizedPixelHeight": 189
+  },
+  {
+    "pdfPage": 11,
+    "cataloguePages": [
+      27,
+      28
+    ],
+    "ordinal": 7,
+    "xref": 191,
+    "smask": 0,
+    "pixelWidth": 307,
+    "pixelHeight": 180,
+    "bbox": [
+      908.92,
+      597.01,
+      1019.56,
+      661.81
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-11_img-07_xref-191.webp",
+    "normalizedSha256": "3240494ad8a3085035d02ebafd0e0d469dcbe8d49b924fe9fdabc80c8d895cf3",
+    "productIds": [
+      "latex-bladder-series"
+    ],
+    "normalizedPixelWidth": 307,
+    "normalizedPixelHeight": 180
+  },
+  {
+    "pdfPage": 11,
+    "cataloguePages": [
+      27,
+      28
+    ],
+    "ordinal": 8,
+    "xref": 192,
+    "smask": 0,
+    "pixelWidth": 171,
+    "pixelHeight": 168,
+    "bbox": [
+      659.92,
+      468.31,
+      721.6,
+      528.79
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-11_img-08_xref-192.webp",
+    "normalizedSha256": "3aa53de4ee860a5a338ea585784bb55ec491c587bc9b23bf792d2e79f94f1a44",
+    "productIds": [
+      "latex-bladder-series"
+    ],
+    "normalizedPixelWidth": 171,
+    "normalizedPixelHeight": 168
+  },
+  {
+    "pdfPage": 11,
+    "cataloguePages": [
+      27,
+      28
+    ],
+    "ordinal": 9,
+    "xref": 193,
+    "smask": 0,
+    "pixelWidth": 633,
+    "pixelHeight": 219,
+    "bbox": [
+      920.73,
+      190.47,
+      1148.73,
+      269.2
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-11_img-09_xref-193.webp",
+    "normalizedSha256": "125d2dda891d4d8a7edd011c1a26867c4756c0c63040da52838c109e89f58125",
+    "productIds": [
+      "deluxe-blood-pressure-cuff-6195"
+    ],
+    "normalizedPixelWidth": 633,
+    "normalizedPixelHeight": 219
+  },
+  {
+    "pdfPage": 11,
+    "cataloguePages": [
+      27,
+      28
+    ],
+    "ordinal": 10,
+    "xref": 194,
+    "smask": 0,
+    "pixelWidth": 538,
+    "pixelHeight": 526,
+    "bbox": [
+      354.12,
+      514.58,
+      548.03,
+      704.29
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-11_img-10_xref-194.webp",
+    "normalizedSha256": "c92ac41823bccee47ab1e69c3dbd4198c73ad8aa3bf2d123f7eaba4af8a28643",
+    "productIds": [
+      "deluxe-pvc-bladder-6185"
+    ],
+    "normalizedPixelWidth": 538,
+    "normalizedPixelHeight": 526
+  },
+  {
+    "pdfPage": 11,
+    "cataloguePages": [
+      27,
+      28
+    ],
+    "ordinal": 11,
+    "xref": 195,
+    "smask": 0,
+    "pixelWidth": 411,
+    "pixelHeight": 409,
+    "bbox": [
+      420.82,
+      176.26,
+      569.1,
+      323.83
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-11_img-11_xref-195.webp",
+    "normalizedSha256": "1cd55a30bb79a807fd55726f11a8f51ff66765d54149fb69f1e42e21911a8639",
+    "productIds": [
+      "premium-pvc-bladder-6145"
+    ],
+    "normalizedPixelWidth": 411,
+    "normalizedPixelHeight": 409
+  },
+  {
+    "pdfPage": 11,
+    "cataloguePages": [
+      27,
+      28
+    ],
+    "ordinal": 12,
+    "xref": 196,
+    "smask": 0,
+    "pixelWidth": 587,
+    "pixelHeight": 362,
+    "bbox": [
+      668.67,
+      190.11,
+      880.03,
+      320.79
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-11_img-12_xref-196.webp",
+    "normalizedSha256": "47f6d1f88c2c1c5e3d8ce46b4e8a836f35b88f4c733dd0ee2c669eea2a2b147f",
+    "productIds": [
+      "single-patient-blood-pressure-cuff-6175"
+    ],
+    "normalizedPixelWidth": 587,
+    "normalizedPixelHeight": 362
+  },
+  {
+    "pdfPage": 11,
+    "cataloguePages": [
+      27,
+      28
+    ],
+    "ordinal": 13,
+    "xref": 197,
+    "smask": 0,
+    "pixelWidth": 535,
+    "pixelHeight": 485,
+    "bbox": [
+      92.23,
+      517.38,
+      284.95,
+      692.1
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-11_img-13_xref-197.webp",
+    "normalizedSha256": "e0f2c2acf95ff6ec13f3acd811a43af38a1a285752dbf849ddd1b194fc1bf91c",
+    "productIds": [
+      "infussion-pvc-bladder-6135"
+    ],
+    "normalizedPixelWidth": 535,
+    "normalizedPixelHeight": 485
+  },
+  {
+    "pdfPage": 11,
+    "cataloguePages": [
+      27,
+      28
+    ],
+    "ordinal": 14,
+    "xref": 198,
+    "smask": 0,
+    "pixelWidth": 240,
+    "pixelHeight": 183,
+    "bbox": [
+      731.01,
+      468.31,
+      817.41,
+      534.07
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-11_img-14_xref-198.webp",
+    "normalizedSha256": "0e4c7f5e2676ad29533f79a8d7ca34bc6ef9458f204213c90f4700a7779ad970",
+    "productIds": [
+      "latex-bladder-series"
+    ],
+    "normalizedPixelWidth": 240,
+    "normalizedPixelHeight": 183
+  },
+  {
+    "pdfPage": 11,
+    "cataloguePages": [
+      27,
+      28
+    ],
+    "ordinal": 15,
+    "xref": 199,
+    "smask": 0,
+    "pixelWidth": 305,
+    "pixelHeight": 192,
+    "bbox": [
+      1035.46,
+      468.31,
+      1145.38,
+      537.67
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-11_img-15_xref-199.webp",
+    "normalizedSha256": "725901cf0a2ac38fac392eb896067ab15f4017b1ce95aecde42dd7429b00e2e0",
+    "productIds": [
+      "latex-bladder-series"
+    ],
+    "normalizedPixelWidth": 305,
+    "normalizedPixelHeight": 192
+  },
+  {
+    "pdfPage": 11,
+    "cataloguePages": [
+      27,
+      28
+    ],
+    "ordinal": 16,
+    "xref": 200,
+    "smask": 0,
+    "pixelWidth": 286,
+    "pixelHeight": 164,
+    "bbox": [
+      916.6,
+      468.31,
+      1019.56,
+      527.35
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-11_img-16_xref-200.webp",
+    "normalizedSha256": "94f013f15ca82751e8c4507ea0c53a380110d07006c1dfb7656f2c76d2f930d4",
+    "productIds": [
+      "latex-bladder-series"
+    ],
+    "normalizedPixelWidth": 286,
+    "normalizedPixelHeight": 164
+  },
+  {
+    "pdfPage": 11,
+    "cataloguePages": [
+      27,
+      28
+    ],
+    "ordinal": 17,
+    "xref": 201,
+    "smask": 0,
+    "pixelWidth": 172,
+    "pixelHeight": 124,
+    "bbox": [
+      824.43,
+      597.01,
+      906.75,
+      656.29
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-11_img-17_xref-201.webp",
+    "normalizedSha256": "4a87b3c5f5dc25968d8e7d60eb33ce9b2a490c5d822dca959faa491aba8160da",
+    "productIds": [
+      "latex-bladder-series"
+    ],
+    "normalizedPixelWidth": 172,
+    "normalizedPixelHeight": 124
+  },
+  {
+    "pdfPage": 12,
+    "cataloguePages": [
+      29,
+      30
+    ],
+    "ordinal": 1,
+    "xref": 204,
+    "smask": 0,
+    "pixelWidth": 576,
+    "pixelHeight": 453,
+    "bbox": [
+      78.04,
+      182.13,
+      285.4,
+      345.09
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-12_img-01_xref-204.webp",
+    "normalizedSha256": "aac39b0f34566d9c1a3fa659c7fce386bfe1cd2261b14bc402d77662cc884fe3",
+    "productIds": [
+      "nylon-calibrated-cuff-series"
+    ],
+    "normalizedPixelWidth": 576,
+    "normalizedPixelHeight": 453
+  },
+  {
+    "pdfPage": 12,
+    "cataloguePages": [
+      29,
+      30
+    ],
+    "ordinal": 2,
+    "xref": 205,
+    "smask": 0,
+    "pixelWidth": 582,
+    "pixelHeight": 186,
+    "bbox": [
+      75.7,
+      490.42,
+      285.46,
+      557.62
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-12_img-02_xref-205.webp",
+    "normalizedSha256": "93414959dc82a47402e7421b66eafd86e8dd16297253be00cdb9a44280365f0a",
+    "productIds": [
+      "cuff-6281"
+    ],
+    "normalizedPixelWidth": 582,
+    "normalizedPixelHeight": 186
+  },
+  {
+    "pdfPage": 12,
+    "cataloguePages": [
+      29,
+      30
+    ],
+    "ordinal": 3,
+    "xref": 206,
+    "smask": 0,
+    "pixelWidth": 669,
+    "pixelHeight": 220,
+    "bbox": [
+      650.69,
+      454.58,
+      891.66,
+      533.78
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-12_img-03_xref-206.webp",
+    "normalizedSha256": "c8042a794ecc7e0b0f4f996c02c5af7e9deb60503f472a6edd60249d4aa75642",
+    "productIds": [
+      "heavy-duty-nylon-calibrated-cuff-series"
+    ],
+    "normalizedPixelWidth": 669,
+    "normalizedPixelHeight": 220
+  },
+  {
+    "pdfPage": 12,
+    "cataloguePages": [
+      29,
+      30
+    ],
+    "ordinal": 4,
+    "xref": 207,
+    "smask": 0,
+    "pixelWidth": 716,
+    "pixelHeight": 225,
+    "bbox": [
+      640.16,
+      543.77,
+      898.03,
+      624.65
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-12_img-04_xref-207.webp",
+    "normalizedSha256": "27135aca3d8dbcc55e818a77770710b179fd29ac098109b6722e3a05799bf4d9",
+    "productIds": [
+      "heavy-duty-nylon-calibrated-cuff-series"
+    ],
+    "normalizedPixelWidth": 716,
+    "normalizedPixelHeight": 225
+  },
+  {
+    "pdfPage": 12,
+    "cataloguePages": [
+      29,
+      30
+    ],
+    "ordinal": 5,
+    "xref": 208,
+    "smask": 0,
+    "pixelWidth": 314,
+    "pixelHeight": 253,
+    "bbox": [
+      920.98,
+      281.15,
+      1034.02,
+      372.35
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-12_img-05_xref-208.webp",
+    "normalizedSha256": "081a85b4150c64369114ada59436efabb3fa9a71c0d131a6311ad9df257b11ac",
+    "productIds": [
+      "heavy-duty-nylon-calibrated-cuff-series"
+    ],
+    "normalizedPixelWidth": 314,
+    "normalizedPixelHeight": 253
+  },
+  {
+    "pdfPage": 12,
+    "cataloguePages": [
+      29,
+      30
+    ],
+    "ordinal": 6,
+    "xref": 209,
+    "smask": 0,
+    "pixelWidth": 207,
+    "pixelHeight": 138,
+    "bbox": [
+      313.77,
+      168.44,
+      388.61,
+      218.19
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-12_img-06_xref-209.webp",
+    "normalizedSha256": "726d1d4a7c9932a8cdc826e96b756daa82f1b3dd7f372e48cd1bf0ed5b231d2b",
+    "productIds": [
+      "nylon-calibrated-cuff-series"
+    ],
+    "normalizedPixelWidth": 207,
+    "normalizedPixelHeight": 138
+  },
+  {
+    "pdfPage": 12,
+    "cataloguePages": [
+      29,
+      30
+    ],
+    "ordinal": 7,
+    "xref": 210,
+    "smask": 0,
+    "pixelWidth": 618,
+    "pixelHeight": 213,
+    "bbox": [
+      70.36,
+      669.24,
+      293.08,
+      746.04
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-12_img-07_xref-210.webp",
+    "normalizedSha256": "628aa3ee0e26e87347ea5a182bcdd2a1e4bdc0eb2db485cf3a5b0cfd889682e4",
+    "productIds": [
+      "cuff-6283"
+    ],
+    "normalizedPixelWidth": 618,
+    "normalizedPixelHeight": 213
+  },
+  {
+    "pdfPage": 12,
+    "cataloguePages": [
+      29,
+      30
+    ],
+    "ordinal": 8,
+    "xref": 211,
+    "smask": 0,
+    "pixelWidth": 732,
+    "pixelHeight": 280,
+    "bbox": [
+      656.6,
+      671.77,
+      920.12,
+      772.57
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-12_img-08_xref-211.webp",
+    "normalizedSha256": "67557243f63a17acca1bba757585de66d1a9ff4ca3bc3becb81981cfa0e3805f",
+    "productIds": [
+      "bulb-6411",
+      "bulb-6412",
+      "bulb-6413",
+      "bulb-6414"
+    ],
+    "normalizedPixelWidth": 732,
+    "normalizedPixelHeight": 280
+  },
+  {
+    "pdfPage": 12,
+    "cataloguePages": [
+      29,
+      30
+    ],
+    "ordinal": 9,
+    "xref": 212,
+    "smask": 0,
+    "pixelWidth": 590,
+    "pixelHeight": 206,
+    "bbox": [
+      74.26,
+      386.54,
+      286.9,
+      460.7
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-12_img-09_xref-212.webp",
+    "normalizedSha256": "17dd1249e7ad7d842bb9663fe789ec026faedbd977e0ff272795901d779a2b15",
+    "productIds": [
+      "cuff-6280"
+    ],
+    "normalizedPixelWidth": 590,
+    "normalizedPixelHeight": 206
+  },
+  {
+    "pdfPage": 12,
+    "cataloguePages": [
+      29,
+      30
+    ],
+    "ordinal": 10,
+    "xref": 213,
+    "smask": 0,
+    "pixelWidth": 611,
+    "pixelHeight": 193,
+    "bbox": [
+      70.54,
+      577.92,
+      290.62,
+      647.28
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-12_img-10_xref-213.webp",
+    "normalizedSha256": "4f06c1d4c13294650dfecc9b70457c3a68f9ec11409ccab635ba1ef463105dae",
+    "productIds": [
+      "cuff-6282"
+    ],
+    "normalizedPixelWidth": 611,
+    "normalizedPixelHeight": 193
+  },
+  {
+    "pdfPage": 12,
+    "cataloguePages": [
+      29,
+      30
+    ],
+    "ordinal": 11,
+    "xref": 214,
+    "smask": 0,
+    "pixelWidth": 520,
+    "pixelHeight": 177,
+    "bbox": [
+      698.83,
+      193.7,
+      886.03,
+      257.3
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-12_img-11_xref-214.webp",
+    "normalizedSha256": "2ff0b26b14940d4f333ccc14b3f999159444b4521bf8f42a3e4fffedc4add54e",
+    "productIds": [
+      "heavy-duty-nylon-calibrated-cuff-series"
+    ],
+    "normalizedPixelWidth": 520,
+    "normalizedPixelHeight": 177
+  },
+  {
+    "pdfPage": 12,
+    "cataloguePages": [
+      29,
+      30
+    ],
+    "ordinal": 12,
+    "xref": 215,
+    "smask": 0,
+    "pixelWidth": 566,
+    "pixelHeight": 208,
+    "bbox": [
+      687.65,
+      274.54,
+      891.66,
+      349.42
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-12_img-12_xref-215.webp",
+    "normalizedSha256": "8fb176028f5a33b520f0db367f8b00632647e2e36f4b437258f04eace6c73e5c",
+    "productIds": [
+      "heavy-duty-nylon-calibrated-cuff-series"
+    ],
+    "normalizedPixelWidth": 566,
+    "normalizedPixelHeight": 208
+  },
+  {
+    "pdfPage": 12,
+    "cataloguePages": [
+      29,
+      30
+    ],
+    "ordinal": 13,
+    "xref": 216,
+    "smask": 0,
+    "pixelWidth": 638,
+    "pixelHeight": 208,
+    "bbox": [
+      661.98,
+      364.53,
+      891.66,
+      439.41
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-12_img-13_xref-216.webp",
+    "normalizedSha256": "9824588ad17382d09a81d37198bcbd05cdf9e4cc2b6c5c0879742d2c1ff6db87",
+    "productIds": [
+      "heavy-duty-nylon-calibrated-cuff-series"
+    ],
+    "normalizedPixelWidth": 638,
+    "normalizedPixelHeight": 208
+  },
+  {
+    "pdfPage": 13,
+    "cataloguePages": [
+      31,
+      32
+    ],
+    "ordinal": 1,
+    "xref": 319,
+    "smask": 0,
+    "pixelWidth": 2540,
+    "pixelHeight": 1831,
+    "bbox": [
+      0.0,
+      0.0,
+      1218.99,
+      878.79
+    ],
+    "classification": "excluded",
+    "classificationReason": "full-spread background",
+    "normalizedFile": "",
+    "normalizedSha256": "",
+    "productIds": [],
+    "normalizedPixelWidth": null,
+    "normalizedPixelHeight": null
+  },
+  {
+    "pdfPage": 13,
+    "cataloguePages": [
+      31,
+      32
+    ],
+    "ordinal": 2,
+    "xref": 233,
+    "smask": 0,
+    "pixelWidth": 329,
+    "pixelHeight": 403,
+    "bbox": [
+      73.81,
+      168.94,
+      116.11,
+      220.76
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-02_xref-233.webp",
+    "normalizedSha256": "a665bec543ff94e6c01ba451ea1c6acc13c51d121110d6b6c121cefa44673f31",
+    "productIds": [
+      "valve-6511"
+    ],
+    "normalizedPixelWidth": 329,
+    "normalizedPixelHeight": 403
+  },
+  {
+    "pdfPage": 13,
+    "cataloguePages": [
+      31,
+      32
+    ],
+    "ordinal": 3,
+    "xref": 234,
+    "smask": 0,
+    "pixelWidth": 262,
+    "pixelHeight": 358,
+    "bbox": [
+      351.26,
+      173.7,
+      384.95,
+      219.73
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-03_xref-234.webp",
+    "normalizedSha256": "a7c28ed6972ab70af26ed62909493fb8331f0c1d0c68ad7d4b518b0f0ff9fa19",
+    "productIds": [
+      "valve-6515"
+    ],
+    "normalizedPixelWidth": 262,
+    "normalizedPixelHeight": 358
+  },
+  {
+    "pdfPage": 13,
+    "cataloguePages": [
+      31,
+      32
+    ],
+    "ordinal": 4,
+    "xref": 235,
+    "smask": 0,
+    "pixelWidth": 881,
+    "pixelHeight": 695,
+    "bbox": [
+      345.61,
+      509.65,
+      458.88,
+      599.01
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-04_xref-235.webp",
+    "normalizedSha256": "2e96cce21cb1c00aaf7716daed2addd2b148b0d0486b815227d1aaebc70d8654",
+    "productIds": [
+      "case-6610"
+    ],
+    "normalizedPixelWidth": 881,
+    "normalizedPixelHeight": 695
+  },
+  {
+    "pdfPage": 13,
+    "cataloguePages": [
+      31,
+      32
+    ],
+    "ordinal": 5,
+    "xref": 236,
+    "smask": 0,
+    "pixelWidth": 231,
+    "pixelHeight": 306,
+    "bbox": [
+      460.81,
+      178.45,
+      490.51,
+      217.8
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-05_xref-236.webp",
+    "normalizedSha256": "acad2c1010a548aeaa47a239da68ea2f464617c395133871a0226bca4aea5e45",
+    "productIds": [
+      "valve-6517"
+    ],
+    "normalizedPixelWidth": 231,
+    "normalizedPixelHeight": 306
+  },
+  {
+    "pdfPage": 13,
+    "cataloguePages": [
+      31,
+      32
+    ],
+    "ordinal": 6,
+    "xref": 237,
+    "smask": 0,
+    "pixelWidth": 873,
+    "pixelHeight": 299,
+    "bbox": [
+      388.81,
+      369.51,
+      501.05,
+      407.96
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-06_xref-237.webp",
+    "normalizedSha256": "3c3a27dd6a9510d3d8c2c845c7cd799cb66437c4c9835ad2dc52ec2d5c776106",
+    "productIds": [
+      "connector-6520"
+    ],
+    "normalizedPixelWidth": 873,
+    "normalizedPixelHeight": 299
+  },
+  {
+    "pdfPage": 13,
+    "cataloguePages": [
+      31,
+      32
+    ],
+    "ordinal": 7,
+    "xref": 238,
+    "smask": 0,
+    "pixelWidth": 261,
+    "pixelHeight": 366,
+    "bbox": [
+      515.45,
+      171.77,
+      549.01,
+      218.83
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-07_xref-238.webp",
+    "normalizedSha256": "9df72e9a4968800a5ae4d3ea8343f7c9c5065d558a82f44633f8192dac4ab537",
+    "productIds": [
+      "valve-6518"
+    ],
+    "normalizedPixelWidth": 261,
+    "normalizedPixelHeight": 366
+  },
+  {
+    "pdfPage": 13,
+    "cataloguePages": [
+      31,
+      32
+    ],
+    "ordinal": 8,
+    "xref": 239,
+    "smask": 0,
+    "pixelWidth": 351,
+    "pixelHeight": 187,
+    "bbox": [
+      515.45,
+      378.12,
+      560.58,
+      402.17
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-08_xref-239.webp",
+    "normalizedSha256": "24dee4f980119f92660bdfe1c6593a32e049476ba30769f66ce48c71403b16c5",
+    "productIds": [
+      "connector-6521"
+    ],
+    "normalizedPixelWidth": 351,
+    "normalizedPixelHeight": 187
+  },
+  {
+    "pdfPage": 13,
+    "cataloguePages": [
+      31,
+      32
+    ],
+    "ordinal": 9,
+    "xref": 240,
+    "smask": 0,
+    "pixelWidth": 1516,
+    "pixelHeight": 881,
+    "bbox": [
+      682.46,
+      183.33,
+      877.37,
+      296.61
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-09_xref-240.webp",
+    "normalizedSha256": "bcce28daa570068da6e3261e61e56cb89528db934f8d724884f08ba11e3deecf",
+    "productIds": [
+      "chestpiece-6711a",
+      "chestpiece-6711c",
+      "chestpiece-6711n",
+      "chestpiece-6711x",
+      "chestpiece-6712a",
+      "chestpiece-6712c",
+      "chestpiece-6712n",
+      "chestpiece-6712x"
+    ],
+    "normalizedPixelWidth": 1516,
+    "normalizedPixelHeight": 881
+  },
+  {
+    "pdfPage": 13,
+    "cataloguePages": [
+      31,
+      32
+    ],
+    "ordinal": 10,
+    "xref": 241,
+    "smask": 0,
+    "pixelWidth": 262,
+    "pixelHeight": 336,
+    "bbox": [
+      684.39,
+      407.96,
+      718.08,
+      451.16
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-10_xref-241.webp",
+    "normalizedSha256": "7f034780c0188d99833f918b01b27c2ac8b08eddc66ca7dba3f73f1e83431ad7",
+    "productIds": [
+      "chestpiece-6715"
+    ],
+    "normalizedPixelWidth": 262,
+    "normalizedPixelHeight": 336
+  },
+  {
+    "pdfPage": 13,
+    "cataloguePages": [
+      31,
+      32
+    ],
+    "ordinal": 11,
+    "xref": 242,
+    "smask": 0,
+    "pixelWidth": 874,
+    "pixelHeight": 784,
+    "bbox": [
+      65.19,
+      665.23,
+      177.56,
+      766.03
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-11_xref-242.webp",
+    "normalizedSha256": "d6cba889f5aedaee2910da484fd5825a0f0a76fd6d2b64db73ae2bc75d17ca2e",
+    "productIds": [
+      "case-6620"
+    ],
+    "normalizedPixelWidth": 874,
+    "normalizedPixelHeight": 784
+  },
+  {
+    "pdfPage": 13,
+    "cataloguePages": [
+      31,
+      32
+    ],
+    "ordinal": 12,
+    "xref": 243,
+    "smask": 0,
+    "pixelWidth": 866,
+    "pixelHeight": 627,
+    "bbox": [
+      348.43,
+      675.76,
+      459.77,
+      756.38
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-12_xref-243.webp",
+    "normalizedSha256": "a851777c84abe7dc0c24d2738304c200698f6104368f2e0ca41eb20bfbd72cc7",
+    "productIds": [
+      "case-6630"
+    ],
+    "normalizedPixelWidth": 866,
+    "normalizedPixelHeight": 627
+  },
+  {
+    "pdfPage": 13,
+    "cataloguePages": [
+      31,
+      32
+    ],
+    "ordinal": 13,
+    "xref": 244,
+    "smask": 0,
+    "pixelWidth": 321,
+    "pixelHeight": 321,
+    "bbox": [
+      128.58,
+      171.76,
+      169.85,
+      213.04
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-13_xref-244.webp",
+    "normalizedSha256": "dc45eea84fb59248937b9898ebb86149e4ed6a7c4a6c12663d430b5f698cb167",
+    "productIds": [
+      "valve-6512"
+    ],
+    "normalizedPixelWidth": 321,
+    "normalizedPixelHeight": 321
+  },
+  {
+    "pdfPage": 13,
+    "cataloguePages": [
+      31,
+      32
+    ],
+    "ordinal": 14,
+    "xref": 245,
+    "smask": 0,
+    "pixelWidth": 306,
+    "pixelHeight": 395,
+    "bbox": [
+      682.46,
+      341.74,
+      721.8,
+      392.53
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-14_xref-245.webp",
+    "normalizedSha256": "537f82f6c8a63227b89271a325df75fa9eb1f58074274d62b826d6cc71e0d2a4",
+    "productIds": [
+      "chestpiece-6713c"
+    ],
+    "normalizedPixelWidth": 306,
+    "normalizedPixelHeight": 395
+  },
+  {
+    "pdfPage": 13,
+    "cataloguePages": [
+      31,
+      32
+    ],
+    "ordinal": 15,
+    "xref": 246,
+    "smask": 0,
+    "pixelWidth": 299,
+    "pixelHeight": 395,
+    "bbox": [
+      731.45,
+      343.67,
+      769.89,
+      394.46
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-15_xref-246.webp",
+    "normalizedSha256": "b51f3c925cc7e0b6369b64241810deb89b0d953453043e27f48169b8322e5540",
+    "productIds": [
+      "chestpiece-6713a"
+    ],
+    "normalizedPixelWidth": 299,
+    "normalizedPixelHeight": 395
+  },
+  {
+    "pdfPage": 13,
+    "cataloguePages": [
+      31,
+      32
+    ],
+    "ordinal": 16,
+    "xref": 247,
+    "smask": 0,
+    "pixelWidth": 202,
+    "pixelHeight": 313,
+    "bbox": [
+      735.31,
+      409.88,
+      761.28,
+      450.13
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-16_xref-247.webp",
+    "normalizedSha256": "053af6ed7ab5bd66238209969e8237d5ed62f312c18331c348bb112a1b827314",
+    "productIds": [
+      "chestpiece-6716"
+    ],
+    "normalizedPixelWidth": 202,
+    "normalizedPixelHeight": 313
+  },
+  {
+    "pdfPage": 13,
+    "cataloguePages": [
+      31,
+      32
+    ],
+    "ordinal": 17,
+    "xref": 248,
+    "smask": 0,
+    "pixelWidth": 336,
+    "pixelHeight": 418,
+    "bbox": [
+      783.26,
+      342.63,
+      826.46,
+      396.38
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-17_xref-248.webp",
+    "normalizedSha256": "a3aaabe4118bc64e415bbd88cd28bae7ab6fa5ec0a451ab6d03359b17f02bb77",
+    "productIds": [
+      "chestpiece-6713w"
+    ],
+    "normalizedPixelWidth": 336,
+    "normalizedPixelHeight": 418
+  },
+  {
+    "pdfPage": 13,
+    "cataloguePages": [
+      31,
+      32
+    ],
+    "ordinal": 18,
+    "xref": 249,
+    "smask": 0,
+    "pixelWidth": 329,
+    "pixelHeight": 299,
+    "bbox": [
+      778.51,
+      406.92,
+      820.81,
+      445.37
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-18_xref-249.webp",
+    "normalizedSha256": "253aea960859a8c9d52dfa163d9a22d847674b8bc7429b167016db5e0545d6db",
+    "productIds": [
+      "chestpiece-6717"
+    ],
+    "normalizedPixelWidth": 329,
+    "normalizedPixelHeight": 299
+  },
+  {
+    "pdfPage": 13,
+    "cataloguePages": [
+      31,
+      32
+    ],
+    "ordinal": 19,
+    "xref": 250,
+    "smask": 0,
+    "pixelWidth": 306,
+    "pixelHeight": 261,
+    "bbox": [
+      838.03,
+      350.35,
+      877.37,
+      383.91
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-19_xref-250.webp",
+    "normalizedSha256": "e1b045c4018d67b4fb121222e78281dda1ce597e360e1de65e4e8b81ddd8fb8a",
+    "productIds": [
+      "chestpiece-6714"
+    ],
+    "normalizedPixelWidth": 306,
+    "normalizedPixelHeight": 261
+  },
+  {
+    "pdfPage": 13,
+    "cataloguePages": [
+      31,
+      32
+    ],
+    "ordinal": 20,
+    "xref": 251,
+    "smask": 0,
+    "pixelWidth": 351,
+    "pixelHeight": 336,
+    "bbox": [
+      836.11,
+      403.2,
+      881.24,
+      446.4
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-20_xref-251.webp",
+    "normalizedSha256": "bfa414e7905b4902abebe86dca5955f7b026502cf9b1a8de9817c86363718cb6",
+    "productIds": [
+      "chestpiece-6718"
+    ],
+    "normalizedPixelWidth": 351,
+    "normalizedPixelHeight": 336
+  },
+  {
+    "pdfPage": 13,
+    "cataloguePages": [
+      31,
+      32
+    ],
+    "ordinal": 21,
+    "xref": 252,
+    "smask": 0,
+    "pixelWidth": 1553,
+    "pixelHeight": 933,
+    "bbox": [
+      680.53,
+      492.42,
+      880.2,
+      612.38
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-21_xref-252.webp",
+    "normalizedSha256": "632fcf4fc25190d91287ad571d037f6b3cec3bbcab334d8524923648e5a1aee9",
+    "productIds": [
+      "chestpiece-6719",
+      "chestpiece-6720",
+      "chestpiece-6721",
+      "chestpiece-6722",
+      "chestpiece-6723",
+      "chestpiece-6724",
+      "chestpiece-6725",
+      "chestpiece-6726",
+      "chestpiece-6727"
+    ],
+    "normalizedPixelWidth": 1553,
+    "normalizedPixelHeight": 933
+  },
+  {
+    "pdfPage": 13,
+    "cataloguePages": [
+      31,
+      32
+    ],
+    "ordinal": 22,
+    "xref": 253,
+    "smask": 0,
+    "pixelWidth": 314,
+    "pixelHeight": 202,
+    "bbox": [
+      684.39,
+      666.12,
+      724.76,
+      692.1
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-22_xref-253.webp",
+    "normalizedSha256": "8e4882e6248e4230b0044ca8767d190fa1fc0c7810bda6c15006fb56f00a2818",
+    "productIds": [
+      "eartips-601-614"
+    ],
+    "normalizedPixelWidth": 314,
+    "normalizedPixelHeight": 202
+  },
+  {
+    "pdfPage": 13,
+    "cataloguePages": [
+      31,
+      32
+    ],
+    "ordinal": 23,
+    "xref": 254,
+    "smask": 0,
+    "pixelWidth": 261,
+    "pixelHeight": 179,
+    "bbox": [
+      685.42,
+      728.61,
+      718.98,
+      751.63
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-23_xref-254.webp",
+    "normalizedSha256": "4270aa768267adb75356a81fcb226f7564fb04cf3f97d594492ae274ce82b66c",
+    "productIds": [
+      "eartips-601-614"
+    ],
+    "normalizedPixelWidth": 261,
+    "normalizedPixelHeight": 179
+  },
+  {
+    "pdfPage": 13,
+    "cataloguePages": [
+      31,
+      32
+    ],
+    "ordinal": 24,
+    "xref": 255,
+    "smask": 0,
+    "pixelWidth": 247,
+    "pixelHeight": 343,
+    "bbox": [
+      405.01,
+      177.56,
+      436.77,
+      221.66
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-24_xref-255.webp",
+    "normalizedSha256": "ef8cc2bc91b0d88fae236bc9f13eafbd98d42c72c4238f49ab01eed59807dfe2",
+    "productIds": [
+      "valve-6516"
+    ],
+    "normalizedPixelWidth": 247,
+    "normalizedPixelHeight": 343
+  },
+  {
+    "pdfPage": 13,
+    "cataloguePages": [
+      31,
+      32
+    ],
+    "ordinal": 25,
+    "xref": 256,
+    "smask": 0,
+    "pixelWidth": 277,
+    "pixelHeight": 172,
+    "bbox": [
+      741.99,
+      669.08,
+      777.6,
+      691.2
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-25_xref-256.webp",
+    "normalizedSha256": "2716eea7cda308d8dfe4a887c57bead1ac7f2623d9438c395eb268ccc87376fe",
+    "productIds": [
+      "eartips-601-614"
+    ],
+    "normalizedPixelWidth": 277,
+    "normalizedPixelHeight": 172
+  },
+  {
+    "pdfPage": 13,
+    "cataloguePages": [
+      31,
+      32
+    ],
+    "ordinal": 26,
+    "xref": 257,
+    "smask": 0,
+    "pixelWidth": 284,
+    "pixelHeight": 157,
+    "bbox": [
+      739.16,
+      731.44,
+      775.67,
+      751.63
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-26_xref-257.webp",
+    "normalizedSha256": "7afcf1dadfeaa3a792c589e4328065011c930d2fa4a9d4621ec54a06f4bd2307",
+    "productIds": [
+      "eartips-601-614"
+    ],
+    "normalizedPixelWidth": 284,
+    "normalizedPixelHeight": 157
+  },
+  {
+    "pdfPage": 13,
+    "cataloguePages": [
+      31,
+      32
+    ],
+    "ordinal": 27,
+    "xref": 258,
+    "smask": 0,
+    "pixelWidth": 261,
+    "pixelHeight": 142,
+    "bbox": [
+      790.98,
+      671.91,
+      824.54,
+      690.17
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-27_xref-258.webp",
+    "normalizedSha256": "89da9ada12073da0c4d3a9baef5fe37c95ab97be72071b802a627028460833f8",
+    "productIds": [
+      "eartips-601-614"
+    ],
+    "normalizedPixelWidth": 261,
+    "normalizedPixelHeight": 142
+  },
+  {
+    "pdfPage": 13,
+    "cataloguePages": [
+      31,
+      32
+    ],
+    "ordinal": 28,
+    "xref": 259,
+    "smask": 0,
+    "pixelWidth": 246,
+    "pixelHeight": 164,
+    "bbox": [
+      792.01,
+      732.47,
+      823.64,
+      753.56
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-28_xref-259.webp",
+    "normalizedSha256": "7db5878c2fd86f7be23e4facc983b296b37fe6a88f45d7e960e5046ec887d590",
+    "productIds": [
+      "eartips-601-614"
+    ],
+    "normalizedPixelWidth": 246,
+    "normalizedPixelHeight": 164
+  },
+  {
+    "pdfPage": 13,
+    "cataloguePages": [
+      31,
+      32
+    ],
+    "ordinal": 29,
+    "xref": 260,
+    "smask": 0,
+    "pixelWidth": 321,
+    "pixelHeight": 149,
+    "bbox": [
+      838.03,
+      671.01,
+      879.3,
+      690.17
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-29_xref-260.webp",
+    "normalizedSha256": "f290cdb610d4c1861b2e19dc8b91fcce56bbef801d5028b3d495271c416e11a3",
+    "productIds": [
+      "eartips-601-614"
+    ],
+    "normalizedPixelWidth": 321,
+    "normalizedPixelHeight": 149
+  },
+  {
+    "pdfPage": 13,
+    "cataloguePages": [
+      31,
+      32
+    ],
+    "ordinal": 30,
+    "xref": 261,
+    "smask": 0,
+    "pixelWidth": 284,
+    "pixelHeight": 149,
+    "bbox": [
+      839.96,
+      732.47,
+      876.47,
+      751.63
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-30_xref-261.webp",
+    "normalizedSha256": "8cf202b39624abba87706c928e53dbc7679e599b437bc334b3cbc489eb78fd2e",
+    "productIds": [
+      "eartips-601-614"
+    ],
+    "normalizedPixelWidth": 284,
+    "normalizedPixelHeight": 149
+  },
+  {
+    "pdfPage": 13,
+    "cataloguePages": [
+      31,
+      32
+    ],
+    "ordinal": 31,
+    "xref": 262,
+    "smask": 0,
+    "pixelWidth": 253,
+    "pixelHeight": 165,
+    "bbox": [
+      890.88,
+      669.98,
+      923.41,
+      691.2
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-31_xref-262.webp",
+    "normalizedSha256": "eed03a0a11adc6bf0f4ff56731295766c34d4b65f95a84d46833ad2e9934c192",
+    "productIds": [
+      "eartips-601-614"
+    ],
+    "normalizedPixelWidth": 253,
+    "normalizedPixelHeight": 165
+  },
+  {
+    "pdfPage": 13,
+    "cataloguePages": [
+      31,
+      32
+    ],
+    "ordinal": 32,
+    "xref": 263,
+    "smask": 0,
+    "pixelWidth": 261,
+    "pixelHeight": 149,
+    "bbox": [
+      891.78,
+      732.47,
+      925.34,
+      751.63
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-32_xref-263.webp",
+    "normalizedSha256": "181df26dd514709f12d4df165b66673cba99646fef2a2f2a464322a9f5b9506c",
+    "productIds": [
+      "eartips-601-614"
+    ],
+    "normalizedPixelWidth": 261,
+    "normalizedPixelHeight": 149
+  },
+  {
+    "pdfPage": 13,
+    "cataloguePages": [
+      31,
+      32
+    ],
+    "ordinal": 33,
+    "xref": 264,
+    "smask": 0,
+    "pixelWidth": 269,
+    "pixelHeight": 157,
+    "bbox": [
+      936.91,
+      671.01,
+      971.5,
+      691.2
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-33_xref-264.webp",
+    "normalizedSha256": "091a314bba1d45ba142840f4e389b74cef2da5a217923e155ffda4dba8170d2d",
+    "productIds": [
+      "eartips-601-614"
+    ],
+    "normalizedPixelWidth": 269,
+    "normalizedPixelHeight": 157
+  },
+  {
+    "pdfPage": 13,
+    "cataloguePages": [
+      31,
+      32
+    ],
+    "ordinal": 34,
+    "xref": 265,
+    "smask": 0,
+    "pixelWidth": 253,
+    "pixelHeight": 142,
+    "bbox": [
+      936.01,
+      731.44,
+      968.54,
+      749.7
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-34_xref-265.webp",
+    "normalizedSha256": "2ff0b0f150c74fcc1923ee55be86ec47beefdfe411599c936b0a9d06685b5fab",
+    "productIds": [
+      "eartips-601-614"
+    ],
+    "normalizedPixelWidth": 253,
+    "normalizedPixelHeight": 142
+  },
+  {
+    "pdfPage": 13,
+    "cataloguePages": [
+      31,
+      32
+    ],
+    "ordinal": 35,
+    "xref": 266,
+    "smask": 0,
+    "pixelWidth": 500,
+    "pixelHeight": 172,
+    "bbox": [
+      72.01,
+      376.19,
+      136.3,
+      398.31
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-35_xref-266.webp",
+    "normalizedSha256": "28445b1f3eab07dad0be03f1882ea784432a05efa5ae9002bb0341040e23f51a",
+    "productIds": [
+      "connector-6519"
+    ],
+    "normalizedPixelWidth": 500,
+    "normalizedPixelHeight": 172
+  },
+  {
+    "pdfPage": 13,
+    "cataloguePages": [
+      31,
+      32
+    ],
+    "ordinal": 36,
+    "xref": 267,
+    "smask": 0,
+    "pixelWidth": 262,
+    "pixelHeight": 164,
+    "bbox": [
+      982.93,
+      671.91,
+      1016.62,
+      693.0
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-36_xref-267.webp",
+    "normalizedSha256": "e59ffe894ca4d21f4c12b740ed58096bb73260924df4bc42e65fd9f6a2a5d228",
+    "productIds": [
+      "eartips-601-614"
+    ],
+    "normalizedPixelWidth": 262,
+    "normalizedPixelHeight": 164
+  },
+  {
+    "pdfPage": 13,
+    "cataloguePages": [
+      31,
+      32
+    ],
+    "ordinal": 37,
+    "xref": 268,
+    "smask": 0,
+    "pixelWidth": 261,
+    "pixelHeight": 157,
+    "bbox": [
+      980.11,
+      731.44,
+      1013.67,
+      751.63
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-37_xref-268.webp",
+    "normalizedSha256": "923f161756e0f96ab2e209ab6c34eb1c7641a6ce1f3bf86355a74872f7e79518",
+    "productIds": [
+      "eartips-601-614"
+    ],
+    "normalizedPixelWidth": 261,
+    "normalizedPixelHeight": 157
+  },
+  {
+    "pdfPage": 13,
+    "cataloguePages": [
+      31,
+      32
+    ],
+    "ordinal": 38,
+    "xref": 269,
+    "smask": 0,
+    "pixelWidth": 859,
+    "pixelHeight": 784,
+    "bbox": [
+      69.05,
+      506.83,
+      179.49,
+      607.63
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-38_xref-269.webp",
+    "normalizedSha256": "6df8174f8f8a27fcb6363e3244fcee1d175aa916994d5312c59c4942ecc6e1ef",
+    "productIds": [
+      "cases-6600-6601"
+    ],
+    "normalizedPixelWidth": 859,
+    "normalizedPixelHeight": 784
+  },
+  {
+    "pdfPage": 13,
+    "cataloguePages": [
+      31,
+      32
+    ],
+    "ordinal": 39,
+    "xref": 270,
+    "smask": 0,
+    "pixelWidth": 321,
+    "pixelHeight": 359,
+    "bbox": [
+      183.35,
+      167.91,
+      224.62,
+      214.07
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-39_xref-270.webp",
+    "normalizedSha256": "66112ba0184d1d8c83c677e881c62ce36514ac5f7d27ddf0be032a36866fe2ba",
+    "productIds": [
+      "valve-6513"
+    ],
+    "normalizedPixelWidth": 321,
+    "normalizedPixelHeight": 359
+  },
+  {
+    "pdfPage": 13,
+    "cataloguePages": [
+      31,
+      32
+    ],
+    "ordinal": 40,
+    "xref": 271,
+    "smask": 0,
+    "pixelWidth": 298,
+    "pixelHeight": 306,
+    "bbox": [
+      237.09,
+      173.69,
+      275.4,
+      213.04
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-40_xref-271.webp",
+    "normalizedSha256": "f54057a90228e711324f228490603aaed15f16db7e35b01e4e306319c52f90c9",
+    "productIds": [
+      "valve-6514"
+    ],
+    "normalizedPixelWidth": 298,
+    "normalizedPixelHeight": 306
+  },
+  {
+    "pdfPage": 13,
+    "cataloguePages": [
+      31,
+      32
+    ],
+    "ordinal": 41,
+    "xref": 272,
+    "smask": 0,
+    "pixelWidth": 964,
+    "pixelHeight": 299,
+    "bbox": [
+      178.46,
+      369.51,
+      302.4,
+      407.96
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-41_xref-272.webp",
+    "normalizedSha256": "b041f9c40751d8319b3600ce5ea92bb1b29ce49dd2a428ff00777e69222e24a3",
+    "productIds": [
+      "connector-6519"
+    ],
+    "normalizedPixelWidth": 964,
+    "normalizedPixelHeight": 299
+  },
+  {
+    "pdfPage": 13,
+    "cataloguePages": [
+      31,
+      32
+    ],
+    "ordinal": 42,
+    "xref": 273,
+    "smask": 0,
+    "pixelWidth": 515,
+    "pixelHeight": 224,
+    "bbox": [
+      314.88,
+      377.23,
+      381.09,
+      406.03
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-42_xref-273.webp",
+    "normalizedSha256": "471dd872d04ab981616e6a0a2f59122a92ef826ac2e20a1d55c3e762481beaf5",
+    "productIds": [
+      "connector-6520"
+    ],
+    "normalizedPixelWidth": 515,
+    "normalizedPixelHeight": 224
+  },
+  {
+    "pdfPage": 14,
+    "cataloguePages": [
+      33,
+      34
+    ],
+    "ordinal": 1,
+    "xref": 319,
+    "smask": 0,
+    "pixelWidth": 2540,
+    "pixelHeight": 1831,
+    "bbox": [
+      0.0,
+      0.0,
+      1218.99,
+      878.79
+    ],
+    "classification": "excluded",
+    "classificationReason": "full-spread background",
+    "normalizedFile": "",
+    "normalizedSha256": "",
+    "productIds": [],
+    "normalizedPixelWidth": null,
+    "normalizedPixelHeight": null
+  },
+  {
+    "pdfPage": 14,
+    "cataloguePages": [
+      33,
+      34
+    ],
+    "ordinal": 2,
+    "xref": 290,
+    "smask": 0,
+    "pixelWidth": 6000,
+    "pixelHeight": 4000,
+    "bbox": [
+      497.07,
+      233.42,
+      1041.23,
+      631.74
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-14_img-02_xref-290.webp",
+    "normalizedSha256": "4c4b2e17759c79004df157e49d213d3a43afdf13e599a4c18219345b39a6e820",
+    "productIds": [
+      "cm-pi-pressure-infusor-series"
+    ],
+    "normalizedPixelWidth": 1500,
+    "normalizedPixelHeight": 1000
+  },
+  {
+    "pdfPage": 14,
+    "cataloguePages": [
+      33,
+      34
+    ],
+    "ordinal": 3,
+    "xref": 292,
+    "smask": 0,
+    "pixelWidth": 6000,
+    "pixelHeight": 4000,
+    "bbox": [
+      252.54,
+      123.83,
+      692.46,
+      417.12
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-14_img-03_xref-292.webp",
+    "normalizedSha256": "d783f3774b36704cbd11db98d797900cde62c23be9dc51b2fc494ed373dce787",
+    "productIds": [
+      "inflatable-pressure-relief-seat-cushion"
+    ],
+    "normalizedPixelWidth": 1500,
+    "normalizedPixelHeight": 1000
+  },
+  {
+    "pdfPage": 14,
+    "cataloguePages": [
+      33,
+      34
+    ],
+    "ordinal": 4,
+    "xref": 294,
+    "smask": 293,
+    "pixelWidth": 4000,
+    "pixelHeight": 4000,
+    "bbox": [
+      42.36,
+      338.92,
+      355.19,
+      651.73
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-14_img-04_xref-294.webp",
+    "normalizedSha256": "277d4bb3c50307de6721011c64035e284ad42f98d5cdfac2c73f5e884a10fa04",
+    "productIds": [
+      "inflatable-pressure-relief-seat-cushion"
+    ],
+    "normalizedPixelWidth": 2000,
+    "normalizedPixelHeight": 2000
+  },
+  {
+    "pdfPage": 14,
+    "cataloguePages": [
+      33,
+      34
+    ],
+    "ordinal": 5,
+    "xref": 295,
+    "smask": 0,
+    "pixelWidth": 1024,
+    "pixelHeight": 1024,
+    "bbox": [
+      26.32,
+      798.42,
+      64.93,
+      837.03
+    ],
+    "classification": "excluded",
+    "classificationReason": "printed page-number badge",
+    "normalizedFile": "",
+    "normalizedSha256": "",
+    "productIds": [],
+    "normalizedPixelWidth": null,
+    "normalizedPixelHeight": null
+  },
+  {
+    "pdfPage": 14,
+    "cataloguePages": [
+      33,
+      34
+    ],
+    "ordinal": 6,
+    "xref": 296,
+    "smask": 0,
+    "pixelWidth": 1024,
+    "pixelHeight": 1024,
+    "bbox": [
+      1149.38,
+      798.42,
+      1187.99,
+      837.03
+    ],
+    "classification": "excluded",
+    "classificationReason": "printed page-number badge",
+    "normalizedFile": "",
+    "normalizedSha256": "",
+    "productIds": [],
+    "normalizedPixelWidth": null,
+    "normalizedPixelHeight": null
+  },
+  {
+    "pdfPage": 14,
+    "cataloguePages": [
+      33,
+      34
+    ],
+    "ordinal": 7,
+    "xref": 776,
+    "smask": 777,
+    "pixelWidth": 6000,
+    "pixelHeight": 4000,
+    "bbox": [
+      730.83,
+      155.5,
+      1217.89,
+      489.53
+    ],
+    "classification": "candidate",
+    "classificationReason": "",
+    "normalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-14_img-07_xref-776.webp",
+    "normalizedSha256": "c5e5abe3e556ebb3ab3153a554ac586c19ffbae6e92fb0e9f74226c2b0d7f441",
+    "productIds": [
+      "cm-pi-pressure-infusor-series"
+    ],
+    "normalizedPixelWidth": 1500,
+    "normalizedPixelHeight": 1000
+  }
+]

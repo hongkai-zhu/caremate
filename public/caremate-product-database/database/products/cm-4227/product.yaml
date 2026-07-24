@@ -1,0 +1,27 @@
+schemaVersion: 1
+id: cm-4227
+slug: cm-4227
+status: draft
+reviewStatus: source-verified
+category: stethoscopes
+subcategory: specialty-stethoscopes
+name:
+  en: Bowles stethoscope
+variants:
+- sku: CM-4227
+description:
+  en: The Bowels Stethoscope features a chrome-plated brass internal spring binaural,chrome-plated raised
+    metal stem chestpiece
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Bowles stethoscope (CM-4227)
+  modelSkus:
+  - CM-4227
+  sourceType: catalogue-extracted
+editorialNotes:
+- Catalogue title says Bowles; catalogue prose says Bowels.
+sortOrder: 330

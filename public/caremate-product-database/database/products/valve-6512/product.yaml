@@ -1,0 +1,25 @@
+schemaVersion: 1
+id: valve-6512
+slug: valve-6512
+status: draft
+reviewStatus: source-verified
+category: blood-pressure-accessories
+subcategory: valves
+name:
+  en: Deluxe air release net valve with spring
+variants:
+- sku: '6512'
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Deluxe air release net valve with spring (6512)
+  modelSkus:
+  - '6512'
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 750

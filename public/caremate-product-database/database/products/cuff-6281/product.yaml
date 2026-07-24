@@ -1,0 +1,30 @@
+schemaVersion: 1
+id: cuff-6281
+slug: cuff-6281
+status: draft
+reviewStatus: source-verified
+category: blood-pressure-accessories
+subcategory: blood-pressure-cuffs
+name:
+  en: Blood Pressure Cuff with D-Ring
+variants:
+- sku: '6281'
+  label:
+    en: Adult
+  specifications:
+    en:
+    - 510x140mm
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Blood Pressure Cuff with D-Ring (6281)
+  modelSkus:
+  - '6281'
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 660

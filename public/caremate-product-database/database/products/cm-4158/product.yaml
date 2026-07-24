@@ -1,0 +1,37 @@
+schemaVersion: 1
+id: cm-4158
+slug: cm-4158
+status: draft
+reviewStatus: source-verified
+category: stethoscopes
+subcategory: sprague-rappaport-stethoscopes
+name:
+  en: Sprague Rappaport Stethoscope
+variants:
+- sku: CM-4158
+description:
+  en: ''
+features:
+  en:
+  - Outstanding acoustical quality heavy walled 22" tubes in many difference colors
+  - Includes five-in-one accessory kit
+  - Two extra pair of soft eartips
+  - Packed in PVC zipper bag
+  - Various colors tube available
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Sprague Rappaport Stethoscope (CM-4158)
+  modelSkus:
+  - CM-4158
+  sourceType: catalogue-extracted
+- role: packaging
+  file: images/gallery-02.webp
+  alt:
+    en: Sprague Rappaport Stethoscope (CM-4158)
+  modelSkus:
+  - CM-4158
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 260

@@ -1,0 +1,32 @@
+{
+  "document": "Catalogue of Caremate 506.pdf",
+  "pdfPage": 4,
+  "cataloguePages": [
+    9
+  ],
+  "textExtraction": "native PDF text with visual verification",
+  "notes": [
+    "The product photo physically covers the ends of two source lines. The words case and thigh were restored from visually certain sentence context and neighboring entries."
+  ],
+  "productId": "cm-3214-5",
+  "imageSources": [
+    {
+      "pdfPage": 4,
+      "ordinal": 7,
+      "xref": 92,
+      "sourcePixelDimensions": [
+        949,
+        1389
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-04_img-07_xref-92.webp",
+      "productFile": "images/hero.webp",
+      "modelSkus": [
+        "CM-3214-5"
+      ]
+    }
+  ],
+  "sourceTextPolicy": "Catalogue wording is preserved, including verified source typos. Line-wrap artifacts were removed. No unsupported model-to-image relationship was invented.",
+  "pdfPages": [
+    4
+  ]
+}

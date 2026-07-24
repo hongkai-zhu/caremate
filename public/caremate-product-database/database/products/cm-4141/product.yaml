@@ -1,0 +1,30 @@
+schemaVersion: 1
+id: cm-4141
+slug: cm-4141
+status: draft
+reviewStatus: source-verified
+category: stethoscopes
+subcategory: deluxe-stethoscopes
+name:
+  en: Deluxe Single Head
+variants:
+- sku: CM-4141
+description:
+  en: ''
+features:
+  en:
+  - Zinc alloy chestpiece,powder-coated finish
+  - Comes with non-chill rim
+  - With inner spring binaural Y-tubing assembly
+  - Uniquely designed for the shape of chestpiece
+  - Special design of binaural for suiting the ear structure
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Deluxe Single Head (CM-4141)
+  modelSkus:
+  - CM-4141
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 420

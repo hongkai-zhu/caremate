@@ -1,0 +1,58 @@
+{
+  "document": "Catalogue of Caremate 506.pdf",
+  "pdfPage": 9,
+  "cataloguePages": [
+    24
+  ],
+  "textExtraction": "300-dpi OCR with visual verification",
+  "notes": [],
+  "productId": "cm-4100-series",
+  "imageSources": [
+    {
+      "pdfPage": 9,
+      "ordinal": 8,
+      "xref": 170,
+      "sourcePixelDimensions": [
+        403,
+        452
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-09_img-08_xref-170.webp",
+      "productFile": "images/hero.webp",
+      "modelSkus": [
+        "CM-4100A"
+      ]
+    },
+    {
+      "pdfPage": 9,
+      "ordinal": 9,
+      "xref": 171,
+      "sourcePixelDimensions": [
+        403,
+        430
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-09_img-09_xref-171.webp",
+      "productFile": "images/gallery-02.webp",
+      "modelSkus": [
+        "CM-4100B"
+      ]
+    },
+    {
+      "pdfPage": 9,
+      "ordinal": 10,
+      "xref": 172,
+      "sourcePixelDimensions": [
+        403,
+        457
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-09_img-10_xref-172.webp",
+      "productFile": "images/gallery-03.webp",
+      "modelSkus": [
+        "CM-4100C"
+      ]
+    }
+  ],
+  "sourceTextPolicy": "Catalogue wording is preserved, including verified source typos. Line-wrap artifacts were removed. No unsupported model-to-image relationship was invented.",
+  "pdfPages": [
+    9
+  ]
+}

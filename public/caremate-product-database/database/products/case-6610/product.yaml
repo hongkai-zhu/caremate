@@ -1,0 +1,25 @@
+schemaVersion: 1
+id: case-6610
+slug: case-6610
+status: draft
+reviewStatus: source-verified
+category: blood-pressure-accessories
+subcategory: carrying-cases
+name:
+  en: Nylon zipper case
+variants:
+- sku: '6610'
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Nylon zipper case (6610)
+  modelSkus:
+  - '6610'
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 860

@@ -1,0 +1,30 @@
+{
+  "document": "Catalogue of Caremate 506.pdf",
+  "pdfPage": 11,
+  "cataloguePages": [
+    27
+  ],
+  "textExtraction": "300-dpi OCR with visual verification",
+  "notes": [],
+  "productId": "deluxe-pvc-bladder-6185",
+  "imageSources": [
+    {
+      "pdfPage": 11,
+      "ordinal": 10,
+      "xref": 194,
+      "sourcePixelDimensions": [
+        538,
+        526
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-11_img-10_xref-194.webp",
+      "productFile": "images/hero.webp",
+      "modelSkus": [
+        "6185"
+      ]
+    }
+  ],
+  "sourceTextPolicy": "Catalogue wording is preserved, including verified source typos. Line-wrap artifacts were removed. No unsupported model-to-image relationship was invented.",
+  "pdfPages": [
+    11
+  ]
+}

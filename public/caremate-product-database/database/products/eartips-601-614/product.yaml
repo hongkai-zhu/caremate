@@ -1,0 +1,129 @@
+schemaVersion: 1
+id: eartips-601-614
+slug: eartips-601-614
+status: draft
+reviewStatus: source-verified-no-description
+category: stethoscope-accessories
+subcategory: eartips
+name:
+  en: Eartips
+variants:
+- sku: '601'
+- sku: '602'
+- sku: '603'
+- sku: '604'
+- sku: '605'
+- sku: '606'
+- sku: '607'
+- sku: '608'
+- sku: '609'
+- sku: '610'
+- sku: '611'
+- sku: '612'
+- sku: '613'
+- sku: '614'
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Eartips (601)
+  modelSkus:
+  - '601'
+  sourceType: catalogue-extracted
+- role: gallery
+  file: images/gallery-02.webp
+  alt:
+    en: Eartips (602)
+  modelSkus:
+  - '602'
+  sourceType: catalogue-extracted
+- role: gallery
+  file: images/gallery-03.webp
+  alt:
+    en: Eartips (603)
+  modelSkus:
+  - '603'
+  sourceType: catalogue-extracted
+- role: gallery
+  file: images/gallery-04.webp
+  alt:
+    en: Eartips (604)
+  modelSkus:
+  - '604'
+  sourceType: catalogue-extracted
+- role: gallery
+  file: images/gallery-05.webp
+  alt:
+    en: Eartips (605)
+  modelSkus:
+  - '605'
+  sourceType: catalogue-extracted
+- role: gallery
+  file: images/gallery-06.webp
+  alt:
+    en: Eartips (606)
+  modelSkus:
+  - '606'
+  sourceType: catalogue-extracted
+- role: gallery
+  file: images/gallery-07.webp
+  alt:
+    en: Eartips (607)
+  modelSkus:
+  - '607'
+  sourceType: catalogue-extracted
+- role: gallery
+  file: images/gallery-08.webp
+  alt:
+    en: Eartips (608)
+  modelSkus:
+  - '608'
+  sourceType: catalogue-extracted
+- role: gallery
+  file: images/gallery-09.webp
+  alt:
+    en: Eartips (609)
+  modelSkus:
+  - '609'
+  sourceType: catalogue-extracted
+- role: gallery
+  file: images/gallery-10.webp
+  alt:
+    en: Eartips (610)
+  modelSkus:
+  - '610'
+  sourceType: catalogue-extracted
+- role: gallery
+  file: images/gallery-11.webp
+  alt:
+    en: Eartips (611)
+  modelSkus:
+  - '611'
+  sourceType: catalogue-extracted
+- role: gallery
+  file: images/gallery-12.webp
+  alt:
+    en: Eartips (612)
+  modelSkus:
+  - '612'
+  sourceType: catalogue-extracted
+- role: gallery
+  file: images/gallery-13.webp
+  alt:
+    en: Eartips (613)
+  modelSkus:
+  - '613'
+  sourceType: catalogue-extracted
+- role: gallery
+  file: images/gallery-14.webp
+  alt:
+    en: Eartips (614)
+  modelSkus:
+  - '614'
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 1140

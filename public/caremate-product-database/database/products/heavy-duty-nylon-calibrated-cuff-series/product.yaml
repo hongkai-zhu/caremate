@@ -1,0 +1,94 @@
+schemaVersion: 1
+id: heavy-duty-nylon-calibrated-cuff-series
+slug: heavy-duty-nylon-calibrated-cuff-series
+status: draft
+reviewStatus: source-verified
+category: blood-pressure-accessories
+subcategory: blood-pressure-cuffs
+name:
+  en: Heavy Duty Nylon Calibrated Cuff
+variants:
+- sku: '6221'
+  label:
+    en: 1-4 years old
+  specifications:
+    en:
+    - 260 x 75mm
+    - Infant
+- sku: '6222'
+  label:
+    en: 10-16 years old
+  specifications:
+    en:
+    - 345 x 105mm
+    - child
+- sku: '6223'
+  label:
+    en: Adult
+  specifications:
+    en:
+    - 530 x 145mm
+- sku: '6224'
+  label:
+    en: Large Adult
+  specifications:
+    en:
+    - 630 x 180mm
+- sku: '6225'
+  label:
+    en: Thigh
+  specifications:
+    en:
+    - 830 x 210mm
+description:
+  en: ''
+features:
+  en:
+  - Durable nylon construction
+  - Exclusive size marking system
+  - For use with most aneroid or mercurial blood pressure instruments available in 5 sizes
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Heavy Duty Nylon Calibrated Cuff — Thigh (6225)
+  modelSkus:
+  - '6225'
+  sourceType: catalogue-extracted
+- role: gallery
+  file: images/gallery-02.webp
+  alt:
+    en: Heavy Duty Nylon Calibrated Cuff — Infant (6221)
+  modelSkus:
+  - '6221'
+  sourceType: catalogue-extracted
+- role: gallery
+  file: images/gallery-03.webp
+  alt:
+    en: Heavy Duty Nylon Calibrated Cuff — Child (6222)
+  modelSkus:
+  - '6222'
+  sourceType: catalogue-extracted
+- role: gallery
+  file: images/gallery-04.webp
+  alt:
+    en: Heavy Duty Nylon Calibrated Cuff — Large Adult (6224)
+  modelSkus:
+  - '6224'
+  sourceType: catalogue-extracted
+- role: gallery
+  file: images/gallery-05.webp
+  alt:
+    en: Heavy Duty Nylon Calibrated Cuff — Thigh (6225)
+  modelSkus:
+  - '6225'
+  sourceType: catalogue-extracted
+- role: gallery
+  file: images/gallery-06.webp
+  alt:
+    en: Heavy Duty Nylon Calibrated Cuff — Adult (6223)
+  modelSkus:
+  - '6223'
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 690

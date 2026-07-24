@@ -1,0 +1,28 @@
+schemaVersion: 1
+id: cuff-6280
+slug: cuff-6280
+status: draft
+reviewStatus: source-verified
+category: blood-pressure-accessories
+subcategory: blood-pressure-cuffs
+name:
+  en: Deluxe Home Cuff
+variants:
+- sku: '6280'
+  specifications:
+    en:
+    - 500x160mm
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Deluxe Home Cuff (6280)
+  modelSkus:
+  - '6280'
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 650

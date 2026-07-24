@@ -1,0 +1,25 @@
+schemaVersion: 1
+id: valve-6514
+slug: valve-6514
+status: draft
+reviewStatus: source-verified
+category: blood-pressure-accessories
+subcategory: valves
+name:
+  en: Standard air release valve with spring
+variants:
+- sku: '6514'
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Standard air release valve with spring (6514)
+  modelSkus:
+  - '6514'
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 770

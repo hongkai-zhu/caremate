@@ -1,0 +1,30 @@
+schemaVersion: 1
+id: cm-1329
+slug: cm-1329
+status: draft
+reviewStatus: source-verified
+category: blood-pressure-monitoring
+subcategory: aneroid-sphygmomanometers
+name:
+  en: Clock Model
+variants:
+- sku: CM-1329
+description:
+  en: ''
+features:
+  en:
+  - ABS plastic case
+  - Easy to read large display manometer
+  - Range 0-300mmHg
+  - Provided with a coil tube that extends to a length of 2m
+  - Adult velcro cuff with D-ring
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Clock Model (CM-1329)
+  modelSkus:
+  - CM-1329
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 150

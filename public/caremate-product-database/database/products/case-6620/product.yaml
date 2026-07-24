@@ -1,0 +1,25 @@
+schemaVersion: 1
+id: case-6620
+slug: case-6620
+status: draft
+reviewStatus: source-verified
+category: blood-pressure-accessories
+subcategory: carrying-cases
+name:
+  en: Non-woven zipper case for environmental protection
+variants:
+- sku: '6620'
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Non-woven zipper case for environmental protection (6620)
+  modelSkus:
+  - '6620'
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 870

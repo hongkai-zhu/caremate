@@ -1,0 +1,30 @@
+schemaVersion: 1
+id: gauge-6015
+slug: gauge-6015
+status: draft
+reviewStatus: source-verified
+category: blood-pressure-accessories
+subcategory: gauges
+name:
+  en: Sphygmomanometer Gauge
+variants:
+- sku: '6015'
+description:
+  en: ''
+features:
+  en:
+  - 0-300mmHg
+  - NON STOP PIN
+  - Zinc case with Plastic Cover
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Sphygmomanometer Gauge (6015)
+  modelSkus:
+  - '6015'
+  sourceType: catalogue-extracted
+editorialNotes:
+- Generic display title inferred from the pictured product type; the catalogue prints only the model code
+  and specifications.
+sortOrder: 530

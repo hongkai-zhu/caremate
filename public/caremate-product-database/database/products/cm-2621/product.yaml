@@ -1,0 +1,25 @@
+schemaVersion: 1
+id: cm-2621
+slug: cm-2621
+status: draft
+reviewStatus: source-verified-no-description
+category: blood-pressure-monitoring
+subcategory: blood-pressure-kits
+name:
+  en: Two Party Home Blood Pressure Kit
+variants:
+- sku: CM-2621
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Two Party Home Blood Pressure Kit (CM-2621)
+  modelSkus:
+  - CM-2621
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 60

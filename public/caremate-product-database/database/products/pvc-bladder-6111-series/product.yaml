@@ -1,0 +1,81 @@
+schemaVersion: 1
+id: pvc-bladder-6111-series
+slug: pvc-bladder-6111-series
+status: draft
+reviewStatus: source-verified-family-images
+category: blood-pressure-accessories
+subcategory: bladders
+name:
+  en: PVC Bladder
+variants:
+- sku: '6111'
+  label:
+    en: Below 1 year old
+  specifications:
+    en:
+    - 90 x 25mm
+    - newborn
+- sku: '6112'
+  label:
+    en: 1-4 years old
+  specifications:
+    en:
+    - 150 x 30mm
+    - infant
+- sku: '6113'
+  label:
+    en: 5-9 years old
+  specifications:
+    en:
+    - 190 x 50mm
+    - small adult
+- sku: '6114'
+  label:
+    en: 10-16 years old
+  specifications:
+    en:
+    - 210 x 85mm
+    - child
+- sku: '6115'
+  label:
+    en: Adult
+  specifications:
+    en:
+    - 220 x 120mm
+    - 1-tube
+- sku: '6125'
+  label:
+    en: Adult
+  specifications:
+    en:
+    - 220 x 120mm
+    - 2-tubes
+- sku: '6116'
+  label:
+    en: Large adult
+  specifications:
+    en:
+    - 325 x 150mm
+- sku: '6117'
+  label:
+    en: Thigh
+  specifications:
+    en:
+    - 350 x 175mm
+description:
+  en: NOTE:Any customer's requirement on Bladders size, type(1-tube or 2-tubes)available
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: PVC Bladder — catalogue family view
+  sourceType: catalogue-extracted
+- role: gallery
+  file: images/gallery-02.webp
+  alt:
+    en: PVC Bladder — catalogue family view
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 570

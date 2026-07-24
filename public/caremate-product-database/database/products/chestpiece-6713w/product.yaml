@@ -1,0 +1,25 @@
+schemaVersion: 1
+id: chestpiece-6713w
+slug: chestpiece-6713w
+status: draft
+reviewStatus: source-verified
+category: stethoscope-accessories
+subcategory: chestpieces
+name:
+  en: Rappaport head with clock
+variants:
+- sku: 6713W
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Rappaport head with clock (6713W)
+  modelSkus:
+  - 6713W
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 990

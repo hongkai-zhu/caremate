@@ -1,0 +1,57 @@
+schemaVersion: 1
+id: cm-4411-series
+slug: cm-4411-series
+status: draft
+reviewStatus: source-verified-no-description
+category: stethoscope-accessories
+subcategory: stethoscope-covers
+name:
+  en: Stethoscope Cover
+variants:
+- sku: CM-4411A
+- sku: CM-4411B
+- sku: CM-4411C
+- sku: CM-4411D
+- sku: CM-4411E
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Stethoscope Cover (CM-4411A)
+  modelSkus:
+  - CM-4411A
+  sourceType: catalogue-extracted
+- role: gallery
+  file: images/gallery-02.webp
+  alt:
+    en: Stethoscope Cover (CM-4411B)
+  modelSkus:
+  - CM-4411B
+  sourceType: catalogue-extracted
+- role: gallery
+  file: images/gallery-03.webp
+  alt:
+    en: Stethoscope Cover (CM-4411C)
+  modelSkus:
+  - CM-4411C
+  sourceType: catalogue-extracted
+- role: gallery
+  file: images/gallery-04.webp
+  alt:
+    en: Stethoscope Cover (CM-4411D)
+  modelSkus:
+  - CM-4411D
+  sourceType: catalogue-extracted
+- role: gallery
+  file: images/gallery-05.webp
+  alt:
+    en: Stethoscope Cover (CM-4411E)
+  modelSkus:
+  - CM-4411E
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 480

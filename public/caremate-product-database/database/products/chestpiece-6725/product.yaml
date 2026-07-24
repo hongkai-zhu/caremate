@@ -1,0 +1,25 @@
+schemaVersion: 1
+id: chestpiece-6725
+slug: chestpiece-6725
+status: draft
+reviewStatus: source-verified
+category: stethoscope-accessories
+subcategory: chestpieces
+name:
+  en: Bowels Head
+variants:
+- sku: '6725'
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Bowels Head (6725)
+  modelSkus:
+  - '6725'
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 1110

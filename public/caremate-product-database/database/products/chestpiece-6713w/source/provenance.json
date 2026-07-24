@@ -1,0 +1,30 @@
+{
+  "document": "Catalogue of Caremate 506.pdf",
+  "pdfPage": 13,
+  "cataloguePages": [
+    32
+  ],
+  "textExtraction": "native PDF text with visual verification",
+  "notes": [],
+  "productId": "chestpiece-6713w",
+  "imageSources": [
+    {
+      "pdfPage": 13,
+      "ordinal": 17,
+      "xref": 248,
+      "sourcePixelDimensions": [
+        336,
+        418
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-13_img-17_xref-248.webp",
+      "productFile": "images/hero.webp",
+      "modelSkus": [
+        "6713W"
+      ]
+    }
+  ],
+  "sourceTextPolicy": "Catalogue wording is preserved, including verified source typos. Line-wrap artifacts were removed. No unsupported model-to-image relationship was invented.",
+  "pdfPages": [
+    13
+  ]
+}

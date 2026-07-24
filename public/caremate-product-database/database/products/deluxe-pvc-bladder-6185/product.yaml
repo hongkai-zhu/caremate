@@ -1,0 +1,25 @@
+schemaVersion: 1
+id: deluxe-pvc-bladder-6185
+slug: deluxe-pvc-bladder-6185
+status: draft
+reviewStatus: source-verified-no-description
+category: blood-pressure-accessories
+subcategory: bladders
+name:
+  en: Deluxe PVC Bladder
+variants:
+- sku: '6185'
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Deluxe PVC Bladder (6185)
+  modelSkus:
+  - '6185'
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 600

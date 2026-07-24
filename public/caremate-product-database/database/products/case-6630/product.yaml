@@ -1,0 +1,25 @@
+schemaVersion: 1
+id: case-6630
+slug: case-6630
+status: draft
+reviewStatus: source-verified
+category: blood-pressure-accessories
+subcategory: carrying-cases
+name:
+  en: Deluxe nylon carrying case with handle
+variants:
+- sku: '6630'
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Deluxe nylon carrying case with handle (6630)
+  modelSkus:
+  - '6630'
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 880

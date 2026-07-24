@@ -1,0 +1,31 @@
+schemaVersion: 1
+id: gauge-6011
+slug: gauge-6011
+status: draft
+reviewStatus: source-verified
+category: blood-pressure-accessories
+subcategory: gauges
+name:
+  en: Sphygmomanometer Gauge
+variants:
+- sku: '6011'
+description:
+  en: ''
+features:
+  en:
+  - 0-300mmHg
+  - NON STOP PIN.
+  - Zinc alloy case
+  - (120g)
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Sphygmomanometer Gauge (6011)
+  modelSkus:
+  - '6011'
+  sourceType: catalogue-extracted
+editorialNotes:
+- Generic display title inferred from the pictured product type; the catalogue prints only the model code
+  and specifications.
+sortOrder: 490

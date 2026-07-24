@@ -1,0 +1,158 @@
+{
+  "document": "Catalogue of Caremate 506.pdf",
+  "pdfPage": 11,
+  "cataloguePages": [
+    28
+  ],
+  "textExtraction": "300-dpi OCR with visual verification",
+  "notes": [
+    "Photo labels show 6153-6157 and 6163-6167. The prose size list names 6151, 6152, 6153, 6154, 6155, 6165, 6156, and 6157. No unsupported size mapping was added for 6163, 6164, 6166, or 6167."
+  ],
+  "productId": "latex-bladder-series",
+  "imageSources": [
+    {
+      "pdfPage": 11,
+      "ordinal": 8,
+      "xref": 192,
+      "sourcePixelDimensions": [
+        171,
+        168
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-11_img-08_xref-192.webp",
+      "productFile": "images/hero.webp",
+      "modelSkus": [
+        "6153"
+      ]
+    },
+    {
+      "pdfPage": 11,
+      "ordinal": 14,
+      "xref": 198,
+      "sourcePixelDimensions": [
+        240,
+        183
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-11_img-14_xref-198.webp",
+      "productFile": "images/gallery-02.webp",
+      "modelSkus": [
+        "6154"
+      ]
+    },
+    {
+      "pdfPage": 11,
+      "ordinal": 3,
+      "xref": 187,
+      "sourcePixelDimensions": [
+        242,
+        190
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-11_img-03_xref-187.webp",
+      "productFile": "images/gallery-03.webp",
+      "modelSkus": [
+        "6155"
+      ]
+    },
+    {
+      "pdfPage": 11,
+      "ordinal": 16,
+      "xref": 200,
+      "sourcePixelDimensions": [
+        286,
+        164
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-11_img-16_xref-200.webp",
+      "productFile": "images/gallery-04.webp",
+      "modelSkus": [
+        "6156"
+      ]
+    },
+    {
+      "pdfPage": 11,
+      "ordinal": 15,
+      "xref": 199,
+      "sourcePixelDimensions": [
+        305,
+        192
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-11_img-15_xref-199.webp",
+      "productFile": "images/gallery-05.webp",
+      "modelSkus": [
+        "6157"
+      ]
+    },
+    {
+      "pdfPage": 11,
+      "ordinal": 4,
+      "xref": 188,
+      "sourcePixelDimensions": [
+        204,
+        142
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-11_img-04_xref-188.webp",
+      "productFile": "images/gallery-06.webp",
+      "modelSkus": [
+        "6163"
+      ]
+    },
+    {
+      "pdfPage": 11,
+      "ordinal": 5,
+      "xref": 189,
+      "sourcePixelDimensions": [
+        240,
+        138
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-11_img-05_xref-189.webp",
+      "productFile": "images/gallery-07.webp",
+      "modelSkus": [
+        "6164"
+      ]
+    },
+    {
+      "pdfPage": 11,
+      "ordinal": 17,
+      "xref": 201,
+      "sourcePixelDimensions": [
+        172,
+        124
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-11_img-17_xref-201.webp",
+      "productFile": "images/gallery-08.webp",
+      "modelSkus": [
+        "6165"
+      ]
+    },
+    {
+      "pdfPage": 11,
+      "ordinal": 7,
+      "xref": 191,
+      "sourcePixelDimensions": [
+        307,
+        180
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-11_img-07_xref-191.webp",
+      "productFile": "images/gallery-09.webp",
+      "modelSkus": [
+        "6166"
+      ]
+    },
+    {
+      "pdfPage": 11,
+      "ordinal": 6,
+      "xref": 190,
+      "sourcePixelDimensions": [
+        338,
+        189
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-11_img-06_xref-190.webp",
+      "productFile": "images/gallery-10.webp",
+      "modelSkus": [
+        "6167"
+      ]
+    }
+  ],
+  "sourceTextPolicy": "Catalogue wording is preserved, including verified source typos. Line-wrap artifacts were removed. No unsupported model-to-image relationship was invented.",
+  "pdfPages": [
+    11
+  ]
+}

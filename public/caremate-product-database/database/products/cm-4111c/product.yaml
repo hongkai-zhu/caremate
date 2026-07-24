@@ -1,0 +1,29 @@
+schemaVersion: 1
+id: cm-4111c
+slug: cm-4111c
+status: draft
+reviewStatus: source-verified
+category: stethoscopes
+subcategory: general-stethoscopes
+name:
+  en: Colored Single Head Stethoscope
+variants:
+- sku: CM-4111C
+description:
+  en: ''
+features:
+  en:
+  - For adult, Attractive colored head with matching color PVC Y-tubing
+  - Color coordinated oxidized binaural
+  - 'Diameter of head: 46mm'
+  - Color coordinated eartips also available
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Colored Single Head Stethoscope (CM-4111C)
+  modelSkus:
+  - CM-4111C
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 220

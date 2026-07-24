@@ -1,0 +1,25 @@
+schemaVersion: 1
+id: chestpiece-6724
+slug: chestpiece-6724
+status: draft
+reviewStatus: source-verified
+category: stethoscope-accessories
+subcategory: chestpieces
+name:
+  en: Fetal Head
+variants:
+- sku: '6724'
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Fetal Head (6724)
+  modelSkus:
+  - '6724'
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 1100

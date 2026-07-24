@@ -1,0 +1,25 @@
+schemaVersion: 1
+id: bulb-6411
+slug: bulb-6411
+status: draft
+reviewStatus: source-verified
+category: blood-pressure-accessories
+subcategory: inflation-bulbs
+name:
+  en: PVC Ribbed Bulb with taper metal net end valve
+variants:
+- sku: '6411'
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: PVC Ribbed Bulb with taper metal net end valve (6411)
+  modelSkus:
+  - '6411'
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 700

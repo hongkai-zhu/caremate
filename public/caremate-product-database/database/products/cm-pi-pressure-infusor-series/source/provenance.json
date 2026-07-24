@@ -1,0 +1,43 @@
+{
+  "document": "Catalogue of Caremate 506.pdf",
+  "pdfPage": 14,
+  "cataloguePages": [
+    34
+  ],
+  "textExtraction": "native PDF text with visual verification",
+  "notes": [
+    "The hero is a family image; gallery-02 visibly carries a 1000 ml label and is mapped to CM-PI1000."
+  ],
+  "productId": "cm-pi-pressure-infusor-series",
+  "imageSources": [
+    {
+      "pdfPage": 14,
+      "ordinal": 2,
+      "xref": 290,
+      "sourcePixelDimensions": [
+        6000,
+        4000
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-14_img-02_xref-290.webp",
+      "productFile": "images/hero.webp"
+    },
+    {
+      "pdfPage": 14,
+      "ordinal": 7,
+      "xref": 776,
+      "sourcePixelDimensions": [
+        6000,
+        4000
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-14_img-07_xref-776.webp",
+      "productFile": "images/gallery-02.webp",
+      "modelSkus": [
+        "CM-PI1000"
+      ]
+    }
+  ],
+  "sourceTextPolicy": "Catalogue wording is preserved, including verified source typos. Line-wrap artifacts were removed. No unsupported model-to-image relationship was invented.",
+  "pdfPages": [
+    14
+  ]
+}

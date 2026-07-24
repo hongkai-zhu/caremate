@@ -1,0 +1,31 @@
+schemaVersion: 1
+id: cm-3212-50
+slug: cm-3212-50
+status: draft
+reviewStatus: source-verified
+category: blood-pressure-monitoring
+subcategory: emt-kits
+name:
+  en: EMT Kits
+variants:
+- sku: CM-3212-50
+description:
+  en: ''
+features:
+  en:
+  - EMT kits were designed with the EMT/Paramedic in mind. The easy access, fold-open carrying case is
+    made of heavy duty nylon for many years of rugged service. Features a chrome-plated, palm aneroid
+    sphygmomanometer, and comes complete with five (infant, child, adult, large adult and thigh) cuffs
+    & bladder. It is easy to change with male-female connector
+  - Includes single head stethoscope, neurological hammer, nurse utility scissors, disposable penlight,
+    tape measuring, and name tag.
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: EMT Kits (CM-3212-50)
+  modelSkus:
+  - CM-3212-50
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 180

@@ -1,0 +1,37 @@
+schemaVersion: 1
+id: cm-4136
+slug: cm-4136
+status: draft
+reviewStatus: source-verified
+category: stethoscopes
+subcategory: professional-stethoscopes
+name:
+  en: Stainless Steel Stethoscope for Adult
+variants:
+- sku: CM-4136
+description:
+  en: ''
+features:
+  en:
+  - For Adult, deluxe type
+  - With uniquely designed binaural thick wall Y-tubing assembly
+  - Special design of binaural for suiting the ear structure
+  - Features non-chill rim,and quality membrane
+  - 'Spare parts includes: 1 pair of comfortable firm eartips; 1 pair of soft screw-on eartips; 1 membrane'
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Stainless Steel Stethoscope for Adult (CM-4136)
+  modelSkus:
+  - CM-4136
+  sourceType: catalogue-extracted
+- role: packaging
+  file: images/gallery-02.webp
+  alt:
+    en: Stainless Steel Stethoscope for Adult (CM-4136)
+  modelSkus:
+  - CM-4136
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 440

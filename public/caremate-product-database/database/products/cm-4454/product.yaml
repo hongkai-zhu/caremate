@@ -1,0 +1,30 @@
+schemaVersion: 1
+id: cm-4454
+slug: cm-4454
+status: draft
+reviewStatus: source-verified
+category: stethoscopes
+subcategory: professional-stethoscopes
+name:
+  en: Master Cardiology Stethoscope
+variants:
+- sku: CM-4454
+description:
+  en: Known as the ultimate acoustical stethoscope, this masterpiece in one movement is designed to let
+    you hear both high and low frequency sounds from a single-sided chestpiece. Features a handcrafted,
+    solid polished zinc alloy chestpiece,"2-tubes-in-1 design",lightweigh headset,special procedures adapter
+    for difficult site and pediatric ausculatation,non-chill rim,double-leaf binural spring and soft-sealing
+    eartips.
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Master Cardiology Stethoscope (CM-4454)
+  modelSkus:
+  - CM-4454
+  sourceType: catalogue-extracted
+editorialNotes:
+- 'Catalogue spellings retained: lightweigh, ausculatation, binural.'
+sortOrder: 370

@@ -1,0 +1,30 @@
+schemaVersion: 1
+id: gauge-6014
+slug: gauge-6014
+status: draft
+reviewStatus: source-verified
+category: blood-pressure-accessories
+subcategory: gauges
+name:
+  en: Sphygmomanometer Gauge
+variants:
+- sku: '6014'
+description:
+  en: ''
+features:
+  en:
+  - 0-300mmHg
+  - NON STOP PIN.
+  - Zinc Case with Rubber Protective Ring
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Sphygmomanometer Gauge (6014)
+  modelSkus:
+  - '6014'
+  sourceType: catalogue-extracted
+editorialNotes:
+- Generic display title inferred from the pictured product type; the catalogue prints only the model code
+  and specifications.
+sortOrder: 520

@@ -1,0 +1,90 @@
+{
+  "document": "Catalogue of Caremate 506.pdf",
+  "pdfPage": 9,
+  "cataloguePages": [
+    24,
+    25
+  ],
+  "textExtraction": "300-dpi OCR with visual verification",
+  "notes": [
+    "The catalogue prints model labels and photos but no descriptions."
+  ],
+  "productId": "cm-4411-series",
+  "imageSources": [
+    {
+      "pdfPage": 9,
+      "ordinal": 2,
+      "xref": 164,
+      "sourcePixelDimensions": [
+        473,
+        368
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-09_img-02_xref-164.webp",
+      "productFile": "images/hero.webp",
+      "modelSkus": [
+        "CM-4411A"
+      ]
+    },
+    {
+      "pdfPage": 9,
+      "ordinal": 1,
+      "xref": 163,
+      "sourcePixelDimensions": [
+        638,
+        588
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-09_img-01_xref-163.webp",
+      "productFile": "images/gallery-02.webp",
+      "modelSkus": [
+        "CM-4411B"
+      ]
+    },
+    {
+      "pdfPage": 10,
+      "ordinal": 2,
+      "xref": 176,
+      "sourcePixelDimensions": [
+        661,
+        495
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-10_img-02_xref-176.webp",
+      "productFile": "images/gallery-03.webp",
+      "modelSkus": [
+        "CM-4411C"
+      ]
+    },
+    {
+      "pdfPage": 10,
+      "ordinal": 3,
+      "xref": 177,
+      "sourcePixelDimensions": [
+        661,
+        634
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-10_img-03_xref-177.webp",
+      "productFile": "images/gallery-04.webp",
+      "modelSkus": [
+        "CM-4411D"
+      ]
+    },
+    {
+      "pdfPage": 10,
+      "ordinal": 1,
+      "xref": 175,
+      "sourcePixelDimensions": [
+        661,
+        458
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-10_img-01_xref-175.webp",
+      "productFile": "images/gallery-05.webp",
+      "modelSkus": [
+        "CM-4411E"
+      ]
+    }
+  ],
+  "sourceTextPolicy": "Catalogue wording is preserved, including verified source typos. Line-wrap artifacts were removed. No unsupported model-to-image relationship was invented.",
+  "pdfPages": [
+    9,
+    10
+  ]
+}

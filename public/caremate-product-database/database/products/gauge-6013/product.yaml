@@ -1,0 +1,32 @@
+schemaVersion: 1
+id: gauge-6013
+slug: gauge-6013
+status: draft
+reviewStatus: source-verified
+category: blood-pressure-accessories
+subcategory: gauges
+name:
+  en: Sphygmomanometer Gauge
+variants:
+- sku: '6013'
+description:
+  en: ''
+features:
+  en:
+  - 0-300mmHg
+  - NON STOP PIN.
+  - Grained finished.
+  - Zinc alloy case
+  - (120g)
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Sphygmomanometer Gauge (6013)
+  modelSkus:
+  - '6013'
+  sourceType: catalogue-extracted
+editorialNotes:
+- Generic display title inferred from the pictured product type; the catalogue prints only the model code
+  and specifications.
+sortOrder: 510

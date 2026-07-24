@@ -1,0 +1,28 @@
+schemaVersion: 1
+id: cm-3214-5
+slug: cm-3214-5
+status: draft
+reviewStatus: source-verified
+category: blood-pressure-monitoring
+subcategory: emt-kits
+name:
+  en: EMT Kits - System 5
+variants:
+- sku: CM-3214-5
+description:
+  en: EMT kits were designed with the EMT/Paramedic in mind. The easy access, fold-open carrying case
+    is made of heavy duty nylon for many years of rugged service. Features a chrome-plated, palm aneroid
+    sphygmomanometer, and comes complete with adult, infant, child, large adult, and thigh cuffs & bladder.
+    It is easy to change with male-female connector.
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: EMT Kits - System 5 (CM-3214-5)
+  modelSkus:
+  - CM-3214-5
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 160

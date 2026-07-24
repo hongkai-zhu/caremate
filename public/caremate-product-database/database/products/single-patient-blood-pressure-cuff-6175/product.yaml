@@ -1,0 +1,25 @@
+schemaVersion: 1
+id: single-patient-blood-pressure-cuff-6175
+slug: single-patient-blood-pressure-cuff-6175
+status: draft
+reviewStatus: source-verified
+category: blood-pressure-accessories
+subcategory: blood-pressure-cuffs
+name:
+  en: Single-Patient Use Blood Pressure Cuff
+variants:
+- sku: '6175'
+description:
+  en: NOTE:Any customer's requirement on cuff size, type(1-tube or 2-tubes) available
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Single-Patient Use Blood Pressure Cuff (6175)
+  modelSkus:
+  - '6175'
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 610

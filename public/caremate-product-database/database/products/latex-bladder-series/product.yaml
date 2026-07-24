@@ -1,0 +1,145 @@
+schemaVersion: 1
+id: latex-bladder-series
+slug: latex-bladder-series
+status: draft
+reviewStatus: needs-review-source-inconsistency
+category: blood-pressure-accessories
+subcategory: bladders
+name:
+  en: Latex Bladder
+variants:
+- sku: '6151'
+  label:
+    en: Below 1 year old
+  specifications:
+    en:
+    - 90 x 25mm
+    - newborn
+- sku: '6152'
+  label:
+    en: 1-4 years old
+  specifications:
+    en:
+    - 150 x 30mm
+    - infant
+- sku: '6153'
+  label:
+    en: 5-9 years old
+  specifications:
+    en:
+    - 190 x 50mm
+    - small adult
+- sku: '6154'
+  label:
+    en: 10-16 years old
+  specifications:
+    en:
+    - 210 x 85mm
+    - child
+- sku: '6155'
+  label:
+    en: Adult
+  specifications:
+    en:
+    - 220 x 120mm
+    - 1-tube
+- sku: '6165'
+  label:
+    en: Adult
+  specifications:
+    en:
+    - 220 x 120mm
+    - 2-tubes
+- sku: '6156'
+  label:
+    en: Large adult
+  specifications:
+    en:
+    - 325 x 150mm
+- sku: '6157'
+  label:
+    en: Thigh
+  specifications:
+    en:
+    - 350 x 175mm
+- sku: '6163'
+- sku: '6164'
+- sku: '6166'
+- sku: '6167'
+description:
+  en: NOTE:Any customer's requirement on Bladders size, type(1-tube or 2-tubes)available
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Latex Bladder (6153)
+  modelSkus:
+  - '6153'
+  sourceType: catalogue-extracted
+- role: gallery
+  file: images/gallery-02.webp
+  alt:
+    en: Latex Bladder (6154)
+  modelSkus:
+  - '6154'
+  sourceType: catalogue-extracted
+- role: gallery
+  file: images/gallery-03.webp
+  alt:
+    en: Latex Bladder (6155)
+  modelSkus:
+  - '6155'
+  sourceType: catalogue-extracted
+- role: gallery
+  file: images/gallery-04.webp
+  alt:
+    en: Latex Bladder (6156)
+  modelSkus:
+  - '6156'
+  sourceType: catalogue-extracted
+- role: gallery
+  file: images/gallery-05.webp
+  alt:
+    en: Latex Bladder (6157)
+  modelSkus:
+  - '6157'
+  sourceType: catalogue-extracted
+- role: gallery
+  file: images/gallery-06.webp
+  alt:
+    en: Latex Bladder (6163)
+  modelSkus:
+  - '6163'
+  sourceType: catalogue-extracted
+- role: gallery
+  file: images/gallery-07.webp
+  alt:
+    en: Latex Bladder (6164)
+  modelSkus:
+  - '6164'
+  sourceType: catalogue-extracted
+- role: gallery
+  file: images/gallery-08.webp
+  alt:
+    en: Latex Bladder (6165)
+  modelSkus:
+  - '6165'
+  sourceType: catalogue-extracted
+- role: gallery
+  file: images/gallery-09.webp
+  alt:
+    en: Latex Bladder (6166)
+  modelSkus:
+  - '6166'
+  sourceType: catalogue-extracted
+- role: gallery
+  file: images/gallery-10.webp
+  alt:
+    en: Latex Bladder (6167)
+  modelSkus:
+  - '6167'
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 630

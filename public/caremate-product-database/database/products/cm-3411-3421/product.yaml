@@ -1,0 +1,38 @@
+schemaVersion: 1
+id: cm-3411-3421
+slug: cm-3411-3421
+status: draft
+reviewStatus: source-verified
+category: blood-pressure-monitoring
+subcategory: palm-sphygmomanometers
+name:
+  en: Palm Sphygmomanometer
+variants:
+- sku: CM-3411
+  label:
+    en: with 1 tube
+- sku: CM-3421
+  label:
+    en: with 2 tubes
+description:
+  en: ''
+features:
+  en:
+  - Palm aneroid sphygmomanometer
+  - Chrome plated plastic case
+  - 65mm diameter dial manometer with scale up to 300mmHg with NON STOP PIN
+  - Stainless steel large handle
+  - Adult cotton cuff
+  - Standard latex inflation system
+  - Standard model in vinyl zipper case
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Palm Sphygmomanometer (CM-3411, CM-3421)
+  modelSkus:
+  - CM-3411
+  - CM-3421
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 110

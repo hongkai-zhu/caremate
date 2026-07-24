@@ -1,0 +1,29 @@
+schemaVersion: 1
+id: cm-4112
+slug: cm-4112
+status: draft
+reviewStatus: source-verified
+category: stethoscopes
+subcategory: deluxe-stethoscopes
+name:
+  en: Deluxe Single Head Stethoscope
+variants:
+- sku: CM-4112
+description:
+  en: ''
+features:
+  en:
+  - Die-Cast aluminum alloy chestpiece and chrome-plated brass binaural make the stethoscope functionally
+    sensitive and uniquely attractive,also offers a color coordinated snap-on membrane retaining rim
+  - Non-chill rim
+  - Color coordinated eartip also available
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Deluxe Single Head Stethoscope (CM-4112)
+  modelSkus:
+  - CM-4112
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 240

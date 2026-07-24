@@ -4,10 +4,10 @@ import { ArrowRight } from "lucide-react"
 
 const productCategories = [
   { name: "All Products", href: "/products" },
-  { name: "Stethoscopes", href: "/products#stethoscopes" },
-  { name: "Blood Pressure Monitors", href: "/products#blood-pressure" },
-  { name: "Pressure Infusor Bags", href: "/products#pressure-infusor-bags" },
-  { name: "DVT Sleeves", href: "/products#dvt-sleeves" },
+  { name: "Stethoscopes", href: "/products/stethoscopes" },
+  { name: "Blood Pressure Monitors", href: "/products/blood-pressure-monitoring" },
+  { name: "Pressure Infusor Bags", href: "/products/patient-care/pressure-infusors" },
+  { name: "DVT Sleeves", href: "/products/compression-therapy/dvt-compression-sleeves" },
 ]
 
 const featuredProducts = [
@@ -15,28 +15,28 @@ const featuredProducts = [
     title: "Aneroid Sphygmomanometers",
     description: "Our Aneroid Sphygmomanometers (mechanical blood pressure monitors) bring hospital-grade accuracy directly to your home. Featuring advanced measurement technology and thoughtful designs, Caremate monitors deliver fast, reliable, and stress-free readings.",
     image: "/images/blood-pressure-monitor.jpg",
-    href: "/products#blood-pressure",
+    href: "/products/blood-pressure-monitoring/aneroid-sphygmomanometers",
     reverse: false,
   },
   {
     title: "Stethoscopes",
     description: "Caremate stethoscopes are known globally for their unrivaled acoustics, rugged durability, and superb value. Our Cardiology Series are the best of the best. Learn what makes these instruments so special.",
     image: "/images/stethoscope.jpg",
-    href: "/products#stethoscopes",
+    href: "/products/stethoscopes",
     reverse: true,
   },
   {
     title: "Pressure Infusor Bags",
     description: "Our pressure infusor bags are designed for fast, controlled fluid delivery in emergency, surgical, and critical care settings. Built with durable materials and an easy-to-read pressure gauge, they provide reliable performance for a wide range of clinical applications.",
     image: "/images/pressure-infusor-bag.jpg",
-    href: "/products#pressure-infusor-bags",
+    href: "/products/patient-care/pressure-infusors/cm-pi-pressure-infusor-series",
     reverse: false,
   },
   {
     title: "DVT Prevention Sleeves",
     description: "Our DVT compression sleeves feature a sleek, finished look with an extended design for optimal coverage. Function meets premium form, now available for all clinical applications.",
     image: "/images/dvt-sleeve.jpg",
-    href: "/products#dvt-sleeves",
+    href: "/products/compression-therapy/dvt-compression-sleeves/cm-dvt-series",
     reverse: true,
   },
 ]
@@ -79,7 +79,7 @@ export default function HomePage() {
         <div className="bg-primary py-6 px-4">
           <div className="max-w-7xl mx-auto">
             <h1 className="text-2xl md:text-3xl lg:text-4xl font-light text-primary-foreground italic">
-              Extraordinary Tools for Exceptional Care<sup className="text-sm">™</sup>
+              Extraordinary Tools for Exceptional Care
             </h1>
           </div>
         </div>

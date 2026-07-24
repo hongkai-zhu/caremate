@@ -1,0 +1,29 @@
+schemaVersion: 1
+id: cm-4256
+slug: cm-4256
+status: draft
+reviewStatus: source-verified
+category: stethoscopes
+subcategory: sprague-rappaport-stethoscopes
+name:
+  en: Single Sprague Stethoscope
+variants:
+- sku: CM-4256
+description:
+  en: ''
+features:
+  en:
+  - Internal spring binaural
+  - Zinc Alloy Sprague Rappaport chestpiece with one copper stem
+  - Includes five-in-one accessory kit
+  - Two extra pair of soft eartips
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Single Sprague Stethoscope (CM-4256)
+  modelSkus:
+  - CM-4256
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 320

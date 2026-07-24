@@ -1,0 +1,26 @@
+schemaVersion: 1
+id: cm-4433
+slug: cm-4433
+status: draft
+reviewStatus: source-verified
+category: stethoscopes
+subcategory: specialty-stethoscopes
+name:
+  en: Cardio Mate 3-in-1 Scope Set
+variants:
+- sku: CM-4433
+description:
+  en: Features one classic adult stethoscope with spare chestpiece for pediatric and infant included which
+    can be connected through a connector.
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Cardio Mate 3-in-1 Scope Set (CM-4433)
+  modelSkus:
+  - CM-4433
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 390

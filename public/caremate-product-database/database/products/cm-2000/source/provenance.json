@@ -1,0 +1,31 @@
+{
+  "document": "Catalogue of Caremate 506.pdf",
+  "pdfPage": 2,
+  "cataloguePages": [
+    4
+  ],
+  "textExtraction": "native PDF text with visual verification",
+  "notes": [],
+  "productId": "cm-2000",
+  "imageSources": [
+    {
+      "pdfPage": 2,
+      "ordinal": 4,
+      "xref": 26,
+      "sourcePixelDimensions": [
+        3591,
+        3643
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-02_img-04_xref-26.webp",
+      "productFile": "images/hero.webp",
+      "modelSkus": [
+        "CM-2000"
+      ],
+      "curation": "The embedded PDF image contained opaque clipping-mask artifacts that obscured product content. This website image was therefore recovered from a visually verified 300-dpi catalogue-page render crop."
+    }
+  ],
+  "sourceTextPolicy": "Catalogue wording is preserved, including verified source typos. Line-wrap artifacts were removed. No unsupported model-to-image relationship was invented.",
+  "pdfPages": [
+    2
+  ]
+}

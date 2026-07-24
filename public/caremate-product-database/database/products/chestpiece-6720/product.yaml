@@ -1,0 +1,25 @@
+schemaVersion: 1
+id: chestpiece-6720
+slug: chestpiece-6720
+status: draft
+reviewStatus: source-verified
+category: stethoscope-accessories
+subcategory: chestpieces
+name:
+  en: Stainless Steel head for Adult
+variants:
+- sku: '6720'
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Stainless Steel head for Adult (6720)
+  modelSkus:
+  - '6720'
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 1060

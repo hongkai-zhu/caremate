@@ -1,0 +1,40 @@
+{
+  "document": "Catalogue of Caremate 506.pdf",
+  "pdfPage": 12,
+  "cataloguePages": [
+    29
+  ],
+  "textExtraction": "300-dpi OCR with visual verification",
+  "notes": [
+    "Catalogue photos are family examples and are not dependably mapped one-to-one to every SKU."
+  ],
+  "productId": "nylon-calibrated-cuff-series",
+  "imageSources": [
+    {
+      "pdfPage": 12,
+      "ordinal": 1,
+      "xref": 204,
+      "sourcePixelDimensions": [
+        576,
+        453
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-12_img-01_xref-204.webp",
+      "productFile": "images/hero.webp"
+    },
+    {
+      "pdfPage": 12,
+      "ordinal": 6,
+      "xref": 209,
+      "sourcePixelDimensions": [
+        207,
+        138
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-12_img-06_xref-209.webp",
+      "productFile": "images/gallery-02.webp"
+    }
+  ],
+  "sourceTextPolicy": "Catalogue wording is preserved, including verified source typos. Line-wrap artifacts were removed. No unsupported model-to-image relationship was invented.",
+  "pdfPages": [
+    12
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document": "Catalogue of Caremate 506.pdf",
+  "pdfPage": 5,
+  "cataloguePages": [
+    16
+  ],
+  "textExtraction": "native PDF text with visual verification",
+  "notes": [],
+  "productId": "cm-4125",
+  "imageSources": [
+    {
+      "pdfPage": 5,
+      "ordinal": 7,
+      "xref": 130,
+      "sourcePixelDimensions": [
+        1247,
+        1389
+      ],
+      "sourceNormalizedFile": "database/sources/catalogue-caremate-506/raw-images/pdf-page-05_img-07_xref-130.webp",
+      "productFile": "images/hero.webp",
+      "modelSkus": [
+        "CM-4125"
+      ]
+    }
+  ],
+  "sourceTextPolicy": "Catalogue wording is preserved, including verified source typos. Line-wrap artifacts were removed. No unsupported model-to-image relationship was invented.",
+  "pdfPages": [
+    5
+  ]
+}

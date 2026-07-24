@@ -1,0 +1,29 @@
+schemaVersion: 1
+id: cm-4253
+slug: cm-4253
+status: draft
+reviewStatus: source-verified
+category: stethoscopes
+subcategory: professional-stethoscopes
+name:
+  en: Master-Lite Stethoscope
+variants:
+- sku: CM-4253
+description:
+  en: ''
+features:
+  en:
+  - Zinc alloy chestpiece with powder-coating finish
+  - Comes with inner-spring binaural tubing
+  - Special design for get better effect through press the back of head
+  - Special design of binaural for suiting the ear structure
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Master-Lite Stethoscope (CM-4253)
+  modelSkus:
+  - CM-4253
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 360

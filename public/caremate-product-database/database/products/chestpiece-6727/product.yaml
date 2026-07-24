@@ -1,0 +1,25 @@
+schemaVersion: 1
+id: chestpiece-6727
+slug: chestpiece-6727
+status: draft
+reviewStatus: source-verified
+category: stethoscope-accessories
+subcategory: chestpieces
+name:
+  en: Single sprague
+variants:
+- sku: '6727'
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Single sprague (6727)
+  modelSkus:
+  - '6727'
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 1130

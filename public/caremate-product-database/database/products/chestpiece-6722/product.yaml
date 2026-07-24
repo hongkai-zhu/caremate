@@ -1,0 +1,25 @@
+schemaVersion: 1
+id: chestpiece-6722
+slug: chestpiece-6722
+status: draft
+reviewStatus: source-verified
+category: stethoscope-accessories
+subcategory: chestpieces
+name:
+  en: Polished Zinc alloy Single Head
+variants:
+- sku: '6722'
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Polished Zinc alloy Single Head (6722)
+  modelSkus:
+  - '6722'
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 1080

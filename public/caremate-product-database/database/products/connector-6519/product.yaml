@@ -1,0 +1,32 @@
+schemaVersion: 1
+id: connector-6519
+slug: connector-6519
+status: draft
+reviewStatus: source-verified
+category: blood-pressure-accessories
+subcategory: connectors
+name:
+  en: Copper Male-Female Connector
+variants:
+- sku: '6519'
+description:
+  en: ''
+features:
+  en: []
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Copper Male-Female Connector (6519)
+  modelSkus:
+  - '6519'
+  sourceType: catalogue-extracted
+- role: detail
+  file: images/gallery-02.webp
+  alt:
+    en: Copper Male-Female Connector (6519)
+  modelSkus:
+  - '6519'
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 820

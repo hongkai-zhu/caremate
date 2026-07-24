@@ -1,0 +1,29 @@
+schemaVersion: 1
+id: cm-4168
+slug: cm-4168
+status: draft
+reviewStatus: source-verified
+category: stethoscopes
+subcategory: sprague-rappaport-stethoscopes
+name:
+  en: Clock Sprague Stethoscope
+variants:
+- sku: CM-4168
+description:
+  en: ''
+features:
+  en:
+  - A new stethoscope features a chestpiece with a clock
+  - Chrome-plated binaural and 22" tubes
+  - Two extra pair of soft eartips
+  - Various colors tube available
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Clock Sprague Stethoscope (CM-4168)
+  modelSkus:
+  - CM-4168
+  sourceType: catalogue-extracted
+editorialNotes: []
+sortOrder: 280

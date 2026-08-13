@@ -1,6 +1,7 @@
 import Image from "next/image"
 import Link from "next/link"
 import { ArrowRight } from "lucide-react"
+import { CertificationsSection } from "@/components/certifications-section"
 
 const productCategories = [
   { name: "All Products", href: "/products" },
@@ -295,6 +296,9 @@ export default function HomePage() {
           </div>
         </div>
       </section>
+
+      {/* Certifications Section */}
+      <CertificationsSection />
 
       {/* About Banner */}
       <section className="py-12 md:py-16 bg-background">

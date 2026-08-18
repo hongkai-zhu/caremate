@@ -79,7 +79,7 @@ export function Footer() {
               <Link href="http://www.facebook.com/carematemed" className="w-8 h-8 rounded-full bg-primary flex items-center justify-center hover:bg-primary/90 transition-colors">
                 <Facebook className="w-4 h-4 text-primary-foreground" />
               </Link>
-              <Link href="#" className="w-8 h-8 rounded-full bg-primary flex items-center justify-center hover:bg-primary/90 transition-colors">
+              <Link href="https://www.linkedin.com/company/caremate-medical/" className="w-8 h-8 rounded-full bg-primary flex items-center justify-center hover:bg-primary/90 transition-colors">
                 <Linkedin className="w-4 h-4 text-primary-foreground" />
               </Link>
               <Link href="https://www.instagram.com/carematemedical/" className="w-8 h-8 rounded-full bg-primary flex items-center justify-center hover:bg-primary/90 transition-colors">

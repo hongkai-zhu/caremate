@@ -1,53 +1,76 @@
 {
   "schemaVersion": 1,
   "metadata": {
-    "sourceDocument": "Catalogue of Caremate 506.pdf",
-    "pdfPageCount": 14,
-    "cataloguePagesPresent": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      9,
-      10,
-      15,
-      16,
-      17,
-      18,
-      19,
-      20,
-      21,
-      22,
-      23,
-      24,
-      25,
-      26,
-      27,
-      28,
-      29,
-      30,
-      31,
-      32,
-      33,
-      34
+    "sources": [
+      {
+        "id": "catalogue-caremate-506",
+        "sourceDocument": "Catalogue of Caremate 506.pdf",
+        "pdfPageCount": 14,
+        "cataloguePagesPresent": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          9,
+          10,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34
+        ],
+        "cataloguePagesMissingFromSourcePdf": [
+          7,
+          8,
+          11,
+          12,
+          13,
+          14
+        ],
+        "productRecordCount": 116,
+        "candidateSourceImageCount": 149,
+        "excludedImageCount": 11,
+        "completenessNote": "Complete for every product-bearing page contained in the supplied PDF. Printed catalogue pages 7-8 and 11-14 are absent from the supplied file.",
+        "sourcePdfSha256": "c4dad1542c7acef719e608c79d748f1d67d0b9c662ccfd223dc6c975e7db7162",
+        "sourcePdfSizeBytes": 30517320
+      },
+      {
+        "id": "new-catalogue",
+        "sourceDocument": "new-catalogue.pdf",
+        "pdfPageCount": 13,
+        "importedPdfPages": [
+          11,
+          12,
+          13
+        ],
+        "cataloguePagesPresent": [],
+        "productRecordCount": 5,
+        "candidateSourceImageCount": 7,
+        "completenessNote": "Supplemental import of the five requested product families on PDF pages 11-13 only. Earlier pages and background graphics are outside this import; printed page numbers are absent on these three spreads.",
+        "sourcePdfSha256": "c1c9ba3f930a0179b91f633c783a81131f431383b444057aca38412cac628e39",
+        "sourcePdfSizeBytes": 25227596
+      }
     ],
-    "cataloguePagesMissingFromSourcePdf": [
-      7,
-      8,
-      11,
-      12,
-      13,
-      14
-    ],
-    "productRecordCount": 116,
-    "candidateSourceImageCount": 149,
-    "excludedImageCount": 11,
-    "completenessNote": "Complete for every product-bearing page contained in the supplied PDF. Printed catalogue pages 7-8 and 11-14 are absent from the supplied file.",
-    "sourcePdfSha256": "c4dad1542c7acef719e608c79d748f1d67d0b9c662ccfd223dc6c975e7db7162",
-    "sourcePdfSizeBytes": 30517320,
-    "skuCount": 175,
+    "candidateSourceImageCount": 156,
+    "productRecordCount": 121,
+    "skuCount": 184,
     "sourceOfTruth": "database/products/*/product.yaml",
     "assetBase": "database/"
   },
@@ -6062,6 +6085,265 @@
       ],
       "editorialNotes": [],
       "sortOrder": 1160
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-gb-series",
+      "slug": "cm-gb-series",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "patient-care",
+      "subcategory": "patient-transfer",
+      "name": {
+        "en": "Gait Belt"
+      },
+      "variants": [
+        {
+          "sku": "CM-GB60”"
+        },
+        {
+          "sku": "CM-GB72”"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": [
+          "Soft breathable cotton-polyester blend",
+          "Nickel-plated quick-release buckle, tensile strength ≥1500N for high safety",
+          "Reinforced bar-tack stitching on stress points for extra load capacity",
+          "Folded stitched edge to prevent fraying",
+          "3 color choices & 2 sizes with woven labels"
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-gb-series/images/hero.webp",
+          "alt": {
+            "en": "Gait Belt"
+          },
+          "sourceType": "catalogue-extracted",
+          "modelSkus": [
+            "CM-GB60”"
+          ],
+          "contentHash": "36486bf0b4d31c2044b0005c4a08c701407e597457f8da14efb13c9dcd36d4dd"
+        }
+      ],
+      "editorialNotes": [
+        "The catalogue uses a closing double quotation mark in the gait belt model names. Both photographed belts are labelled 60 inches; the image is linked only to CM-GB60”."
+      ],
+      "sortOrder": 1170
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-fw-series",
+      "slug": "cm-fw-series",
+      "status": "draft",
+      "reviewStatus": "source-verified-shared-images",
+      "category": "patient-care",
+      "subcategory": "pressure-relief",
+      "name": {
+        "en": "Foam Positioning Wedge"
+      },
+      "variants": [
+        {
+          "sku": "CM-FW23"
+        },
+        {
+          "sku": "CM-FW24"
+        }
+      ],
+      "description": {
+        "en": ""
+      },
+      "features": {
+        "en": [
+          "Two firmness options: Soft & Firm",
+          "High-density PU foam core for stable support; PVC synthetic leather + pongee backing, fluid-resistant, easy-clean & non-slip",
+          "Angled support maintains proper patient alignment",
+          "Textured non-slip base prevents shifting",
+          "Rounded edges reduce pressure points for greater comfort",
+          "Lightweight, easy to handle and long service life",
+          "Vacuum sealed packaging, ≥7-day seal integrity; fully expands within 1 min, space-saving & hygienic, single-patient use"
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-fw-series/images/hero.webp",
+          "alt": {
+            "en": "Foam Positioning Wedge"
+          },
+          "sourceType": "catalogue-extracted",
+          "contentHash": "49d62b4011fdd0dab8dfe76f075e22100a2ae093b9ff985e16fd9bff15dd03eb"
+        }
+      ],
+      "editorialNotes": [
+        "The catalogue lists Soft and Firm options without explicitly mapping firmness or each photographed wedge to a SKU."
+      ],
+      "sortOrder": 1180
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-hp1511",
+      "slug": "cm-hp1511",
+      "status": "draft",
+      "reviewStatus": "source-verified",
+      "category": "patient-care",
+      "subcategory": "pressure-relief",
+      "name": {
+        "en": "Heel Protector"
+      },
+      "variants": [
+        {
+          "sku": "CM-HP1511"
+        }
+      ],
+      "description": {
+        "en": "Pressure Injury Prevention"
+      },
+      "features": {
+        "en": [
+          "One size fits most",
+          "Polyfoam cushioning evenly distributes heel pressure to prevent pressure injury",
+          "Adjustable velcro closure, secure & easy fitting",
+          "Bilateral DVT openings, compatible with compression pump sleeves",
+          "Brushed soft interior, skin-friendly and moisture-wicking",
+          "Latex-free material, safe for sensitive patients",
+          "Fully expands within 1 minute after unpacking"
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-hp1511/images/hero.webp",
+          "alt": {
+            "en": "Heel Protector"
+          },
+          "sourceType": "catalogue-extracted",
+          "modelSkus": [
+            "CM-HP1511"
+          ],
+          "contentHash": "b442a4d569879f60827a607ca5f27534f4bad547d819fc2af3a0fa49ca1888dd"
+        }
+      ],
+      "editorialNotes": [],
+      "sortOrder": 1190
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-as-series",
+      "slug": "cm-as-series",
+      "status": "draft",
+      "reviewStatus": "source-verified-shared-images",
+      "category": "patient-care",
+      "subcategory": "patient-transfer",
+      "name": {
+        "en": "Air Sheet for Patient Transfer"
+      },
+      "variants": [
+        {
+          "sku": "CM-AS7232"
+        },
+        {
+          "sku": "CM-AS7840"
+        }
+      ],
+      "description": {
+        "en": "Air Transfer Mattress / Patient Transfer Air Mat"
+      },
+      "features": {
+        "en": [
+          "Air cushion technology: perforated bottom releases air to form air film, reduces friction for smooth & safe patient transfer",
+          "Lower risk of caregiver injury: less pulling/lifting, improves safety & efficiency for lateral transfer",
+          "High weight capacity: standard up to 500 lbs (227 kg); bariatric version up to 1000 lbs (454 kg)",
+          "Reinforced grab handles: 8–12 heavy-duty perimeter handles for secure multi-person transfer",
+          "Universal pump compatibility: works with standard medical air pumps or portable blowers (pump not included)",
+          "Easy to clean & maintain: wipeable with hospital-grade disinfectant for infection control"
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-as-series/images/hero.webp",
+          "alt": {
+            "en": "Air Sheet for Patient Transfer"
+          },
+          "sourceType": "catalogue-extracted",
+          "contentHash": "3865b1a50adea50e829cbaa5a833867b9322f8c992c06388b5f4ce71493149cb"
+        },
+        {
+          "role": "detail",
+          "file": "products/cm-as-series/images/gallery-02.webp",
+          "alt": {
+            "en": "Air Sheet for Patient Transfer - standard and bariatric size and weight capacity diagram"
+          },
+          "sourceType": "catalogue-extracted",
+          "contentHash": "9540e52c90fc9cbd12eb7a4a020319b21827ee4bf8b593f6074111beaba585b4"
+        }
+      ],
+      "editorialNotes": [
+        "The size diagram shows Standard: 72 x 32 inches (183 x 81 cm), up to 500 lbs (227 kg); Bariatric: 78 x 40 inches (198 x 102 cm), up to 1,000 lbs (454 kg). It does not explicitly label these illustrations with model SKUs, so model-specific specifications and image mappings are not inferred."
+      ],
+      "sortOrder": 1200
+    },
+    {
+      "schemaVersion": 1,
+      "id": "cm-m-series",
+      "slug": "cm-m-series",
+      "status": "draft",
+      "reviewStatus": "source-verified-shared-images",
+      "category": "patient-care",
+      "subcategory": "pressure-relief",
+      "name": {
+        "en": "Foam Mattress"
+      },
+      "variants": [
+        {
+          "sku": "CM-M280"
+        },
+        {
+          "sku": "CM-M080"
+        }
+      ],
+      "description": {
+        "en": "For Patient Care. Pressure Relief • Comfort • Hygiene • Durable."
+      },
+      "features": {
+        "en": [
+          "PRESSURE RELIEF Foam structure helps distribute body pressure evenly to prevent pressure ulcers.",
+          "SAFE & RELIABLE Fire-retardant inner layer and hospital-grade materials ensure safety and compliance.",
+          "WATERPROOF & EASY TO CLEAN Waterproof cover resists fluids and stains. Wipe clean for better infection control.",
+          "DURABLE & SECURE Heavy-duty zipper and strong stitching enhance durability and service life.",
+          "SPACE-SAVING PACKAGING Compressed & rolled packaging reduces storage and transportation cost."
+        ]
+      },
+      "images": [
+        {
+          "role": "hero",
+          "file": "products/cm-m-series/images/hero.webp",
+          "alt": {
+            "en": "Foam Mattress"
+          },
+          "sourceType": "catalogue-extracted",
+          "contentHash": "62343699cf90e0053975aee620081e7efe7547e937101bfcc779fcde575ad374"
+        },
+        {
+          "role": "detail",
+          "file": "products/cm-m-series/images/gallery-02.webp",
+          "alt": {
+            "en": "Foam Mattress - foam core cutaway"
+          },
+          "sourceType": "catalogue-extracted",
+          "contentHash": "c1a069b04333f1aa9808f4e4baf659acf2acaedb7623454c66e58ac5336d562c"
+        }
+      ],
+      "editorialNotes": [
+        "The catalogue does not explicitly associate the mattress photograph or foam cutaway with an individual model."
+      ],
+      "sortOrder": 1210
     }
   ]
 }

@@ -1,0 +1,37 @@
+schemaVersion: 1
+id: cm-m-series
+slug: cm-m-series
+status: draft
+reviewStatus: source-verified-shared-images
+category: patient-care
+subcategory: pressure-relief
+name:
+  en: Foam Mattress
+variants:
+- sku: CM-M280
+- sku: CM-M080
+description:
+  en: For Patient Care. Pressure Relief • Comfort • Hygiene • Durable.
+features:
+  en:
+  - PRESSURE RELIEF Foam structure helps distribute body pressure evenly to prevent pressure ulcers.
+  - SAFE & RELIABLE Fire-retardant inner layer and hospital-grade materials ensure safety and compliance.
+  - WATERPROOF & EASY TO CLEAN Waterproof cover resists fluids and stains. Wipe clean for better infection
+    control.
+  - DURABLE & SECURE Heavy-duty zipper and strong stitching enhance durability and service life.
+  - SPACE-SAVING PACKAGING Compressed & rolled packaging reduces storage and transportation cost.
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Foam Mattress
+  sourceType: catalogue-extracted
+- role: detail
+  file: images/gallery-02.webp
+  alt:
+    en: Foam Mattress - foam core cutaway
+  sourceType: catalogue-extracted
+editorialNotes:
+- The catalogue does not explicitly associate the mattress photograph or foam cutaway with an individual
+  model.
+sortOrder: 1210

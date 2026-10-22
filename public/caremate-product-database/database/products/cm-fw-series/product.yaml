@@ -1,0 +1,35 @@
+schemaVersion: 1
+id: cm-fw-series
+slug: cm-fw-series
+status: draft
+reviewStatus: source-verified-shared-images
+category: patient-care
+subcategory: pressure-relief
+name:
+  en: Foam Positioning Wedge
+variants:
+- sku: CM-FW23
+- sku: CM-FW24
+description:
+  en: ''
+features:
+  en:
+  - 'Two firmness options: Soft & Firm'
+  - High-density PU foam core for stable support; PVC synthetic leather + pongee backing, fluid-resistant,
+    easy-clean & non-slip
+  - Angled support maintains proper patient alignment
+  - Textured non-slip base prevents shifting
+  - Rounded edges reduce pressure points for greater comfort
+  - Lightweight, easy to handle and long service life
+  - Vacuum sealed packaging, ≥7-day seal integrity; fully expands within 1 min, space-saving & hygienic,
+    single-patient use
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Foam Positioning Wedge
+  sourceType: catalogue-extracted
+editorialNotes:
+- The catalogue lists Soft and Firm options without explicitly mapping firmness or each photographed wedge
+  to a SKU.
+sortOrder: 1180

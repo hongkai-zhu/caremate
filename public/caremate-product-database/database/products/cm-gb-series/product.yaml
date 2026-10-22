@@ -1,0 +1,33 @@
+schemaVersion: 1
+id: cm-gb-series
+slug: cm-gb-series
+status: draft
+reviewStatus: source-verified
+category: patient-care
+subcategory: patient-transfer
+name:
+  en: Gait Belt
+variants:
+- sku: CM-GB60”
+- sku: CM-GB72”
+description:
+  en: ''
+features:
+  en:
+  - Soft breathable cotton-polyester blend
+  - Nickel-plated quick-release buckle, tensile strength ≥1500N for high safety
+  - Reinforced bar-tack stitching on stress points for extra load capacity
+  - Folded stitched edge to prevent fraying
+  - 3 color choices & 2 sizes with woven labels
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Gait Belt
+  sourceType: catalogue-extracted
+  modelSkus:
+  - CM-GB60”
+editorialNotes:
+- The catalogue uses a closing double quotation mark in the gait belt model names. Both photographed belts
+  are labelled 60 inches; the image is linked only to CM-GB60”.
+sortOrder: 1170

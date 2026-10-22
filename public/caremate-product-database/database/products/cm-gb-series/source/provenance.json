@@ -1,0 +1,38 @@
+{
+  "document": "new-catalogue.pdf",
+  "pdfPages": [
+    11
+  ],
+  "cataloguePages": [],
+  "textExtraction": "Embedded PDF text extraction with visual verification of the complete page.",
+  "notes": [
+    "The catalogue uses a closing double quotation mark in the gait belt model names. Both photographed belts are labelled 60 inches; the image is linked only to CM-GB60”.",
+    "No printed catalogue page numbers appear on this source spread.",
+    "Embedded images were extracted with their PDF soft masks, trimmed to remove empty borders, and placed on a white background without upscaling."
+  ],
+  "productId": "cm-gb-series",
+  "imageSources": [
+    {
+      "pdfPage": 11,
+      "ordinal": 4,
+      "xref": 7168,
+      "sourcePixelDimensions": [
+        413,
+        413
+      ],
+      "sourceNormalizedFile": "database/sources/new-catalogue/raw-images/pdf-page-11_img-04_xref-7168.webp",
+      "productFile": "images/hero.webp",
+      "cropBoxPixels": [
+        0,
+        36,
+        413,
+        378
+      ],
+      "outputPaddingPixels": 10,
+      "modelSkus": [
+        "CM-GB60”"
+      ]
+    }
+  ],
+  "sourceTextPolicy": "Catalogue wording and model names are preserved. Line-wrap artifacts were removed. No unsupported model-to-image relationship was invented."
+}

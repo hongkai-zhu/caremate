@@ -1,0 +1,40 @@
+schemaVersion: 1
+id: cm-as-series
+slug: cm-as-series
+status: draft
+reviewStatus: source-verified-shared-images
+category: patient-care
+subcategory: patient-transfer
+name:
+  en: Air Sheet for Patient Transfer
+variants:
+- sku: CM-AS7232
+- sku: CM-AS7840
+description:
+  en: Air Transfer Mattress / Patient Transfer Air Mat
+features:
+  en:
+  - 'Air cushion technology: perforated bottom releases air to form air film, reduces friction for smooth
+    & safe patient transfer'
+  - 'Lower risk of caregiver injury: less pulling/lifting, improves safety & efficiency for lateral transfer'
+  - 'High weight capacity: standard up to 500 lbs (227 kg); bariatric version up to 1000 lbs (454 kg)'
+  - 'Reinforced grab handles: 8–12 heavy-duty perimeter handles for secure multi-person transfer'
+  - 'Universal pump compatibility: works with standard medical air pumps or portable blowers (pump not
+    included)'
+  - 'Easy to clean & maintain: wipeable with hospital-grade disinfectant for infection control'
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Air Sheet for Patient Transfer
+  sourceType: catalogue-extracted
+- role: detail
+  file: images/gallery-02.webp
+  alt:
+    en: Air Sheet for Patient Transfer - standard and bariatric size and weight capacity diagram
+  sourceType: catalogue-extracted
+editorialNotes:
+- 'The size diagram shows Standard: 72 x 32 inches (183 x 81 cm), up to 500 lbs (227 kg); Bariatric: 78
+  x 40 inches (198 x 102 cm), up to 1,000 lbs (454 kg). It does not explicitly label these illustrations
+  with model SKUs, so model-specific specifications and image mappings are not inferred.'
+sortOrder: 1200

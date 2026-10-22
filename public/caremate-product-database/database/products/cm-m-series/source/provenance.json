@@ -1,0 +1,53 @@
+{
+  "document": "new-catalogue.pdf",
+  "pdfPages": [
+    13
+  ],
+  "cataloguePages": [],
+  "textExtraction": "Embedded PDF text extraction with visual verification of the complete page.",
+  "notes": [
+    "The catalogue does not explicitly associate the mattress photograph or foam cutaway with an individual model.",
+    "No printed catalogue page numbers appear on this source spread.",
+    "Embedded images were extracted with their PDF soft masks, trimmed to remove empty borders, and placed on a white background without upscaling."
+  ],
+  "productId": "cm-m-series",
+  "imageSources": [
+    {
+      "pdfPage": 13,
+      "ordinal": 1,
+      "xref": 7614,
+      "sourcePixelDimensions": [
+        1024,
+        1020
+      ],
+      "sourceNormalizedFile": "database/sources/new-catalogue/raw-images/pdf-page-13_img-01_xref-7614.webp",
+      "productFile": "images/hero.webp",
+      "cropBoxPixels": [
+        228,
+        179,
+        697,
+        795
+      ],
+      "outputPaddingPixels": 15
+    },
+    {
+      "pdfPage": 13,
+      "ordinal": 5,
+      "xref": 7615,
+      "sourcePixelDimensions": [
+        1181,
+        1181
+      ],
+      "sourceNormalizedFile": "database/sources/new-catalogue/raw-images/pdf-page-13_img-05_xref-7615.webp",
+      "productFile": "images/gallery-02.webp",
+      "cropBoxPixels": [
+        139,
+        367,
+        1011,
+        787
+      ],
+      "outputPaddingPixels": 22
+    }
+  ],
+  "sourceTextPolicy": "Catalogue wording and model names are preserved. Line-wrap artifacts were removed. No unsupported model-to-image relationship was invented."
+}

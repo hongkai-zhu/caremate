@@ -1,0 +1,35 @@
+{
+  "document": "new-catalogue.pdf",
+  "pdfPages": [
+    11
+  ],
+  "cataloguePages": [],
+  "textExtraction": "Embedded PDF text extraction with visual verification of the complete page.",
+  "notes": [
+    "The catalogue lists Soft and Firm options without explicitly mapping firmness or each photographed wedge to a SKU.",
+    "No printed catalogue page numbers appear on this source spread.",
+    "Embedded images were extracted with their PDF soft masks, trimmed to remove empty borders, and placed on a white background without upscaling."
+  ],
+  "productId": "cm-fw-series",
+  "imageSources": [
+    {
+      "pdfPage": 11,
+      "ordinal": 5,
+      "xref": 7169,
+      "sourcePixelDimensions": [
+        850,
+        850
+      ],
+      "sourceNormalizedFile": "database/sources/new-catalogue/raw-images/pdf-page-11_img-05_xref-7169.webp",
+      "productFile": "images/hero.webp",
+      "cropBoxPixels": [
+        43,
+        19,
+        806,
+        840
+      ],
+      "outputPaddingPixels": 21
+    }
+  ],
+  "sourceTextPolicy": "Catalogue wording and model names are preserved. Line-wrap artifacts were removed. No unsupported model-to-image relationship was invented."
+}

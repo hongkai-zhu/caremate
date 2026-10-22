@@ -21,18 +21,7 @@ DATABASE = ROOT / "database"
 PRODUCTS_DIR = DATABASE / "products"
 GENERATED_DIR = DATABASE / "generated"
 CATEGORIES_PATH = DATABASE / "categories.yaml"
-SOURCE_METADATA_PATH = (
-    DATABASE
-    / "sources"
-    / "catalogue-caremate-506"
-    / "source-metadata.json"
-)
-SOURCE_MANIFEST_PATH = (
-    DATABASE
-    / "sources"
-    / "catalogue-caremate-506"
-    / "source-image-manifest.json"
-)
+SOURCES_DIR = DATABASE / "sources"
 SLUG_RE = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
 IMAGE_EXTENSIONS = {".webp", ".png", ".jpg", ".jpeg", ".avif"}
 IMAGE_SOURCE_TYPES = {"catalogue-extracted", "replacement", "edited"}
@@ -321,11 +310,11 @@ def sha256_file(path: Path) -> str:
     return digest.hexdigest()
 
 
-def validate_source_images() -> set[str]:
-    manifest = load_json(SOURCE_MANIFEST_PATH, list)
+def validate_source_images(manifest_path: Path) -> set[str]:
+    manifest = load_json(manifest_path, list)
     candidate_source_files: set[str] = set()
     for index, item in enumerate(manifest):
-        where = f"source-image-manifest[{index}]"
+        where = f"{manifest_path}[{index}]"
         require(isinstance(item, dict), f"{where}: must be an object")
         if item["classification"] != "candidate":
             continue
@@ -374,7 +363,25 @@ def main() -> int:
         categories = categories_doc.get("categories")
         require(isinstance(categories, list), "categories.yaml: categories must be a list")
         category_ids = {item["id"] for item in categories}
-        candidate_source_files = validate_source_images()
+        source_metadata_paths = sorted(SOURCES_DIR.glob("*/source-metadata.json"))
+        require(bool(source_metadata_paths), "no catalogue source metadata found")
+        sources = []
+        candidate_source_files: set[str] = set()
+        for metadata_path in source_metadata_paths:
+            source = load_json(metadata_path, dict)
+            source_files = validate_source_images(
+                metadata_path.with_name("source-image-manifest.json")
+            )
+            require(
+                not candidate_source_files.intersection(source_files),
+                f"{metadata_path}: source images overlap another catalogue",
+            )
+            require(
+                len(source_files) == source["candidateSourceImageCount"],
+                f"{metadata_path}: candidate image count does not match manifest",
+            )
+            candidate_source_files.update(source_files)
+            sources.append({"id": metadata_path.parent.name, **source})
 
         products: list[dict[str, Any]] = []
         ids: set[str] = set()
@@ -410,16 +417,16 @@ def main() -> int:
             products.append(normalized)
 
         products.sort(key=lambda item: (item["sortOrder"], item["id"]))
-        source_metadata = load_json(SOURCE_METADATA_PATH, dict)
         require(
-            len(products) == source_metadata["productRecordCount"],
+            len(products) == sum(source["productRecordCount"] for source in sources),
             "record count does not match source metadata",
         )
 
         index = {
             "schemaVersion": 1,
             "metadata": {
-                **source_metadata,
+                "sources": sources,
+                "candidateSourceImageCount": len(candidate_source_files),
                 "productRecordCount": len(products),
                 "skuCount": len(skus),
                 "sourceOfTruth": "database/products/*/product.yaml",

@@ -1,0 +1,32 @@
+schemaVersion: 1
+id: cm-hp1511
+slug: cm-hp1511
+status: draft
+reviewStatus: source-verified
+category: patient-care
+subcategory: pressure-relief
+name:
+  en: Heel Protector
+variants:
+- sku: CM-HP1511
+description:
+  en: Pressure Injury Prevention
+features:
+  en:
+  - One size fits most
+  - Polyfoam cushioning evenly distributes heel pressure to prevent pressure injury
+  - Adjustable velcro closure, secure & easy fitting
+  - Bilateral DVT openings, compatible with compression pump sleeves
+  - Brushed soft interior, skin-friendly and moisture-wicking
+  - Latex-free material, safe for sensitive patients
+  - Fully expands within 1 minute after unpacking
+images:
+- role: hero
+  file: images/hero.webp
+  alt:
+    en: Heel Protector
+  sourceType: catalogue-extracted
+  modelSkus:
+  - CM-HP1511
+editorialNotes: []
+sortOrder: 1190

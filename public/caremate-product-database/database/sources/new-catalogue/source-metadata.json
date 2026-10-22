@@ -1,0 +1,15 @@
+{
+  "sourceDocument": "new-catalogue.pdf",
+  "pdfPageCount": 13,
+  "importedPdfPages": [
+    11,
+    12,
+    13
+  ],
+  "cataloguePagesPresent": [],
+  "productRecordCount": 5,
+  "candidateSourceImageCount": 7,
+  "completenessNote": "Supplemental import of the five requested product families on PDF pages 11-13 only. Earlier pages and background graphics are outside this import; printed page numbers are absent on these three spreads.",
+  "sourcePdfSha256": "c1c9ba3f930a0179b91f633c783a81131f431383b444057aca38412cac628e39",
+  "sourcePdfSizeBytes": 25227596
+}

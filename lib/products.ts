@@ -109,7 +109,7 @@ const categoryContent: Record<
   "patient-care": {
     eyebrow: "Patient care",
     description:
-      "Browse pressure infusors and pressure-relief products for patient-care settings.",
+      "Browse pressure infusors, patient transfer aids, and pressure-relief products for patient-care settings.",
     featuredProductId: "cm-pi-pressure-infusor-series",
   },
 }
@@ -141,6 +141,7 @@ const subcategoryNames: Record<string, string> = {
   eartips: "Eartips",
   "pressure-relief": "Pressure Relief",
   "pressure-infusors": "Pressure Infusors",
+  "patient-transfer": "Patient Transfer",
 }
 
 export const productCategories = [...productIndex.categories].sort(

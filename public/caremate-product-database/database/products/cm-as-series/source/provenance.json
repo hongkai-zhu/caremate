@@ -1,0 +1,53 @@
+{
+  "document": "new-catalogue.pdf",
+  "pdfPages": [
+    12
+  ],
+  "cataloguePages": [],
+  "textExtraction": "Embedded PDF text extraction with visual verification of the complete page.",
+  "notes": [
+    "The size diagram shows Standard: 72 x 32 inches (183 x 81 cm), up to 500 lbs (227 kg); Bariatric: 78 x 40 inches (198 x 102 cm), up to 1,000 lbs (454 kg). It does not explicitly label these illustrations with model SKUs, so model-specific specifications and image mappings are not inferred.",
+    "No printed catalogue page numbers appear on this source spread.",
+    "Embedded images were extracted with their PDF soft masks, trimmed to remove empty borders, and placed on a white background without upscaling."
+  ],
+  "productId": "cm-as-series",
+  "imageSources": [
+    {
+      "pdfPage": 12,
+      "ordinal": 1,
+      "xref": 8196,
+      "sourcePixelDimensions": [
+        1024,
+        1536
+      ],
+      "sourceNormalizedFile": "database/sources/new-catalogue/raw-images/pdf-page-12_img-01_xref-8196.webp",
+      "productFile": "images/hero.webp",
+      "cropBoxPixels": [
+        53,
+        269,
+        563,
+        934
+      ],
+      "outputPaddingPixels": 17
+    },
+    {
+      "pdfPage": 12,
+      "ordinal": 6,
+      "xref": 8198,
+      "sourcePixelDimensions": [
+        425,
+        425
+      ],
+      "sourceNormalizedFile": "database/sources/new-catalogue/raw-images/pdf-page-12_img-06_xref-8198.webp",
+      "productFile": "images/gallery-02.webp",
+      "cropBoxPixels": [
+        17,
+        73,
+        409,
+        352
+      ],
+      "outputPaddingPixels": 10
+    }
+  ],
+  "sourceTextPolicy": "Catalogue wording and model names are preserved. Line-wrap artifacts were removed. No unsupported model-to-image relationship was invented."
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "pdfPage": 11,
+    "cataloguePages": [],
+    "ordinal": 4,
+    "xref": 7168,
+    "smask": 7170,
+    "pixelWidth": 413,
+    "pixelHeight": 413,
+    "bbox": [
+      114.24,
+      205.52,
+      494.36,
+      585.64
+    ],
+    "classification": "candidate",
+    "classificationReason": "Product photograph or specification diagram for one of the five requested additions.",
+    "normalizedFile": "database/sources/new-catalogue/raw-images/pdf-page-11_img-04_xref-7168.webp",
+    "normalizedSha256": "c252f2d473fc9b5519df9b4b9951f01c9f2773fbdf87e958915581e67456e264",
+    "productIds": [
+      "cm-gb-series"
+    ],
+    "normalizedPixelWidth": 413,
+    "normalizedPixelHeight": 413
+  },
+  {
+    "pdfPage": 11,
+    "cataloguePages": [],
+    "ordinal": 5,
+    "xref": 7169,
+    "smask": 0,
+    "pixelWidth": 850,
+    "pixelHeight": 850,
+    "bbox": [
+      692.54,
+      194.03,
+      1095.64,
+      597.13
+    ],
+    "classification": "candidate",
+    "classificationReason": "Product photograph or specification diagram for one of the five requested additions.",
+    "normalizedFile": "database/sources/new-catalogue/raw-images/pdf-page-11_img-05_xref-7169.webp",
+    "normalizedSha256": "6faa4b35f299044246757d2586e0cd09825b2b4dbace3b01886e199f19c6a108",
+    "productIds": [
+      "cm-fw-series"
+    ],
+    "normalizedPixelWidth": 850,
+    "normalizedPixelHeight": 850
+  },
+  {
+    "pdfPage": 12,
+    "cataloguePages": [],
+    "ordinal": 2,
+    "xref": 8197,
+    "smask": 8200,
+    "pixelWidth": 1024,
+    "pixelHeight": 1535,
+    "bbox": [
+      0.32,
+      60.62,
+      571.0,
+      916.08
+    ],
+    "classification": "candidate",
+    "classificationReason": "Product photograph or specification diagram for one of the five requested additions.",
+    "normalizedFile": "database/sources/new-catalogue/raw-images/pdf-page-12_img-02_xref-8197.webp",
+    "normalizedSha256": "d0cfe4882ac056d1ffb1de5c0e7b07452017cddd8d1bf99acb69cbbb8d8f88e4",
+    "productIds": [
+      "cm-hp1511"
+    ],
+    "normalizedPixelWidth": 1024,
+    "normalizedPixelHeight": 1535
+  },
+  {
+    "pdfPage": 12,
+    "cataloguePages": [],
+    "ordinal": 1,
+    "xref": 8196,
+    "smask": 8201,
+    "pixelWidth": 1024,
+    "pixelHeight": 1536,
+    "bbox": [
+      623.63,
+      10.0,
+      1250.38,
+      950.11
+    ],
+    "classification": "candidate",
+    "classificationReason": "Product photograph or specification diagram for one of the five requested additions.",
+    "normalizedFile": "database/sources/new-catalogue/raw-images/pdf-page-12_img-01_xref-8196.webp",
+    "normalizedSha256": "f1b28848d25a368010495877fb0cc91a82131e0a8389bb00a71d6d68dd0f7234",
+    "productIds": [
+      "cm-as-series"
+    ],
+    "normalizedPixelWidth": 1024,
+    "normalizedPixelHeight": 1536
+  },
+  {
+    "pdfPage": 12,
+    "cataloguePages": [],
+    "ordinal": 6,
+    "xref": 8198,
+    "smask": 8199,
+    "pixelWidth": 425,
+    "pixelHeight": 425,
+    "bbox": [
+      957.36,
+      395.02,
+      1164.0,
+      621.75
+    ],
+    "classification": "candidate",
+    "classificationReason": "Product photograph or specification diagram for one of the five requested additions.",
+    "normalizedFile": "database/sources/new-catalogue/raw-images/pdf-page-12_img-06_xref-8198.webp",
+    "normalizedSha256": "8eadbb70142b0471b60a28e6177a968d7f713195968641d283c76e12a9997a3a",
+    "productIds": [
+      "cm-as-series"
+    ],
+    "normalizedPixelWidth": 425,
+    "normalizedPixelHeight": 425
+  },
+  {
+    "pdfPage": 13,
+    "cataloguePages": [],
+    "ordinal": 1,
+    "xref": 7614,
+    "smask": 7617,
+    "pixelWidth": 1024,
+    "pixelHeight": 1020,
+    "bbox": [
+      65.81,
+      41.34,
+      672.03,
+      645.2
+    ],
+    "classification": "candidate",
+    "classificationReason": "Product photograph or specification diagram for one of the five requested additions.",
+    "normalizedFile": "database/sources/new-catalogue/raw-images/pdf-page-13_img-01_xref-7614.webp",
+    "normalizedSha256": "fb36a02de3d312e0051d2551bc41a4d52ecf42715427d109b916590277a8ff8d",
+    "productIds": [
+      "cm-m-series"
+    ],
+    "normalizedPixelWidth": 1024,
+    "normalizedPixelHeight": 1020
+  },
+  {
+    "pdfPage": 13,
+    "cataloguePages": [],
+    "ordinal": 5,
+    "xref": 7615,
+    "smask": 7616,
+    "pixelWidth": 1181,
+    "pixelHeight": 1181,
+    "bbox": [
+      18.24,
+      375.21,
+      301.68,
+      658.65
+    ],
+    "classification": "candidate",
+    "classificationReason": "Product photograph or specification diagram for one of the five requested additions.",
+    "normalizedFile": "database/sources/new-catalogue/raw-images/pdf-page-13_img-05_xref-7615.webp",
+    "normalizedSha256": "e7e2b76d95724173719c912d58fc9c69c96f9c742b81fb0cb9f54ec91375656b",
+    "productIds": [
+      "cm-m-series"
+    ],
+    "normalizedPixelWidth": 1181,
+    "normalizedPixelHeight": 1181
+  }
+]
